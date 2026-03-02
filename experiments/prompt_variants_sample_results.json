@@ -1,0 +1,27 @@
+{
+  "baseline": {
+    "avg_score": 0.5,
+    "full_match": 21,
+    "full_match_pct": 42.0
+  },
+  "v1_shorter": {
+    "avg_score": 0.47,
+    "full_match": 21,
+    "full_match_pct": 42.0
+  },
+  "v2_temporal": {
+    "avg_score": 0.51,
+    "full_match": 24,
+    "full_match_pct": 48.0
+  },
+  "v3_explicit_multi": {
+    "avg_score": 0.3,
+    "full_match": 13,
+    "full_match_pct": 26.0
+  },
+  "v4_elimination": {
+    "avg_score": 0.31,
+    "full_match": 10,
+    "full_match_pct": 20.0
+  }
+}

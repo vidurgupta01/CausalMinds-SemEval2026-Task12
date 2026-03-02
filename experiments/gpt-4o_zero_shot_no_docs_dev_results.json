@@ -1,0 +1,2821 @@
+{
+  "config": {
+    "model": "gpt-4o",
+    "prompt_type": "zero_shot",
+    "include_docs": false,
+    "split": "dev",
+    "num_samples": 400
+  },
+  "metrics": {
+    "average_score": 0.6825,
+    "full_match": 239,
+    "partial_match": 68,
+    "incorrect": 93,
+    "total": 400,
+    "full_match_rate": 0.5975,
+    "partial_match_rate": 0.17,
+    "incorrect_rate": 0.2325
+  },
+  "predictions": [
+    {
+      "id": "q-2020",
+      "target_event": "President Yoon Suk Yeol vowed to carry out a thorough investigation.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2021",
+      "target_event": "Twitter removed Trump's tweets and locked his account.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2022",
+      "target_event": "President Donald Trump proposed tariffs on steel and aluminum.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2023",
+      "target_event": "On November 24, 2018, \"yellow vest\" protestors blocked the Champs Elys\u00e9es in Paris, leading to confrontations.",
+      "prediction": "A,B,C",
+      "gold": "A,B,C",
+      "response": "A,B,C"
+    },
+    {
+      "id": "q-2024",
+      "target_event": "On November 26, 2018, the first trials for those arrested on November 24 took place.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2025",
+      "target_event": "South Korea banned seafood imports from the Fukushima area.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2026",
+      "target_event": "The company intends to begin trading under the stock ticker MVRS on December 1.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2027",
+      "target_event": "Huawei released a TV running HarmonyOS.",
+      "prediction": "A",
+      "gold": "A,B",
+      "response": "A"
+    },
+    {
+      "id": "q-2028",
+      "target_event": "The chairmen of Credit Suisse and UBS announced a union on March 19th in Bern.",
+      "prediction": "A,D",
+      "gold": "A",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2029",
+      "target_event": "Facebook changed its corporate name to Meta on October 28 at the company's annual Connect event.",
+      "prediction": "A,C",
+      "gold": "A,C,D",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2030",
+      "target_event": "Myanmar's military-dominated government issued a plea for outside help.",
+      "prediction": "A,C,D",
+      "gold": "A,C,D",
+      "response": "A,C,D"
+    },
+    {
+      "id": "q-2031",
+      "target_event": "The Chinese government criticized Japan\u2019s plan to release wastewater.",
+      "prediction": "C",
+      "gold": "B,C",
+      "response": "C"
+    },
+    {
+      "id": "q-2032",
+      "target_event": "US Treasury Secretary Janet Yellen called financial regulators together to discuss the situation.",
+      "prediction": "A,B,C",
+      "gold": "B,C",
+      "response": "A,B,C"
+    },
+    {
+      "id": "q-2033",
+      "target_event": "Three former Minneapolis police officers were criminally charged with aiding and abetting second-degree murder in connection with Floyd's death, and Chauvin's charge was upgraded to second-degree murder.",
+      "prediction": "A,D",
+      "gold": "A,C,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2034",
+      "target_event": "President Joe Biden approved a major disaster declaration for Texas.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2035",
+      "target_event": "Liz Truss announced her resignation as Prime Minister on October 20.",
+      "prediction": "A,C",
+      "gold": "A,C,D",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2036",
+      "target_event": "Doctors at several hospitals pledged to go on strike to protest the coup.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2037",
+      "target_event": "Widespread protests erupted across the nation, including at Lafayette Square in Washington, D.C.",
+      "prediction": "C,D",
+      "gold": "C,D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2038",
+      "target_event": "Wagner forces advanced towards Moscow with a column of armored vehicles.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2039",
+      "target_event": "Time Magazine named 'the Silence Breakers' Person of the Year in December 2017.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2040",
+      "target_event": "Prime Minister Fumio Kishida announced Japan would begin discharging treated radioactive water from the Fukushima Daiichi plant into the sea as early as Thursday.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2041",
+      "target_event": "Local governments established public mourning sites.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2042",
+      "target_event": "Signature Bank failed after a bank run.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2043",
+      "target_event": "Yoon's senior aides and defense minister offered to resign.",
+      "prediction": "C",
+      "gold": "A,D",
+      "response": "C"
+    },
+    {
+      "id": "q-2044",
+      "target_event": "The House and Senate recessed, and the Capitol was locked down.",
+      "prediction": "A,D",
+      "gold": "A,B,C",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2045",
+      "target_event": "Security arrested the suspected gunman, Tetsuya Yamagami.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2046",
+      "target_event": "Nvidia's market cap briefly reached $1 trillion on Tuesday, following its report of better-than-expected Q1 revenues and a prediction of Q2 revenues 50% above analyst expectations.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2047",
+      "target_event": "Goldman Sachs estimated that AI systems like ChatGPT could automate up to 300 million jobs worldwide.",
+      "prediction": "A",
+      "gold": "C",
+      "response": "A"
+    },
+    {
+      "id": "q-2048",
+      "target_event": "Ontario placed a 25% tax on electricity exports to the U.S.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2049",
+      "target_event": "The United Kingdom held a referendum on June 23.",
+      "prediction": "A,C",
+      "gold": "A,B,C",
+      "response": "A, C"
+    },
+    {
+      "id": "q-2050",
+      "target_event": "The tariff announcement triggered a global meltdown in stock markets.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2051",
+      "target_event": "The Iraqi parliament voted to expel US troops from Iraq.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2052",
+      "target_event": "DeepSeek launched its V2 model, which triggered a price war in China's AI industry.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2053",
+      "target_event": "Clinical trials began to test potential treatments and vaccines for COVID-19.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2054",
+      "target_event": "Austin and San Antonio issued boil-water notices.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2055",
+      "target_event": "U.S. government regulators announced they would fully cover deposits at both SVB and Signature Bank.",
+      "prediction": "A,B,C",
+      "gold": "C,D",
+      "response": "A,B,C"
+    },
+    {
+      "id": "q-2056",
+      "target_event": "Musk suspended accounts of prominent journalists.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2057",
+      "target_event": "Trump was permanently banned from Twitter on January 8th.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2058",
+      "target_event": "The Bank of England intervened on September 28 by announcing a temporary purchase of \u00a365 billion worth of long-dated UK government bonds.",
+      "prediction": "C,D",
+      "gold": "C,D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2059",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2060",
+      "target_event": "Trade controls forced Chinese researchers to use freely available tools creatively.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2061",
+      "target_event": "Liz Truss fired Treasury chief Kwasi Kwarteng.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2062",
+      "target_event": "Doctors at several hospitals pledged to go on strike to protest the coup.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2063",
+      "target_event": "Coinbase introduced its Coinbase Payments platform enabling merchants to accept USDC stablecoin payments.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2064",
+      "target_event": "Putin delivered a televised address accusing Prigozhin of treason.",
+      "prediction": "C,D",
+      "gold": "C,D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2065",
+      "target_event": "DeepSeek-R1\u2019s application became the most downloaded free AI app on the US Apple App Store.",
+      "prediction": "B",
+      "gold": "C",
+      "response": "B"
+    },
+    {
+      "id": "q-2066",
+      "target_event": "The Iraqi parliament voted to expel US troops from Iraq.",
+      "prediction": "B,C,D",
+      "gold": "C,D",
+      "response": "B,C,D"
+    },
+    {
+      "id": "q-2067",
+      "target_event": "Global markets plunged following the Brexit vote.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2068",
+      "target_event": "On August 15, 2021, the Taliban seized the presidential palace in Kabul and declared the war over.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2069",
+      "target_event": "A woman was shot inside the Capitol and died.",
+      "prediction": "B,D",
+      "gold": "B,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2070",
+      "target_event": "A TEPCO staff member activated a seawater pump and an operator confirmed the release.",
+      "prediction": "C,D",
+      "gold": "C,D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2071",
+      "target_event": "On September 10, 2020, a mobile home park was destroyed by fire in Phoenix, Oregon, causing hundreds of homes to be lost.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2072",
+      "target_event": "Andrew Bosworth announced the retirement of the Oculus name.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2073",
+      "target_event": "The district officially unveiled Black Lives Matter Plaza on June 5, 2020.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2074",
+      "target_event": "Security arrested the suspected gunman, Tetsuya Yamagami.",
+      "prediction": "C,D",
+      "gold": "D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2075",
+      "target_event": "Goldman Sachs estimated that AI systems like ChatGPT could automate up to 300 million jobs worldwide.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2076",
+      "target_event": "Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.",
+      "prediction": "C,D",
+      "gold": "D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2077",
+      "target_event": "On January 20, 2025, President Donald Trump sought to delay enforcement of the 2024 law banning TikTok distribution, intending to work out a divestment deal.",
+      "prediction": "A",
+      "gold": "A,B",
+      "response": "A"
+    },
+    {
+      "id": "q-2078",
+      "target_event": "Mr. Musk stated DOGE participants will not be paid and requested they work 80-hour weeks.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2079",
+      "target_event": "Myanmar\u2019s military imposed a nationwide 8pm to 6am curfew.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2080",
+      "target_event": "Over four million customers were without power in Texas.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2081",
+      "target_event": "On June 17, 2025, the U.S. Senate passed the GENIUS Act.",
+      "prediction": "C",
+      "gold": "A",
+      "response": "C"
+    },
+    {
+      "id": "q-2082",
+      "target_event": "President Yoon Suk Yeol was immediately suspended from exercising his powers.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2083",
+      "target_event": "Ontario placed a 25% tax on electricity exports to the U.S.",
+      "prediction": "C,D",
+      "gold": "C,D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2084",
+      "target_event": "Lawmakers voted down the martial law decree.",
+      "prediction": "C,D",
+      "gold": "A",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2085",
+      "target_event": "The Chinese government criticized Japan\u2019s plan to release wastewater.",
+      "prediction": "B",
+      "gold": "A,B",
+      "response": "B"
+    },
+    {
+      "id": "q-2086",
+      "target_event": "Taliban fighters celebrated following the U.S. departure.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2087",
+      "target_event": "Protesters rallied in Tokyo on August 24, 2023, against the Japanese government\u2019s plan to release treated wastewater from the Fukushima-Daiichi power plant.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2088",
+      "target_event": "Over 2 million Texas residents were left without electricity.",
+      "prediction": "B,D",
+      "gold": "B,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2089",
+      "target_event": "Nvidia's market cap briefly reached $1 trillion on Tuesday, following its report of better-than-expected Q1 revenues and a prediction of Q2 revenues 50% above analyst expectations.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2090",
+      "target_event": "Sinn Fein called for a referendum on Irish unity.",
+      "prediction": "D",
+      "gold": "C,D",
+      "response": "D"
+    },
+    {
+      "id": "q-2091",
+      "target_event": "Over 2 million Texas residents were left without electricity.",
+      "prediction": "A",
+      "gold": "A,B",
+      "response": "A"
+    },
+    {
+      "id": "q-2092",
+      "target_event": "Donald Trump hailed a $500 billion plan by OpenAI, SoftBank, and Oracle.",
+      "prediction": "C",
+      "gold": "A,B",
+      "response": "C"
+    },
+    {
+      "id": "q-2093",
+      "target_event": "Wagner forces advanced towards Moscow with a column of armored vehicles.",
+      "prediction": "A,B,D",
+      "gold": "B,D",
+      "response": "A, B, D"
+    },
+    {
+      "id": "q-2094",
+      "target_event": "Protesters clashed with police and breached security barriers at the Capitol.",
+      "prediction": "A",
+      "gold": "A,B,C",
+      "response": "A"
+    },
+    {
+      "id": "q-2095",
+      "target_event": "Prime Minister Han Duck-soo became acting president.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2096",
+      "target_event": "The Los Angeles Mayor agreed to increase the LAPD budget cut to $150 million, to be redistributed to non-profit agencies.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2097",
+      "target_event": "Nvidia set a new company revenue record.",
+      "prediction": "D",
+      "gold": "A,D",
+      "response": "D"
+    },
+    {
+      "id": "q-2098",
+      "target_event": "Widespread protests erupted across the nation, including at Lafayette Square in Washington, D.C.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2099",
+      "target_event": "On August 15, 2021, Afghan President Ashraf Ghani fled the country.",
+      "prediction": "A,B",
+      "gold": "A,B,D",
+      "response": "A, B"
+    },
+    {
+      "id": "q-2100",
+      "target_event": "Wagner troops withdrew from Rostov, the Lipetsk region, and Moscow.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2101",
+      "target_event": "On July 9, 2021, Interior Minister Mohammad Fehmi refused Bitar\u2019s request to prosecute Ibrahim; Bitar appealed, but Cassation Attorney General Ghassan Khoury denied the request.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2102",
+      "target_event": "ERCOT initiated rolling outages, leaving millions of Texans without power.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2103",
+      "target_event": "Nvidia shares surged 24% to a record high, triggering a stock rally for Nvidia and other AI-adjacent businesses.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2104",
+      "target_event": "On July 28-29, 2021, the Beirut and Tripoli Bar Associations approved Bitar\u2019s requests to prosecute Khalil, Zeaiter, and Fenianos.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2105",
+      "target_event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2106",
+      "target_event": "The Lidia fire ignited in Angeles National Forest.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2107",
+      "target_event": "World leaders expressed shock and condemned the murder.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2108",
+      "target_event": "Lawmakers voted down the martial law decree.",
+      "prediction": "A,B",
+      "gold": "B",
+      "response": "A, B"
+    },
+    {
+      "id": "q-2109",
+      "target_event": "Credit Suisse shareholders will receive one UBS share for every 22.48 Credit Suisse shares.",
+      "prediction": "A,B",
+      "gold": "A,B",
+      "response": "A, B"
+    },
+    {
+      "id": "q-2110",
+      "target_event": "Iraqi caretaker Prime Minister Adel Abdul Mahdi condemned the US air raid as a violation of Iraq\u2019s sovereignty.",
+      "prediction": "C,D",
+      "gold": "C",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2111",
+      "target_event": "A TEPCO staff member activated a seawater pump and an operator confirmed the release.",
+      "prediction": "A,B",
+      "gold": "A,B",
+      "response": "A, B"
+    },
+    {
+      "id": "q-2112",
+      "target_event": "Emergency workers from around the country were deployed to Itaewon to treat the injured.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2113",
+      "target_event": "Huawei ensured HarmonyOS supports applications developed in multiple programming languages.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2114",
+      "target_event": "Officials confirmed on Monday that the death toll rose to 154 and 149 people were injured.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2115",
+      "target_event": "Huawei\u2019s smartphone sales suffered in international markets.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2116",
+      "target_event": "Arizona\u2019s constitutional right to abortion amendment passed.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2117",
+      "target_event": "On December 31, pro-Iranian protesters attacked the US Embassy in Baghdad.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2118",
+      "target_event": "Austin and San Antonio issued boil-water notices.",
+      "prediction": "A",
+      "gold": "A,B,D",
+      "response": "A"
+    },
+    {
+      "id": "q-2119",
+      "target_event": "Credit Suisse shareholders will receive one UBS share for every 22.48 Credit Suisse shares.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2120",
+      "target_event": "The Time\u2019s Up initiative was announced on January 1, 2018.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2121",
+      "target_event": "The S&P 500 fell below its 200-day moving average on Monday.",
+      "prediction": "D",
+      "gold": "A,C",
+      "response": "D"
+    },
+    {
+      "id": "q-2122",
+      "target_event": "The army announced power was handed to commander-in-chief Min Aung Hlaing and declared a national state of emergency for one year.",
+      "prediction": "A,B,D",
+      "gold": "A,B,D",
+      "response": "A,B,D"
+    },
+    {
+      "id": "q-2123",
+      "target_event": "A Myanmar court convicted Aung San Suu Kyi and Sean Turnell to three years in jail for violating the official secrets act.",
+      "prediction": "B",
+      "gold": "A",
+      "response": "B"
+    },
+    {
+      "id": "q-2124",
+      "target_event": "Jeremy Hunt reversed most mini-budget policies three weeks later.",
+      "prediction": "B,D",
+      "gold": "B,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2125",
+      "target_event": "The Iraqi parliament voted to expel US troops from Iraq.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2126",
+      "target_event": "Huawei stated HarmonyOS will debut first on the Honor Smart Screen and Huawei TVs.",
+      "prediction": "D",
+      "gold": "B,D",
+      "response": "D"
+    },
+    {
+      "id": "q-2127",
+      "target_event": "On August 15, 2021, Afghan President Ashraf Ghani fled the country.",
+      "prediction": "A,B,C",
+      "gold": "A,B,C",
+      "response": "A, B, C"
+    },
+    {
+      "id": "q-2128",
+      "target_event": "Quebec planes and B.C. helicopters are battling the L.A. wildfires.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2129",
+      "target_event": "Widespread disruption occurred in internet and news access, and banks temporarily shut down across Myanmar following the coup.",
+      "prediction": "A",
+      "gold": "A,B,D",
+      "response": "A"
+    },
+    {
+      "id": "q-2130",
+      "target_event": "Protesters clashed with police and breached security barriers at the Capitol.",
+      "prediction": "A,B",
+      "gold": "A,B,D",
+      "response": "A,B"
+    },
+    {
+      "id": "q-2131",
+      "target_event": "Taliban fighters celebrated following the U.S. departure.",
+      "prediction": "C,D",
+      "gold": "D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2132",
+      "target_event": "DeepSeek-R1 achieved a Pass@1 score of 97.3% on MATH-500, surpassing OpenAI\u2019s o1.",
+      "prediction": "C",
+      "gold": "D",
+      "response": "C"
+    },
+    {
+      "id": "q-2133",
+      "target_event": "Regulators expedited the merger process between Credit Suisse and UBS to avert a crisis.",
+      "prediction": "B,D",
+      "gold": "B,C",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2134",
+      "target_event": "On August 15, 2021, the Taliban seized the presidential palace in Kabul and declared the war over.",
+      "prediction": "B,C",
+      "gold": "C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2135",
+      "target_event": "Opposition legislators filed an impeachment motion against President Yoon on Wednesday.",
+      "prediction": "A",
+      "gold": "A,C,D",
+      "response": "A"
+    },
+    {
+      "id": "q-2136",
+      "target_event": "DeepSeek released its large language model, DeepSeek-R1, on January 20.",
+      "prediction": "C",
+      "gold": "A",
+      "response": "C"
+    },
+    {
+      "id": "q-2137",
+      "target_event": "The Pentagon suspended operations against ISIS in Iraq and Syria.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2138",
+      "target_event": "David Lebryk departed his position at the Treasury Department.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2139",
+      "target_event": "Prime Minister Edouard Philippe announced nearly 500 million euros in aid for low-income motorists.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2140",
+      "target_event": "The FBI and ATF cleared the Capitol.",
+      "prediction": "A,D",
+      "gold": "B,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2141",
+      "target_event": "Facebook replaced its corporate sign outside its California headquarters with one featuring the Meta logo.",
+      "prediction": "B",
+      "gold": "A",
+      "response": "B"
+    },
+    {
+      "id": "q-2142",
+      "target_event": "On December 10, 2020, Judge Sawan charged Caretaker Prime Minister Hassan Diab and three former ministers with criminal negligence.",
+      "prediction": "C",
+      "gold": "B,C",
+      "response": "C"
+    },
+    {
+      "id": "q-2143",
+      "target_event": "Taliban fighters celebrated following the U.S. departure.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2144",
+      "target_event": "Trump authorized federal disaster aid for California and Oregon.",
+      "prediction": "B,C",
+      "gold": "A",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2145",
+      "target_event": "Goldman Sachs estimated that AI systems like ChatGPT could automate up to 300 million jobs worldwide.",
+      "prediction": "B,C",
+      "gold": "B",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2146",
+      "target_event": "Prigozhin went into exile in Belarus.",
+      "prediction": "C,D",
+      "gold": "C,D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2147",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "prediction": "A,C",
+      "gold": "A",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2148",
+      "target_event": "130 people were arrested across France, including 42 in Paris.",
+      "prediction": "A",
+      "gold": "A,C,D",
+      "response": "A"
+    },
+    {
+      "id": "q-2149",
+      "target_event": "Fire hotspots in indigenous territories increased by 88% from January to August compared to 2018, according to CIMI citing INPE data.",
+      "prediction": "A,B",
+      "gold": "C",
+      "response": "A, B"
+    },
+    {
+      "id": "q-2150",
+      "target_event": "Huawei stated it will first lay the foundation for operating systems in the Chinese market, then expand overseas.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2151",
+      "target_event": "President Bolsonaro announced a 60-day ban on setting fires for land clearing and deployed 44,000 soldiers to seven states.",
+      "prediction": "B,D",
+      "gold": "B,C,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2152",
+      "target_event": "Fire hotspots in indigenous territories increased by 88% from January to August compared to 2018, according to CIMI citing INPE data.",
+      "prediction": "B,D",
+      "gold": "C",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2153",
+      "target_event": "President Donald Trump proposed tariffs on steel and aluminum.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2154",
+      "target_event": "Up to six ERCOT board members resigned on February 24.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2155",
+      "target_event": "Germany and Norway withheld tens of millions of dollars from the Amazon Fund.",
+      "prediction": "A",
+      "gold": "B",
+      "response": "A"
+    },
+    {
+      "id": "q-2156",
+      "target_event": "Protesters rallied in Tokyo on August 24, 2023, against the Japanese government\u2019s plan to release treated wastewater from the Fukushima-Daiichi power plant.",
+      "prediction": "B",
+      "gold": "B,D",
+      "response": "B"
+    },
+    {
+      "id": "q-2157",
+      "target_event": "Huawei\u2019s smartphone sales suffered in international markets.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2158",
+      "target_event": "Seoul Mayor Oh Se-Hoon cut short a trip to Europe to return home.",
+      "prediction": "D",
+      "gold": "C,D",
+      "response": "D"
+    },
+    {
+      "id": "q-2159",
+      "target_event": "On January 20, 2025, President Donald Trump sought to delay enforcement of the 2024 law banning TikTok distribution, intending to work out a divestment deal.",
+      "prediction": "A",
+      "gold": "D",
+      "response": "A"
+    },
+    {
+      "id": "q-2160",
+      "target_event": "Authorities in Myanmar and Thailand declared a state of emergency.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2161",
+      "target_event": "Regional power generators spontaneously shut down, including three coal plants and a gas plant in Corpus Christi.",
+      "prediction": "C,D",
+      "gold": "C,D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2162",
+      "target_event": "Seoul Mayor Oh Se-Hoon cut short a trip to Europe to return home.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2163",
+      "target_event": "Donald Trump hailed a $500 billion plan by OpenAI, SoftBank, and Oracle.",
+      "prediction": "A",
+      "gold": "C",
+      "response": "A"
+    },
+    {
+      "id": "q-2164",
+      "target_event": "Jeremy Hunt reversed most mini-budget policies three weeks later.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2165",
+      "target_event": "Security arrested the suspected gunman, Tetsuya Yamagami.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2166",
+      "target_event": "OpenAI released ChatGPT Plus on February 1, 2023, and later introduced GPT-4 Turbo with Vision and GPT-4o to the public.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2167",
+      "target_event": "Three former Minneapolis police officers were criminally charged with aiding and abetting second-degree murder in connection with Floyd's death, and Chauvin's charge was upgraded to second-degree murder.",
+      "prediction": "A",
+      "gold": "A,C",
+      "response": "A"
+    },
+    {
+      "id": "q-2168",
+      "target_event": "130 people were arrested across France, including 42 in Paris.",
+      "prediction": "A,B",
+      "gold": "A,B",
+      "response": "A, B"
+    },
+    {
+      "id": "q-2169",
+      "target_event": "The reinforcement learning algorithm trained the final version of ChatGPT to produce high-scoring responses.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2170",
+      "target_event": "Credit Suisse shareholders will receive one UBS share for every 22.48 Credit Suisse shares.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2171",
+      "target_event": "Myanmar\u2019s military seized power on February 1, beginning a coup.",
+      "prediction": "A",
+      "gold": "A,B,C",
+      "response": "A"
+    },
+    {
+      "id": "q-2172",
+      "target_event": "The British pound plunged in value.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2173",
+      "target_event": "The New York Times published an investigation into Harvey Weinstein's sexual harassment on October 5, 2017.",
+      "prediction": "C",
+      "gold": "B",
+      "response": "C"
+    },
+    {
+      "id": "q-2174",
+      "target_event": "The Japanese government allocated $200 million to compensate the fishing industry and $340 million for local economic mitigation.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2175",
+      "target_event": "Jeremy Hunt reversed most mini-budget policies three weeks later.",
+      "prediction": "B",
+      "gold": "D",
+      "response": "B"
+    },
+    {
+      "id": "q-2176",
+      "target_event": "French President Emmanuel Macron announced France\u2019s withdrawal of support for the Mercosur trade deal.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2177",
+      "target_event": "The British pound plunged in value.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2178",
+      "target_event": "The Iranian government issued an intercity travel ban and closed schools, universities, national parks, and non-essential businesses on March 26.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2179",
+      "target_event": "Huawei announced a deployment timeline for HarmonyOS on various devices between 2020 and 2022.",
+      "prediction": "D",
+      "gold": "A,C,D",
+      "response": "D"
+    },
+    {
+      "id": "q-2180",
+      "target_event": "Belarusian President Alexander Lukashenko brokered a deal for Prigozhin to leave Russia.",
+      "prediction": "A,B",
+      "gold": "A,B,C",
+      "response": "A, B"
+    },
+    {
+      "id": "q-2181",
+      "target_event": "The Chinese government criticized Japan\u2019s plan to release wastewater.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2182",
+      "target_event": "Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.",
+      "prediction": "C,D",
+      "gold": "C",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2183",
+      "target_event": "A TEPCO staff member activated a seawater pump and an operator confirmed the release.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2184",
+      "target_event": "The Swiss National Bank pledged a loan of up to 100 billion Swiss francs to support the takeover.",
+      "prediction": "A",
+      "gold": "A,B,C",
+      "response": "A"
+    },
+    {
+      "id": "q-2185",
+      "target_event": "President Donald Trump proposed tariffs on steel and aluminum.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2186",
+      "target_event": "Prime Minister Fumio Kishida announced Japan would begin discharging treated radioactive water from the Fukushima Daiichi plant into the sea as early as Thursday.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2187",
+      "target_event": "Millions of people started using ChatGPT immediately after its launch.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2188",
+      "target_event": "By April 3, 2025, the death toll from the earthquake reached 4,390 in Myanmar, with over 5,490 injured.",
+      "prediction": "B,D",
+      "gold": "B,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2189",
+      "target_event": "The NOAA National Centers for Environmental Information released the final 2023 Billion-dollar disaster report.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2190",
+      "target_event": "DeepSeek-R1\u2019s application became the most downloaded free AI app on the US Apple App Store.",
+      "prediction": "A",
+      "gold": "A,C",
+      "response": "A"
+    },
+    {
+      "id": "q-2191",
+      "target_event": "The coronavirus pandemic halted the global economy.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2192",
+      "target_event": "The U.S. government mandated port and border closures and authorized immediate repatriation of asylum seekers on March 21.",
+      "prediction": "A,C",
+      "gold": "A",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2193",
+      "target_event": "Over three million Brits called for a do-over.",
+      "prediction": "C,D",
+      "gold": "C,D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2194",
+      "target_event": "President Bolsonaro announced a 60-day ban on setting fires for land clearing and deployed 44,000 soldiers to seven states.",
+      "prediction": "A,D",
+      "gold": "B,D",
+      "response": "A, D"
+    },
+    {
+      "id": "q-2195",
+      "target_event": "Huawei released a TV running HarmonyOS.",
+      "prediction": "C",
+      "gold": "B,C",
+      "response": "C"
+    },
+    {
+      "id": "q-2196",
+      "target_event": "International leaders and organizations condemned the military takeover in Myanmar.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2197",
+      "target_event": "The Italian government called in the military to enforce its lockdown and ordered non-essential businesses to close by March 22.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2198",
+      "target_event": "Women in media created an anonymously editable Google spreadsheet titled \u201cSHITTY MEDIA MEN\u201d to list men in media and allegations of inappropriate behavior.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2199",
+      "target_event": "A woman was shot inside the Capitol and died.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2200",
+      "target_event": "International leaders and organizations condemned the military takeover in Myanmar.",
+      "prediction": "B,D",
+      "gold": "B",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2201",
+      "target_event": "DeepSeek's app reached the top of U.S. free app charts within a week of its launch.",
+      "prediction": "B,D",
+      "gold": "A,B",
+      "response": "B, D"
+    },
+    {
+      "id": "q-2202",
+      "target_event": "Nvidia set a new company revenue record.",
+      "prediction": "B,C",
+      "gold": "B",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2203",
+      "target_event": "The Secret Service rushed President Trump and his family to a bunker after unrest outside the White House on May 29, 2020.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2204",
+      "target_event": "The US Senate will likely vote on Wednesday on a bill to halt Trump\u2019s tariffs on Canadian imports.",
+      "prediction": "B,D",
+      "gold": "B,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2205",
+      "target_event": "Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2206",
+      "target_event": "On July 2, 2021, Judge Bitar requested parliament lift immunity for former ministers Khalil, Zeaiter, and Nohad Machnouk, and sought permission from bar associations to prosecute Khalil, Zeaiter, and Fenianos.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2207",
+      "target_event": "President Yoon Suk-yeol declared a period of national mourning and designated Itaewon a disaster zone.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2208",
+      "target_event": "On December 29, US forces conducted airstrikes at five Kataib Hezbollah facilities in Iraq and Syria, killing at least 25 people.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2209",
+      "target_event": "Widespread disruption occurred in internet and news access, and banks temporarily shut down across Myanmar following the coup.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2210",
+      "target_event": "Global markets plunged following the Brexit vote.",
+      "prediction": "B",
+      "gold": "B,D",
+      "response": "B"
+    },
+    {
+      "id": "q-2211",
+      "target_event": "By April 3, 2025, the death toll from the earthquake reached 4,390 in Myanmar, with over 5,490 injured.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2212",
+      "target_event": "DeepSeek released its large language model, DeepSeek-R1, on January 20.",
+      "prediction": "B,D",
+      "gold": "D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2213",
+      "target_event": "The U.S. State Department confirmed at least two U.S. citizens were among the dead.",
+      "prediction": "C,D",
+      "gold": "C,D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2214",
+      "target_event": "The IAEA will maintain an on-site presence for the duration of the release.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2215",
+      "target_event": "The military detained Aung San Suu Kyi and other top government figures.",
+      "prediction": "A,C",
+      "gold": "A,C,D",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2216",
+      "target_event": "The Iraqi parliament voted to expel US troops from Iraq.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2217",
+      "target_event": "Bushfire smoke created smog in Sydney, causing air quality to reach 22 times worse than standard levels and causing respiratory problems for residents.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2218",
+      "target_event": "Women used social media to share sexual harassment experiences in October 2017, leading to the #MeToo movement going viral.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2219",
+      "target_event": "The district officially unveiled Black Lives Matter Plaza on June 5, 2020.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2220",
+      "target_event": "President Yoon Suk Yeol was immediately suspended from exercising his powers.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2221",
+      "target_event": "Time Magazine named 'the Silence Breakers' Person of the Year in December 2017.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2222",
+      "target_event": "Wagner troops withdrew from Rostov, the Lipetsk region, and Moscow.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2223",
+      "target_event": "On December 10, 2020, Judge Sawan charged Caretaker Prime Minister Hassan Diab and three former ministers with criminal negligence.",
+      "prediction": "B",
+      "gold": "A",
+      "response": "B"
+    },
+    {
+      "id": "q-2224",
+      "target_event": "The U.S. Congress defined legal requirements for stablecoins, including HQLA, one-for-one backing, and audits.",
+      "prediction": "B",
+      "gold": "C,D",
+      "response": "B"
+    },
+    {
+      "id": "q-2225",
+      "target_event": "Prigozhin negotiated his exit and called off his march on Moscow on Saturday afternoon.",
+      "prediction": "A,B,C",
+      "gold": "C",
+      "response": "A, B, C"
+    },
+    {
+      "id": "q-2226",
+      "target_event": "Prime Minister Hassan Diab and his government resigned following the explosion.",
+      "prediction": "C",
+      "gold": "C,D",
+      "response": "C"
+    },
+    {
+      "id": "q-2227",
+      "target_event": "Local governments established public mourning sites.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2228",
+      "target_event": "On July 2, 2021, Judge Bitar requested parliament lift immunity for former ministers Khalil, Zeaiter, and Nohad Machnouk, and sought permission from bar associations to prosecute Khalil, Zeaiter, and Fenianos.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2229",
+      "target_event": "Over three million Brits called for a do-over.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2230",
+      "target_event": "Donald Trump hailed a $500 billion plan by OpenAI, SoftBank, and Oracle.",
+      "prediction": "C",
+      "gold": "A,D",
+      "response": "C"
+    },
+    {
+      "id": "q-2231",
+      "target_event": "The FBI and ATF cleared the Capitol.",
+      "prediction": "C",
+      "gold": "A,C",
+      "response": "C"
+    },
+    {
+      "id": "q-2232",
+      "target_event": "Facebook replaced its corporate sign outside its California headquarters with one featuring the Meta logo.",
+      "prediction": "B,C",
+      "gold": "B,C,D",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2233",
+      "target_event": "Over three million Brits called for a do-over.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2234",
+      "target_event": "Huawei stated it will first lay the foundation for operating systems in the Chinese market, then expand overseas.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2235",
+      "target_event": "The House and Senate recessed, and the Capitol was locked down.",
+      "prediction": "A,B,C",
+      "gold": "A,C,D",
+      "response": "A, B, C"
+    },
+    {
+      "id": "q-2236",
+      "target_event": "On December 20, Musk confirmed he will step down as CEO upon finding a replacement and will manage software/servers teams.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2237",
+      "target_event": "Officials confirmed on Monday that the death toll rose to 154 and 149 people were injured.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2238",
+      "target_event": "Wagner troops withdrew from Rostov, the Lipetsk region, and Moscow.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2239",
+      "target_event": "Myanmar's ruling junta chief reported at least 144 people killed and over 732 injured.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2240",
+      "target_event": "The Pentagon suspended operations against ISIS in Iraq and Syria.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2241",
+      "target_event": "Regional power generators spontaneously shut down, including three coal plants and a gas plant in Corpus Christi.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2242",
+      "target_event": "Taliban fighters celebrated following the U.S. departure.",
+      "prediction": "B,C",
+      "gold": "C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2243",
+      "target_event": "General Motors announced it would suspend its advertising on Twitter.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2244",
+      "target_event": "Iran launched ballistic missile attacks against Al Asad and Erbil air bases in Iraq used by US and coalition forces on Tuesday night.",
+      "prediction": "C,D",
+      "gold": "C,D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2245",
+      "target_event": "The Almeda Fire burned hundreds of homes and businesses in Phoenix and Talent, Oregon.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2246",
+      "target_event": "Videos of the assassination circulated on social media.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2247",
+      "target_event": "Derek Chauvin was arrested and charged with murder and manslaughter.",
+      "prediction": "A",
+      "gold": "B",
+      "response": "A"
+    },
+    {
+      "id": "q-2248",
+      "target_event": "The IAEA will maintain an on-site presence for the duration of the release.",
+      "prediction": "A",
+      "gold": "A,C",
+      "response": "A"
+    },
+    {
+      "id": "q-2249",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "prediction": "B,D",
+      "gold": "B,C",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2250",
+      "target_event": "Local governments established public mourning sites.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2251",
+      "target_event": "Widespread disruption occurred in internet and news access, and banks temporarily shut down across Myanmar following the coup.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2252",
+      "target_event": "The congressional certification of Joe Biden\u2019s victory was halted.",
+      "prediction": "A",
+      "gold": "A,C",
+      "response": "A"
+    },
+    {
+      "id": "q-2253",
+      "target_event": "India sent approximately 15 tonnes of relief material to Myanmar via an IAF C-130J aircraft.",
+      "prediction": "B,D",
+      "gold": "B,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2254",
+      "target_event": "Facebook changed its corporate name to Meta on October 28 at the company's annual Connect event.",
+      "prediction": "B",
+      "gold": "A,B,D",
+      "response": "B"
+    },
+    {
+      "id": "q-2255",
+      "target_event": "Nvidia set a new company revenue record.",
+      "prediction": "B,D",
+      "gold": "B,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2256",
+      "target_event": "Fire hotspots in indigenous territories increased by 88% from January to August compared to 2018, according to CIMI citing INPE data.",
+      "prediction": "A,B",
+      "gold": "D",
+      "response": "A, B"
+    },
+    {
+      "id": "q-2257",
+      "target_event": "Up to six ERCOT board members resigned on February 24.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A, C"
+    },
+    {
+      "id": "q-2258",
+      "target_event": "President Yoon Suk-yeol declared a period of national mourning and designated Itaewon a disaster zone.",
+      "prediction": "A,B",
+      "gold": "A,B",
+      "response": "A,B"
+    },
+    {
+      "id": "q-2259",
+      "target_event": "Prime Minister Edouard Philippe announced nearly 500 million euros in aid for low-income motorists.",
+      "prediction": "B,D",
+      "gold": "B",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2260",
+      "target_event": "Police attacked protesters using stun hand grenades, tear gas, rubber bullets, vehicles, and direct projectile fire.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2261",
+      "target_event": "Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.",
+      "prediction": "A,D",
+      "gold": "A,C",
+      "response": "A, D"
+    },
+    {
+      "id": "q-2262",
+      "target_event": "Credit Suisse's board rebuffed the proposal from UBS.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2263",
+      "target_event": "Three former Minneapolis police officers were criminally charged with aiding and abetting second-degree murder in connection with Floyd's death, and Chauvin's charge was upgraded to second-degree murder.",
+      "prediction": "A",
+      "gold": "A,B,C",
+      "response": "A"
+    },
+    {
+      "id": "q-2264",
+      "target_event": "The US Senate will likely vote on Wednesday on a bill to halt Trump\u2019s tariffs on Canadian imports.",
+      "prediction": "A,C",
+      "gold": "A",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2265",
+      "target_event": "A U.S. drone strike killed Iranian Maj. Gen. Qassem Soleimani and Abu Mahdi al-Muhandis after Muhandis picked up Soleimani from an airplane.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2266",
+      "target_event": "Three former Minneapolis police officers were criminally charged with aiding and abetting second-degree murder in connection with Floyd's death, and Chauvin's charge was upgraded to second-degree murder.",
+      "prediction": "B,D",
+      "gold": "A,C,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2267",
+      "target_event": "Amazonas state in Brazil declared a state of emergency due to the fires.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2268",
+      "target_event": "In 2014, Harvey Weinstein invited Emily Nestor to a hotel.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2269",
+      "target_event": "Wagner forces advanced towards Moscow with a column of armored vehicles.",
+      "prediction": "A",
+      "gold": "A,D",
+      "response": "A"
+    },
+    {
+      "id": "q-2270",
+      "target_event": "Austin and San Antonio issued boil-water notices.",
+      "prediction": "B",
+      "gold": "C",
+      "response": "B"
+    },
+    {
+      "id": "q-2271",
+      "target_event": "On August 15, 2021, the Taliban seized the presidential palace in Kabul and declared the war over.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A, C"
+    },
+    {
+      "id": "q-2272",
+      "target_event": "Vice President Myint Swe was installed as acting President.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2273",
+      "target_event": "Andrew Bosworth announced the retirement of the Oculus name.",
+      "prediction": "A,B",
+      "gold": "A,B",
+      "response": "A,B"
+    },
+    {
+      "id": "q-2274",
+      "target_event": "Burst pipes led to widespread water disruptions, affecting over 15 million people in Texas.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2275",
+      "target_event": "Women used social media to share sexual harassment experiences in October 2017, leading to the #MeToo movement going viral.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2276",
+      "target_event": "Global markets plunged following the Brexit vote.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2277",
+      "target_event": "The country's currency plummeted in value and government borrowing costs rose after the announcement.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2278",
+      "target_event": "President Yoon Suk Yeol vowed to carry out a thorough investigation.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2279",
+      "target_event": "Ontario placed a 25% tax on electricity exports to the U.S.",
+      "prediction": "A",
+      "gold": "A,D",
+      "response": "A"
+    },
+    {
+      "id": "q-2280",
+      "target_event": "Myanmar's ruling junta chief reported at least 144 people killed and over 732 injured.",
+      "prediction": "B,D",
+      "gold": "B,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2281",
+      "target_event": "Clinical trials began to test potential treatments and vaccines for COVID-19.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2282",
+      "target_event": "Prigozhin went into exile in Belarus.",
+      "prediction": "A,B",
+      "gold": "A",
+      "response": "A, B"
+    },
+    {
+      "id": "q-2283",
+      "target_event": "Prigozhin negotiated his exit and called off his march on Moscow on Saturday afternoon.",
+      "prediction": "B,C",
+      "gold": "D",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2284",
+      "target_event": "Prigozhin went into exile in Belarus.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2285",
+      "target_event": "Air quality along the West Coast deteriorated to harmful levels, with Portland registering the worst air globally and Seattle the third worst.",
+      "prediction": "B,D",
+      "gold": "B,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2286",
+      "target_event": "The British pound plunged in value.",
+      "prediction": "D",
+      "gold": "B,D",
+      "response": "D"
+    },
+    {
+      "id": "q-2287",
+      "target_event": "The US Senate will likely vote on Wednesday on a bill to halt Trump\u2019s tariffs on Canadian imports.",
+      "prediction": "C",
+      "gold": "A,C,D",
+      "response": "C"
+    },
+    {
+      "id": "q-2288",
+      "target_event": "The U.S. State Department confirmed at least two U.S. citizens were among the dead.",
+      "prediction": "A",
+      "gold": "B",
+      "response": "A"
+    },
+    {
+      "id": "q-2289",
+      "target_event": "The Taliban began a massive offensive in early May 2021.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2290",
+      "target_event": "Time Magazine named 'the Silence Breakers' Person of the Year in December 2017.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2291",
+      "target_event": "Prime Minister Han Duck-soo became acting president.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2292",
+      "target_event": "On December 10, 2020, Judge Sawan charged Caretaker Prime Minister Hassan Diab and three former ministers with criminal negligence.",
+      "prediction": "A",
+      "gold": "B",
+      "response": "A"
+    },
+    {
+      "id": "q-2293",
+      "target_event": "A temporary medical center was established in Itaewon for treating the injured.",
+      "prediction": "A",
+      "gold": "A,C",
+      "response": "A"
+    },
+    {
+      "id": "q-2294",
+      "target_event": "Amazonas state in Brazil declared a state of emergency due to the fires.",
+      "prediction": "D",
+      "gold": "B,C,D",
+      "response": "D"
+    },
+    {
+      "id": "q-2295",
+      "target_event": "General Sergei Surovikin was detained on charges of prior knowledge of the uprising.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2296",
+      "target_event": "Air quality along the West Coast deteriorated to harmful levels, with Portland registering the worst air globally and Seattle the third worst.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2297",
+      "target_event": "Shinzo Abe was pronounced dead at 5:03 p.m.",
+      "prediction": "C,D",
+      "gold": "C,D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2298",
+      "target_event": "President Donald Trump pardoned Ross Ulbricht.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2299",
+      "target_event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "prediction": "A",
+      "gold": "A,C,D",
+      "response": "A"
+    },
+    {
+      "id": "q-2300",
+      "target_event": "Austin and San Antonio issued boil-water notices.",
+      "prediction": "D",
+      "gold": "A,D",
+      "response": "D"
+    },
+    {
+      "id": "q-2301",
+      "target_event": "Facebook introduced a new infinity-shaped corporate logo.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2302",
+      "target_event": "US Treasury Secretary Janet Yellen called financial regulators together to discuss the situation.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2303",
+      "target_event": "President Yoon Suk Yeol vowed to carry out a thorough investigation.",
+      "prediction": "B,D",
+      "gold": "B,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2304",
+      "target_event": "Austin and San Antonio issued boil-water notices.",
+      "prediction": "B,C,D",
+      "gold": "B,C,D",
+      "response": "B,C,D"
+    },
+    {
+      "id": "q-2305",
+      "target_event": "The U.S. government mandated port and border closures and authorized immediate repatriation of asylum seekers on March 21.",
+      "prediction": "C,D",
+      "gold": "D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2306",
+      "target_event": "On August 15, 2021, the Taliban seized the presidential palace in Kabul and declared the war over.",
+      "prediction": "A,B,C",
+      "gold": "B,C,D",
+      "response": "A, B, C"
+    },
+    {
+      "id": "q-2307",
+      "target_event": "President Joe Biden approved a major disaster declaration for Texas.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2308",
+      "target_event": "Widespread protests erupted across the nation, including at Lafayette Square in Washington, D.C.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2309",
+      "target_event": "Fire crews contained several fires, including the Kenneth, Lidia, Sunset, Auto, Hurst, Archer, and San Diego area fires.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2310",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "prediction": "D",
+      "gold": "B",
+      "response": "D"
+    },
+    {
+      "id": "q-2311",
+      "target_event": "Putin delivered a televised address accusing Prigozhin of treason.",
+      "prediction": "A,B",
+      "gold": "A,B",
+      "response": "A,B"
+    },
+    {
+      "id": "q-2312",
+      "target_event": "French President Emmanuel Macron announced Harvey Weinstein would be stripped of the L\u00e9gion d\u2019honneur.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2313",
+      "target_event": "Musk confirmed charging $8/month for Twitter Blue check marks and removed ID verification.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2314",
+      "target_event": "Finma wiped out $17 billion worth of Credit Suisse\u2019s bonds and eliminated the need for UBS shareholders to vote on the deal.",
+      "prediction": "A,D",
+      "gold": "D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2315",
+      "target_event": "The last U.S. military planes departed Afghanistan around midnight Monday (Kabul time), completing the withdrawal.",
+      "prediction": "C,D",
+      "gold": "C,D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2316",
+      "target_event": "On December 10, 2020, Judge Sawan charged Caretaker Prime Minister Hassan Diab and three former ministers with criminal negligence.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2317",
+      "target_event": "TEPCO began releasing the first batch of treated radioactive water into the Pacific Ocean.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2318",
+      "target_event": "Musk reinstated former President Donald Trump's Twitter account.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2319",
+      "target_event": "Prime Minister Han Duck-soo became acting president.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2320",
+      "target_event": "The district officially unveiled Black Lives Matter Plaza on June 5, 2020.",
+      "prediction": "A,B",
+      "gold": "A,B,C",
+      "response": "A, B"
+    },
+    {
+      "id": "q-2321",
+      "target_event": "Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.",
+      "prediction": "C,D",
+      "gold": "A",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2322",
+      "target_event": "Over three million Brits called for a do-over.",
+      "prediction": "C",
+      "gold": "A,C",
+      "response": "C"
+    },
+    {
+      "id": "q-2323",
+      "target_event": "Germany and Norway withheld tens of millions of dollars from the Amazon Fund.",
+      "prediction": "B,C",
+      "gold": "A",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2324",
+      "target_event": "The U.S. government mandated port and border closures and authorized immediate repatriation of asylum seekers on March 21.",
+      "prediction": "B,D",
+      "gold": "B",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2325",
+      "target_event": "The Swiss government ordered Credit Suisse to temporarily suspend bonus payments to staff.",
+      "prediction": "A",
+      "gold": "C",
+      "response": "A"
+    },
+    {
+      "id": "q-2326",
+      "target_event": "Protesters overtook and destroyed the Minneapolis Police Department\u2019s Third Precinct.",
+      "prediction": "A",
+      "gold": "A,B,C",
+      "response": "A"
+    },
+    {
+      "id": "q-2327",
+      "target_event": "The Swiss government ordered Credit Suisse to temporarily suspend bonus payments to staff.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2328",
+      "target_event": "The Iraqi parliament voted to expel US troops from Iraq.",
+      "prediction": "A,B",
+      "gold": "A",
+      "response": "A, B"
+    },
+    {
+      "id": "q-2329",
+      "target_event": "President Joe Biden approved a major disaster declaration for Texas.",
+      "prediction": "B,D",
+      "gold": "B,C,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2330",
+      "target_event": "Taliban militants captured several provincial capitals, including Zaranj, Sheberghan, Kunduz, Sar-e Pol, Taloqan, and Aybak, between August 6 and August 9.",
+      "prediction": "A",
+      "gold": "D",
+      "response": "A"
+    },
+    {
+      "id": "q-2331",
+      "target_event": "President Bolsonaro announced a 60-day ban on setting fires for land clearing and deployed 44,000 soldiers to seven states.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A, D"
+    },
+    {
+      "id": "q-2332",
+      "target_event": "World leaders expressed shock and condemned the murder.",
+      "prediction": "A,B",
+      "gold": "A,B",
+      "response": "A,B"
+    },
+    {
+      "id": "q-2333",
+      "target_event": "On January 20, 2025, President Donald Trump sought to delay enforcement of the 2024 law banning TikTok distribution, intending to work out a divestment deal.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2334",
+      "target_event": "Huawei announced a deployment timeline for HarmonyOS on various devices between 2020 and 2022.",
+      "prediction": "B,C",
+      "gold": "B",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2335",
+      "target_event": "Over 2 million Texas residents were left without electricity.",
+      "prediction": "A,D",
+      "gold": "A,B,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2336",
+      "target_event": "The Swiss government ordered Credit Suisse to temporarily suspend bonus payments to staff.",
+      "prediction": "B,C",
+      "gold": "C",
+      "response": "B, C"
+    },
+    {
+      "id": "q-2337",
+      "target_event": "The city fires all four officers.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2338",
+      "target_event": "Credit Suisse's board rebuffed the proposal from UBS.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2339",
+      "target_event": "Andrew Bosworth announced the retirement of the Oculus name.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2340",
+      "target_event": "The S&P 500 fell below its 200-day moving average on Monday.",
+      "prediction": "C,D",
+      "gold": "C,D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2341",
+      "target_event": "Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.",
+      "prediction": "A",
+      "gold": "B,C,D",
+      "response": "A"
+    },
+    {
+      "id": "q-2342",
+      "target_event": "Visa and Mastercard stock dropped approximately 5% on June 18th.",
+      "prediction": "A",
+      "gold": "A,B",
+      "response": "A"
+    },
+    {
+      "id": "q-2343",
+      "target_event": "Credit Suisse's board rebuffed the proposal from UBS.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2344",
+      "target_event": "Women used social media to share sexual harassment experiences in October 2017, leading to the #MeToo movement going viral.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2345",
+      "target_event": "The Pentagon suspended operations against ISIS in Iraq and Syria.",
+      "prediction": "C",
+      "gold": "B,D",
+      "response": "C"
+    },
+    {
+      "id": "q-2346",
+      "target_event": "Taliban militants captured several provincial capitals, including Zaranj, Sheberghan, Kunduz, Sar-e Pol, Taloqan, and Aybak, between August 6 and August 9.",
+      "prediction": "A,D",
+      "gold": "A,B,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2347",
+      "target_event": "India sent approximately 15 tonnes of relief material to Myanmar via an IAF C-130J aircraft.",
+      "prediction": "C",
+      "gold": "A,C",
+      "response": "C"
+    },
+    {
+      "id": "q-2348",
+      "target_event": "International leaders and organizations condemned the military takeover in Myanmar.",
+      "prediction": "A,C,D",
+      "gold": "A,C,D",
+      "response": "A,C,D"
+    },
+    {
+      "id": "q-2349",
+      "target_event": "Three former Minneapolis police officers were criminally charged with aiding and abetting second-degree murder in connection with Floyd's death, and Chauvin's charge was upgraded to second-degree murder.",
+      "prediction": "B,C,D",
+      "gold": "B,C",
+      "response": "B,C,D"
+    },
+    {
+      "id": "q-2350",
+      "target_event": "Burst pipes led to widespread water disruptions, affecting over 15 million people in Texas.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2351",
+      "target_event": "World leaders, including Fumio Kishida, Joe Biden, and Xi Jinping, sent messages of condolence to President Yoon.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2352",
+      "target_event": "Widespread disruption occurred in internet and news access, and banks temporarily shut down across Myanmar following the coup.",
+      "prediction": "B,C,D",
+      "gold": "B,C,D",
+      "response": "B,C,D"
+    },
+    {
+      "id": "q-2353",
+      "target_event": "Myanmar\u2019s military government removed 24 ministers and deputies and appointed 11 replacements.",
+      "prediction": "A,D",
+      "gold": "A,C",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2354",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "prediction": "D",
+      "gold": "A",
+      "response": "D"
+    },
+    {
+      "id": "q-2355",
+      "target_event": "A TEPCO staff member activated a seawater pump and an operator confirmed the release.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2356",
+      "target_event": "DeepSeek's app reached the top of U.S. free app charts within a week of its launch.",
+      "prediction": "C,D",
+      "gold": "D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2357",
+      "target_event": "The last U.S. military planes departed Afghanistan around midnight Monday (Kabul time), completing the withdrawal.",
+      "prediction": "A",
+      "gold": "A,B",
+      "response": "A"
+    },
+    {
+      "id": "q-2358",
+      "target_event": "Trump was permanently banned from Twitter on January 8th.",
+      "prediction": "B,D",
+      "gold": "D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2359",
+      "target_event": "U.S. troops left Bagram Airfield.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2360",
+      "target_event": "A TEPCO staff member activated a seawater pump and an operator confirmed the release.",
+      "prediction": "D",
+      "gold": "C",
+      "response": "D"
+    },
+    {
+      "id": "q-2361",
+      "target_event": "OPM offered federal workers the option to resign with pay.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2362",
+      "target_event": "Authorities in Myanmar and Thailand declared a state of emergency.",
+      "prediction": "A",
+      "gold": "A,B",
+      "response": "A"
+    },
+    {
+      "id": "q-2363",
+      "target_event": "International leaders and organizations condemned the military takeover in Myanmar.",
+      "prediction": "B,C,D",
+      "gold": "B,C,D",
+      "response": "B,C,D"
+    },
+    {
+      "id": "q-2364",
+      "target_event": "On July 2, 2021, Judge Bitar requested parliament lift immunity for former ministers Khalil, Zeaiter, and Nohad Machnouk, and sought permission from bar associations to prosecute Khalil, Zeaiter, and Fenianos.",
+      "prediction": "C,D",
+      "gold": "C,D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2365",
+      "target_event": "On July 2, 2021, Judge Bitar requested parliament lift immunity for former ministers Khalil, Zeaiter, and Nohad Machnouk, and sought permission from bar associations to prosecute Khalil, Zeaiter, and Fenianos.",
+      "prediction": "B",
+      "gold": "A,B",
+      "response": "B"
+    },
+    {
+      "id": "q-2366",
+      "target_event": "Goldman Sachs estimated that AI systems like ChatGPT could automate up to 300 million jobs worldwide.",
+      "prediction": "A,B",
+      "gold": "A",
+      "response": "A, B"
+    },
+    {
+      "id": "q-2367",
+      "target_event": "Facebook changed its corporate name to Meta on October 28 at the company's annual Connect event.",
+      "prediction": "A",
+      "gold": "A,B,D",
+      "response": "A"
+    },
+    {
+      "id": "q-2368",
+      "target_event": "Prime Minister Fumio Kishida announced Japan would begin discharging treated radioactive water from the Fukushima Daiichi plant into the sea as early as Thursday.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2369",
+      "target_event": "DeepSeek's app reached the top of U.S. free app charts within a week of its launch.",
+      "prediction": "B,C",
+      "gold": "C,D",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2370",
+      "target_event": "Scientific journals, including Springer Nature and Elsevier, updated author guidelines to prohibit LLMs as authors and require documentation of their use.",
+      "prediction": "A,D",
+      "gold": "A,B,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2371",
+      "target_event": "More than a dozen news outlets published stories based on the leaked Facebook documents.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2372",
+      "target_event": "U.S. government regulators announced they would fully cover deposits at both SVB and Signature Bank.",
+      "prediction": "A,B",
+      "gold": "B,C",
+      "response": "A, B"
+    },
+    {
+      "id": "q-2373",
+      "target_event": "Many therapists cease in-person client sessions.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2374",
+      "target_event": "Over four million customers were without power in Texas.",
+      "prediction": "B,C,D",
+      "gold": "B,C,D",
+      "response": "B,C,D"
+    },
+    {
+      "id": "q-2375",
+      "target_event": "Governor Newsom declared a state of emergency in Napa, Sonoma, and Shasta counties.",
+      "prediction": "C,D",
+      "gold": "C",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2376",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "prediction": "A,C",
+      "gold": "A,C,D",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2377",
+      "target_event": "Musk laid off thousands of Twitter employees and contractors.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2378",
+      "target_event": "Lebanon declared a two-week state of emergency in Beirut following the blast.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2379",
+      "target_event": "On December 20, Musk confirmed he will step down as CEO upon finding a replacement and will manage software/servers teams.",
+      "prediction": "B",
+      "gold": "D",
+      "response": "B"
+    },
+    {
+      "id": "q-2380",
+      "target_event": "Videos of the assassination circulated on social media.",
+      "prediction": "C,D",
+      "gold": "C",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2381",
+      "target_event": "French President Emmanuel Macron announced France\u2019s withdrawal of support for the Mercosur trade deal.",
+      "prediction": "A,B,C,D",
+      "gold": "B,C",
+      "response": "A, B, C, D"
+    },
+    {
+      "id": "q-2382",
+      "target_event": "French President Emmanuel Macron announced France\u2019s withdrawal of support for the Mercosur trade deal.",
+      "prediction": "C,D",
+      "gold": "C",
+      "response": "C, D"
+    },
+    {
+      "id": "q-2383",
+      "target_event": "Seoul Mayor Oh Se-Hoon cut short a trip to Europe to return home.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2384",
+      "target_event": "The fires destroyed more than 1,400 homes.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2385",
+      "target_event": "Yoon's senior aides and defense minister offered to resign.",
+      "prediction": "A",
+      "gold": "A,B,C",
+      "response": "A"
+    },
+    {
+      "id": "q-2386",
+      "target_event": "South Korea\u2019s parliament voted to impeach President Yoon Suk Yeol.",
+      "prediction": "B",
+      "gold": "C,D",
+      "response": "B"
+    },
+    {
+      "id": "q-2387",
+      "target_event": "Prime Minister Hassan Diab and his government resigned following the explosion.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2388",
+      "target_event": "On August 15, 2021, the Taliban seized the presidential palace in Kabul and declared the war over.",
+      "prediction": "A,C",
+      "gold": "B,C",
+      "response": "A, C"
+    },
+    {
+      "id": "q-2389",
+      "target_event": "A U.S. drone strike killed Iranian Maj. Gen. Qassem Soleimani and Abu Mahdi al-Muhandis after Muhandis picked up Soleimani from an airplane.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2390",
+      "target_event": "On June 17, 2025, the U.S. Senate passed the GENIUS Act.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2391",
+      "target_event": "President Bolsonaro announced a 60-day ban on setting fires for land clearing and deployed 44,000 soldiers to seven states.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A, D"
+    },
+    {
+      "id": "q-2392",
+      "target_event": "Iraqi caretaker Prime Minister Adel Abdul Mahdi condemned the US air raid as a violation of Iraq\u2019s sovereignty.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2393",
+      "target_event": "Trade controls forced Chinese researchers to use freely available tools creatively.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2394",
+      "target_event": "French women launched the #BalanceTonPorc social media campaign, sharing stories of aggression and harassment.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2395",
+      "target_event": "The district officially unveiled Black Lives Matter Plaza on June 5, 2020.",
+      "prediction": "A,D",
+      "gold": "A,B,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2396",
+      "target_event": "Myanmar\u2019s military imposed a nationwide 8pm to 6am curfew.",
+      "prediction": "A,B,C",
+      "gold": "A,B,C",
+      "response": "A, B, C"
+    },
+    {
+      "id": "q-2397",
+      "target_event": "Wagner troops withdrew from Rostov, the Lipetsk region, and Moscow.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2398",
+      "target_event": "A Myanmar court convicted Aung San Suu Kyi and Sean Turnell to three years in jail for violating the official secrets act.",
+      "prediction": "A",
+      "gold": "B",
+      "response": "A"
+    },
+    {
+      "id": "q-2399",
+      "target_event": "The Capitol was secured, and lawmakers reconvened to continue certification.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2400",
+      "target_event": "Emergency workers from around the country were deployed to Itaewon to treat the injured.",
+      "prediction": "D",
+      "gold": "C,D",
+      "response": "D"
+    },
+    {
+      "id": "q-2401",
+      "target_event": "Women used social media to share sexual harassment experiences in October 2017, leading to the #MeToo movement going viral.",
+      "prediction": "B",
+      "gold": "D",
+      "response": "B"
+    },
+    {
+      "id": "q-2402",
+      "target_event": "World leaders, including Fumio Kishida, Joe Biden, and Xi Jinping, sent messages of condolence to President Yoon.",
+      "prediction": "B,C",
+      "gold": "B,C",
+      "response": "B,C"
+    },
+    {
+      "id": "q-2403",
+      "target_event": "President Yoon Suk-yeol declared a period of national mourning and designated Itaewon a disaster zone.",
+      "prediction": "B,D",
+      "gold": "B,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2404",
+      "target_event": "On January 20, 2025, President Donald Trump sought to delay enforcement of the 2024 law banning TikTok distribution, intending to work out a divestment deal.",
+      "prediction": "A",
+      "gold": "A,D",
+      "response": "A"
+    },
+    {
+      "id": "q-2405",
+      "target_event": "Australia's military deployed ships and aircraft to rescue thousands trapped by fires.",
+      "prediction": "A,B",
+      "gold": "A",
+      "response": "A, B"
+    },
+    {
+      "id": "q-2406",
+      "target_event": "TEPCO began releasing the first batch of treated radioactive water into the Pacific Ocean.",
+      "prediction": "B,D",
+      "gold": "B,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-2407",
+      "target_event": "Thousands of volunteers from Lebanon and its diaspora cleared rubble, offered accommodation, and repaired homes in affected areas after the explosion.",
+      "prediction": "B",
+      "gold": "B,C",
+      "response": "B"
+    },
+    {
+      "id": "q-2408",
+      "target_event": "General Sergei Surovikin was detained on charges of prior knowledge of the uprising.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2409",
+      "target_event": "The Japanese government allocated $200 million to compensate the fishing industry and $340 million for local economic mitigation.",
+      "prediction": "A,B",
+      "gold": "A,B",
+      "response": "A,B"
+    },
+    {
+      "id": "q-2410",
+      "target_event": "On November 26, 2018, the first trials for those arrested on November 24 took place.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2411",
+      "target_event": "Elon Musk gained full command of the federal cost-cutting effort.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2412",
+      "target_event": "Nvidia announced it is significantly increasing chip supply to meet surging demand.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2413",
+      "target_event": "Myanmar\u2019s military seized power on February 1, beginning a coup.",
+      "prediction": "C,D",
+      "gold": "B,C,D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2414",
+      "target_event": "The chairmen of Credit Suisse and UBS announced a union on March 19th in Bern.",
+      "prediction": "A,C",
+      "gold": "A,B,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2415",
+      "target_event": "Over 2 million Texas residents were left without electricity.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2416",
+      "target_event": "The country's currency plummeted in value and government borrowing costs rose after the announcement.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2417",
+      "target_event": "Iran announced it would suspend compliance with the 2015 nuclear deal while continuing to work with IAEA inspectors.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-2418",
+      "target_event": "Huawei ensured HarmonyOS supports applications developed in multiple programming languages.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2419",
+      "target_event": "Liz Truss announced her resignation as Prime Minister on October 20.",
+      "prediction": "B,D",
+      "gold": "B,D",
+      "response": "B,D"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "avg_score": 0.75,
+  "results": [
+    {
+      "id": "q-1",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Former Japanese Prime Minister Shinzo Abe, a nationalist who served in the post longer than anyone else before stepping down in 2020, was shot and killed on Japan's former Prime Minister Shinzo Abe ha..."
+    },
+    {
+      "id": "q-2",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Protesters supporting President Donald Trump stormed the US Capitol Wednesday, clashing with police and forcing a delay in the constitutional process The US Capitol was overtaken Wednesday by supporte..."
+    },
+    {
+      "id": "q-3",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Opposition lawmakers failed to impeach President Yoon Suk Yeol over the political crisis he sparked by declaring martial law earlier this South Korean legislators have launched a push to impeach Presi..."
+    },
+    {
+      "id": "q-4",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Shinzo Abe, the former prime minister of Japan who boosted relations with Israel as part of his effort to increase his country's global influence, was Former Japanese Prime Minister Shinzo Abe, a nati..."
+    },
+    {
+      "id": "q-5",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Elon Musk has taken control of Twitter and ousted the CEO, chief financial officer and the company's top lawyer, two people familiar with the deal said After months of uncertainty, Elon Musk appears t..."
+    },
+    {
+      "id": "q-6",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "tariffs on China, Canada and Mexico went into effect, and as the possible ramifications of a global President Donald Trump also declared that if Canada does not lift other tariffs on the U On April 2,..."
+    },
+    {
+      "id": "q-7",
+      "pred": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "South Korean legislators have launched a push to impeach President Yoon Suk Yeol, accusing him of declaring martial law in order to evade investigations Celebrations broke out in Seoul after lawmakers..."
+    },
+    {
+      "id": "q-8",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "tariffs on China, Canada and Mexico went into effect, and as the possible ramifications of a global President Donald Trump also declared that if Canada does not lift other tariffs on the U US Senate w..."
+    },
+    {
+      "id": "q-9",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "The Capitol was breached by Trump supporters who had been declaring, at rally after rally, that they would go to violent lengths to keep the President in power The US Capitol was overtaken Wednesday b..."
+    },
+    {
+      "id": "q-10",
+      "pred": "B",
+      "gold": "A,C",
+      "score": 0.0,
+      "context_used": "Trump supporters overtook Capitol Police officers to enter the building as lawmakers attempted to count the electoral college votes on Jan The US Capitol was overtaken Wednesday by supporters of Presi..."
+    },
+    {
+      "id": "q-11",
+      "pred": "A",
+      "gold": "A,D",
+      "score": 0.5,
+      "context_used": "7-magnitude earthquake hit central Myanmar, causing buildings to collapse and a high number of casualties in the region 7 magnitude has hit central Myanmar, the United States Geological Survey (USGS) ..."
+    },
+    {
+      "id": "q-12",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "South Korean legislators have launched a push to impeach President Yoon Suk Yeol, accusing him of declaring martial law in order to evade investigations Celebrations broke out in Seoul after lawmakers..."
+    },
+    {
+      "id": "q-13",
+      "pred": "B",
+      "gold": "A",
+      "score": 0.0,
+      "context_used": "Tesla CEO Elon Musk last week wrapped up his official government service leading DOGE for the Trump administration Elon Musk renewed fundraising efforts for his business empire after relinquishing his..."
+    },
+    {
+      "id": "q-14",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "citizens may vote to leave the EU Since British voters elected on Thursday to leave the European Union, signs have quickly emerged of the flaws in holding a referendum on The decision by the United Ki..."
+    },
+    {
+      "id": "q-15",
+      "pred": "A",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "context_used": "US Senate will likely vote on Wednesday on a bill to halt Trump's tariffs on Canadian imports amid economic uncertainty President Donald Trump also declared that if Canada does not lift other tariffs ..."
+    },
+    {
+      "id": "q-16",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "South Korean legislators have launched a push to impeach President Yoon Suk Yeol, accusing him of declaring martial law in order to evade investigations Opposition lawmakers failed to impeach Presiden..."
+    },
+    {
+      "id": "q-17",
+      "pred": "C",
+      "gold": "D",
+      "score": 0.0,
+      "context_used": "Tesla CEO Elon Musk last week wrapped up his official government service leading DOGE for the Trump administration Billionaire Trump ally Elon Musk, who leads the newly formed Department of Government..."
+    },
+    {
+      "id": "q-18",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Tesla CEO Elon Musk last week wrapped up his official government service leading DOGE for the Trump administration Billionaire Trump ally Elon Musk, who leads the newly formed Department of Government..."
+    },
+    {
+      "id": "q-19",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "The worldwide spread of the new disease known as COVID-19 has created a global health crisis unseen in modern times, triggering dramatic The novel coronavirus, SARS-CoV-2, and the disease it causes, C..."
+    },
+    {
+      "id": "q-20",
+      "pred": "A",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "Trump supporters clash with police and security forces as they try to storm the Capitol in Washington, DC on Wednesday The US Capitol was overtaken Wednesday by supporters of President Donald Trump, w..."
+    },
+    {
+      "id": "q-21",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Prime Minister David Cameron's resignation and wreaked Voters in the UK have decided to leave the European Union, a d..."
+    },
+    {
+      "id": "q-22",
+      "pred": "D",
+      "gold": "A,C",
+      "score": 0.0,
+      "context_used": "The worldwide spread of the new disease known as COVID-19 has created a global health crisis unseen in modern times, triggering dramatic The novel coronavirus, SARS-CoV-2, and the disease it causes, C..."
+    },
+    {
+      "id": "q-23",
+      "pred": "D",
+      "gold": "A,D",
+      "score": 0.5,
+      "context_used": "Protesters supporting President Donald Trump stormed the US Capitol Wednesday, clashing with police and forcing a delay in the constitutional process The US Capitol was overtaken Wednesday by supporte..."
+    },
+    {
+      "id": "q-24",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "The Capitol was breached by Trump supporters who had been declaring, at rally after rally, that they would go to violent lengths to keep the President in power The US Capitol was overtaken Wednesday b..."
+    },
+    {
+      "id": "q-25",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "President-elect Donald Trump won Arizona on Saturday, November 9, returning the state and its 11 electoral votes to the Republican column after Joe Biden's With a victory in Arizona on Saturday, US Pr..."
+    },
+    {
+      "id": "q-26",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "7-magnitude earthquake hit central Myanmar, causing buildings to collapse and a high number of casualties in the region 7-magnitude quake struck near the city of Mandalay, according to Myanmar's A pow..."
+    },
+    {
+      "id": "q-27",
+      "pred": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "context_used": "The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Prime Minister David Cameron's resignation and wreaked Voters in the UK have decided to leave the European Union, a d..."
+    },
+    {
+      "id": "q-28",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "The Capitol was breached by Trump supporters who had been declaring, at rally after rally, that they would go to violent lengths to keep the President in power The US Capitol was overtaken Wednesday b..."
+    },
+    {
+      "id": "q-29",
+      "pred": "B",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "Britain has voted to leave the European Union, a historic decision sure to reshape the nation's place in the world The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Pr..."
+    },
+    {
+      "id": "q-30",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Prime Minister David Cameron's resignation and wreaked Voters in the UK have decided to leave the European Union, a d..."
+    },
+    {
+      "id": "q-31",
+      "pred": "D",
+      "gold": "A",
+      "score": 0.0,
+      "context_used": "The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Prime Minister David Cameron's resignation and wreaked Voters in the UK have decided to leave the European Union, a d..."
+    },
+    {
+      "id": "q-32",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Shinzo Abe, the former prime minister of Japan who boosted relations with Israel as part of his effort to increase his country's global influence, was Former Japanese Prime Minister Shinzo Abe, a nati..."
+    },
+    {
+      "id": "q-33",
+      "pred": "A",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Prime Minister David Cameron's resignation and wreaked Voters in the UK have decided to leave the European Union, a d..."
+    },
+    {
+      "id": "q-34",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "tariffs on China, Canada and Mexico went into effect, and as the possible ramifications of a global President Donald Trump also declared that if Canada does not lift other tariffs on the U On April 2,..."
+    },
+    {
+      "id": "q-35",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Elon Musk has taken control of Twitter and ousted the CEO, chief financial officer and the company's top lawyer, two people familiar with the deal said Elon Musk has taken over Twitter and fired its C..."
+    },
+    {
+      "id": "q-36",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "South Korean legislators have launched a push to impeach President Yoon Suk Yeol, accusing him of declaring martial law in order to evade investigations Opposition lawmakers failed to impeach Presiden..."
+    },
+    {
+      "id": "q-37",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "The worldwide spread of the new disease known as COVID-19 has created a global health crisis unseen in modern times, triggering dramatic response to the coronavirus pandemic, which includes social dis..."
+    },
+    {
+      "id": "q-38",
+      "pred": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "tariffs on China, Canada and Mexico went into effect, and as the possible ramifications of a global President Donald Trump also declared that if Canada does not lift other tariffs on the U Trump's fir..."
+    },
+    {
+      "id": "q-39",
+      "pred": "A",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Prime Minister David Cameron's resignation and wreaked Voters in the UK have decided to leave the European Union, a d..."
+    },
+    {
+      "id": "q-40",
+      "pred": "A",
+      "gold": "A,B",
+      "score": 0.5,
+      "context_used": "citizens may vote to leave the EU The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Prime Minister David Cameron's resignation and wreaked Since British voters elected..."
+    },
+    {
+      "id": "q-41",
+      "pred": "B",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "7-magnitude earthquake hit central Myanmar, causing buildings to collapse and a high number of casualties in the region 7-magnitude quake struck near the city of Mandalay, according to Myanmar's A pow..."
+    },
+    {
+      "id": "q-42",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The worldwide spread of the new disease known as COVID-19 has created a global health crisis unseen in modern times, triggering dramatic The novel coronavirus, SARS-CoV-2, and the disease it causes, C..."
+    },
+    {
+      "id": "q-43",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Elon Musk has taken control of Twitter and ousted the CEO, chief financial officer and the company's top lawyer, two people familiar with the deal said Elon Musk has fired Twitter's CEO, as well as a ..."
+    },
+    {
+      "id": "q-44",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Since British voters elected on Thursday to leave the European Union, signs have quickly emerged of the flaws in holding a referendum on citizens may vote to leave the EU The United Kingdom's vote to ..."
+    },
+    {
+      "id": "q-45",
+      "pred": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "context_used": "7-magnitude earthquake hit central Myanmar, causing buildings to collapse and a high number of casualties in the region 7-magnitude quake struck near the city of Mandalay, according to Myanmar's A pow..."
+    },
+    {
+      "id": "q-46",
+      "pred": "B",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "Opposition lawmakers failed to impeach President Yoon Suk Yeol over the political crisis he sparked by declaring martial law earlier this South Korean legislators have launched a push to impeach Presi..."
+    },
+    {
+      "id": "q-47",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The US Capitol was overtaken Wednesday by supporters of President Donald Trump, who, spurred on by his comments and angered by his loss, breached police lines The Capitol was breached by Trump support..."
+    },
+    {
+      "id": "q-48",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "The US Capitol was overtaken Wednesday by supporters of President Donald Trump, who, spurred on by his comments and angered by his loss, breached police lines The Capitol was breached by Trump support..."
+    },
+    {
+      "id": "q-49",
+      "pred": "A",
+      "gold": "B",
+      "score": 0.0,
+      "context_used": "The worldwide spread of the new disease known as COVID-19 has created a global health crisis unseen in modern times, triggering dramatic The novel coronavirus, SARS-CoV-2, and the disease it causes, C..."
+    },
+    {
+      "id": "q-50",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Elon Musk has taken over Twitter and fired its CEO and other top executives Elon Musk has taken control of Twitter and ousted the CEO, chief financial officer and the company's top lawyer, two people ..."
+    }
+  ]
+}

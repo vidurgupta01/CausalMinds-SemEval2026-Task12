@@ -1,0 +1,218 @@
+{
+  "incorrect_examples": [
+    {
+      "id": "q-2028",
+      "target_event": "The chairmen of Credit Suisse and UBS announced a union on March 19th in Bern.",
+      "prediction": "A,D",
+      "gold": "A",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2032",
+      "target_event": "US Treasury Secretary Janet Yellen called financial regulators together to discuss the situation.",
+      "prediction": "A,B,C",
+      "gold": "B,C",
+      "response": "A,B,C"
+    },
+    {
+      "id": "q-2043",
+      "target_event": "Yoon's senior aides and defense minister offered to resign.",
+      "prediction": "C",
+      "gold": "A,D",
+      "response": "C"
+    },
+    {
+      "id": "q-2044",
+      "target_event": "The House and Senate recessed, and the Capitol was locked down.",
+      "prediction": "A,D",
+      "gold": "A,B,C",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2047",
+      "target_event": "Goldman Sachs estimated that AI systems like ChatGPT could automate up to 300 million jobs worldwide.",
+      "prediction": "A",
+      "gold": "C",
+      "response": "A"
+    },
+    {
+      "id": "q-2055",
+      "target_event": "U.S. government regulators announced they would fully cover deposits at both SVB and Signature Bank.",
+      "prediction": "A,B,C",
+      "gold": "C,D",
+      "response": "A,B,C"
+    },
+    {
+      "id": "q-2065",
+      "target_event": "DeepSeek-R1\u2019s application became the most downloaded free AI app on the US Apple App Store.",
+      "prediction": "B",
+      "gold": "C",
+      "response": "B"
+    },
+    {
+      "id": "q-2066",
+      "target_event": "The Iraqi parliament voted to expel US troops from Iraq.",
+      "prediction": "B,C,D",
+      "gold": "C,D",
+      "response": "B,C,D"
+    },
+    {
+      "id": "q-2074",
+      "target_event": "Security arrested the suspected gunman, Tetsuya Yamagami.",
+      "prediction": "C,D",
+      "gold": "D",
+      "response": "C,D"
+    },
+    {
+      "id": "q-2076",
+      "target_event": "Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.",
+      "prediction": "C,D",
+      "gold": "D",
+      "response": "C,D"
+    }
+  ],
+  "partial_examples": [
+    {
+      "id": "q-2027",
+      "target_event": "Huawei released a TV running HarmonyOS.",
+      "prediction": "A",
+      "gold": "A,B",
+      "response": "A"
+    },
+    {
+      "id": "q-2029",
+      "target_event": "Facebook changed its corporate name to Meta on October 28 at the company's annual Connect event.",
+      "prediction": "A,C",
+      "gold": "A,C,D",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2031",
+      "target_event": "The Chinese government criticized Japan\u2019s plan to release wastewater.",
+      "prediction": "C",
+      "gold": "B,C",
+      "response": "C"
+    },
+    {
+      "id": "q-2033",
+      "target_event": "Three former Minneapolis police officers were criminally charged with aiding and abetting second-degree murder in connection with Floyd's death, and Chauvin's charge was upgraded to second-degree murder.",
+      "prediction": "A,D",
+      "gold": "A,C,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-2035",
+      "target_event": "Liz Truss announced her resignation as Prime Minister on October 20.",
+      "prediction": "A,C",
+      "gold": "A,C,D",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2049",
+      "target_event": "The United Kingdom held a referendum on June 23.",
+      "prediction": "A,C",
+      "gold": "A,B,C",
+      "response": "A, C"
+    },
+    {
+      "id": "q-2077",
+      "target_event": "On January 20, 2025, President Donald Trump sought to delay enforcement of the 2024 law banning TikTok distribution, intending to work out a divestment deal.",
+      "prediction": "A",
+      "gold": "A,B",
+      "response": "A"
+    },
+    {
+      "id": "q-2085",
+      "target_event": "The Chinese government criticized Japan\u2019s plan to release wastewater.",
+      "prediction": "B",
+      "gold": "A,B",
+      "response": "B"
+    },
+    {
+      "id": "q-2090",
+      "target_event": "Sinn Fein called for a referendum on Irish unity.",
+      "prediction": "D",
+      "gold": "C,D",
+      "response": "D"
+    },
+    {
+      "id": "q-2091",
+      "target_event": "Over 2 million Texas residents were left without electricity.",
+      "prediction": "A",
+      "gold": "A,B",
+      "response": "A"
+    }
+  ],
+  "correct_examples": [
+    {
+      "id": "q-2020",
+      "target_event": "President Yoon Suk Yeol vowed to carry out a thorough investigation.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2021",
+      "target_event": "Twitter removed Trump's tweets and locked his account.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2022",
+      "target_event": "President Donald Trump proposed tariffs on steel and aluminum.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2023",
+      "target_event": "On November 24, 2018, \"yellow vest\" protestors blocked the Champs Elys\u00e9es in Paris, leading to confrontations.",
+      "prediction": "A,B,C",
+      "gold": "A,B,C",
+      "response": "A,B,C"
+    },
+    {
+      "id": "q-2024",
+      "target_event": "On November 26, 2018, the first trials for those arrested on November 24 took place.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-2025",
+      "target_event": "South Korea banned seafood imports from the Fukushima area.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2026",
+      "target_event": "The company intends to begin trading under the stock ticker MVRS on December 1.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2030",
+      "target_event": "Myanmar's military-dominated government issued a plea for outside help.",
+      "prediction": "A,C,D",
+      "gold": "A,C,D",
+      "response": "A,C,D"
+    },
+    {
+      "id": "q-2034",
+      "target_event": "President Joe Biden approved a major disaster declaration for Texas.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2036",
+      "target_event": "Doctors at several hospitals pledged to go on strike to protest the coup.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    }
+  ]
+}

@@ -1,0 +1,2805 @@
+{
+  "avg_score": 0.6875,
+  "results": [
+    {
+      "id": "q-2020",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "A mass of mostly young people celebrating Halloween in Seoul became trapped and crushed as the crowd surged into a narrow alley, killing at least 153 people At least 149 people were killed and another..."
+    },
+    {
+      "id": "q-2021",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The US Capitol was overtaken Wednesday by supporters of President Donald Trump, who, spurred on by his comments and angered by his loss, breached police lines The Capitol was breached by Trump support..."
+    },
+    {
+      "id": "q-2022",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "The change in the structure of global supply has important implications for US President Donald Trump as he contemplates tearing up existing The conclusion of US President Donald Trump's 90-day window..."
+    },
+    {
+      "id": "q-2023",
+      "pred": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "context_used": "The past weeks have seen a massive confrontational movement arise in France opposing President Emmanuel Macron's \u201cecological\u201d tax increase on gas Thousands of drivers blocked roads across France Satur..."
+    },
+    {
+      "id": "q-2024",
+      "pred": "A,D",
+      "gold": "A,C",
+      "score": 0.0,
+      "context_used": "A protester was accidentally run over and killed by a car during a demonstration over rising fuel prices, a top official in eastern France said Saturday French President Emmanuel Macron condemned prot..."
+    },
+    {
+      "id": "q-2025",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "China announced Thursday it was banning all seafood from Japan in response to Tokyo's decision to begin releasing treated radioactive wastewater from the China said it would suspend imports of Japanes..."
+    },
+    {
+      "id": "q-2026",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Facebook on Thursday announced that it will change its company name to Meta, reflecting the company's growing ambitions beyond social media Facebook's new corporate name is Meta, CEO Mark Zuckerberg a..."
+    },
+    {
+      "id": "q-2027",
+      "pred": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "context_used": "After months of conflicting statements from Huawei executives, the Chinese networking giant on Friday officially unveiled HarmonyOS, Huawei on Friday unveiled its long-awaited self-developed operating..."
+    },
+    {
+      "id": "q-2028",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "At a press conference in Bern on March 19th the chairmen of Credit Suisse and ubs, the two great rivals of Swiss banking, announced a Credit Suisse has been wracked with scandals and major financial l..."
+    },
+    {
+      "id": "q-2029",
+      "pred": "C",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "context_used": "Facebook's new corporate name is Meta, CEO Mark Zuckerberg announced on Thursday, in an apparent effort to recast the company's public image Facebook on Thursday announced that it will change its comp..."
+    },
+    {
+      "id": "q-2030",
+      "pred": "A",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "context_used": "7-magnitude earthquake hit central Myanmar, causing buildings to collapse and a high number of casualties in the region 7-magnitude quake struck near the city of Mandalay, according to Myanmar's A pow..."
+    },
+    {
+      "id": "q-2031",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "Japan will begin discharging treated wastewater from the Fukushima nuclear power plant into the Pacific Ocean, the Japanese government Japan will begin releasing treated radioactive wastewater from th..."
+    },
+    {
+      "id": "q-2032",
+      "pred": "B",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "The sudden collapse of California-based Silicon Valley Bank sent depositors into panic and global markets into chaos as the US government scrambled to prevent Silicon Valley Bank was taken over by fed..."
+    },
+    {
+      "id": "q-2033",
+      "pred": "D",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "context_used": "The officer who knelt on Floyd's neck was charged with Floyd, a Black man, died in May 2020 after being handcuffed and pinned to the ground by Minneapolis police officers in an episode that George Flo..."
+    },
+    {
+      "id": "q-2034",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "A major winter storm hit a large part of the United States on Monday, with heavy snow and cold temperatures in Texas From the deadly pile-up crash in Fort Worth to a winter wonderland of snow to rolli..."
+    },
+    {
+      "id": "q-2035",
+      "pred": "A",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "context_used": "British Prime Minister Liz Truss resigned Thursday \u2014 bowing British Prime Minister Liz Truss has announced her resignation following weeks of criticism from her opponents and members of her own Conser..."
+    },
+    {
+      "id": "q-2036",
+      "pred": "C",
+      "gold": "B",
+      "score": 0.0,
+      "context_used": "Myanmar's military seized power in a bloodless coup, detaining democratically elected leader Aung San Suu Kyi Myanmar's military staged a coup Monday and detained senior politicians including Nobel la..."
+    },
+    {
+      "id": "q-2037",
+      "pred": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "context_used": "Floyd, a Black man, died in May 2020 after being handcuffed and pinned to the ground by Minneapolis police officers in an episode that The officer who knelt on Floyd's neck was charged with The death ..."
+    },
+    {
+      "id": "q-2038",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "Yevgeny Prigozhin, commander of the Wagner mercenary army, has denied claims that he is planning a military coup against Russia's President Yevgeny Prigozhin, founder of Russia's Wagner mercenary forc..."
+    },
+    {
+      "id": "q-2039",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Ronan Farrow reports the stories of thirteen women who say that, between the nineteen-nineties and 2015, Harvey Weinstein sexually harassed Many women, as well as men, are using the hashtag to show th..."
+    },
+    {
+      "id": "q-2040",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Japan began releasing water from its crippled Fukushima nuclear plant into the Pacific Ocean Thursday over the objections of local fishermen and the government Japan will begin discharging treated was..."
+    },
+    {
+      "id": "q-2041",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "Mourners pay respects as 154 people confirmed dead in the disaster, which took place as Seoul celebrated Halloween South Korean officials say at least 26 foreign nationals were among the more than 150..."
+    },
+    {
+      "id": "q-2042",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Silicon Valley Bank collapsed Friday morning after a stunning 48 hours in which a bank run and a capital crisis led to the second-largest failure of a Regulators announced they'd back deposits at Sili..."
+    },
+    {
+      "id": "q-2043",
+      "pred": "C",
+      "gold": "A,D",
+      "score": 0.0,
+      "context_used": "Opposition lawmakers failed to impeach President Yoon Suk Yeol over the political crisis he sparked by declaring martial law earlier this South Korean legislators have launched a push to impeach Presi..."
+    },
+    {
+      "id": "q-2044",
+      "pred": "A",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "The US Capitol was overtaken Wednesday by supporters of President Donald Trump, who, spurred on by his comments and angered by his loss, breached police lines The Capitol was breached by Trump support..."
+    },
+    {
+      "id": "q-2045",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Former Japanese Prime Minister Shinzo Abe, a nationalist who served in the post longer than anyone else before stepping down in 2020, was shot and killed on Shinzo Abe, the former prime minister of Ja..."
+    },
+    {
+      "id": "q-2046",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "NVIDIA today became the first company ever to hit a market capitalization of $4 trillion chipmaker Nvidia reported a 101% year-over-year jump in quarterly revenue Wednesday, as companies around the wo..."
+    },
+    {
+      "id": "q-2047",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "OpenAI launched ChatGPT exactly one year ago On Thursday, OpenAI released ChatGPT, a bot that converses with humans via cutting-edge artificial intelligence The hype around ChatGPT, the sophisticated ..."
+    },
+    {
+      "id": "q-2048",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "tariffs on China, Canada and Mexico went into effect, and as the possible ramifications of a global President Donald Trump also declared that if Canada does not lift other tariffs on the U US Senate w..."
+    },
+    {
+      "id": "q-2049",
+      "pred": "C",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Prime Minister David Cameron's resignation and wreaked Voters in the UK have decided to leave the European Union, a d..."
+    },
+    {
+      "id": "q-2050",
+      "pred": "A,C,D",
+      "gold": "A,C",
+      "score": 0.0,
+      "context_used": "tariffs on China, Canada and Mexico went into effect, and as the possible ramifications of a global On April 2, President Donald Trump announced sweeping and unprecedented tariffs on U Trump's first r..."
+    },
+    {
+      "id": "q-2051",
+      "pred": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, US President Donald Trump has recounted the final moments of Ir..."
+    },
+    {
+      "id": "q-2052",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Chinese technology company DeepSeek has made headlines globally with the launch of its open-source AI model, DeepSeek-R1 Chinese tech start-up DeepSeek is shaking the US' AI sector with its open-sourc..."
+    },
+    {
+      "id": "q-2053",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The worldwide spread of the new disease known as COVID-19 has created a global health crisis unseen in modern times, triggering dramatic The novel coronavirus, SARS-CoV-2, and the disease it causes, C..."
+    },
+    {
+      "id": "q-2054",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Extreme Cold and Record Snowfall to Test Texas Power Grid As Texans continue to cope with the effects of deadly cold weather, much of the eastern half of the country was dealing with snow, ice or From..."
+    },
+    {
+      "id": "q-2055",
+      "pred": "C",
+      "gold": "C,D",
+      "score": 0.5,
+      "context_used": "Regulators announced they'd back deposits at Silicon Valley Bank and Signature Bank on Monday Silicon Valley Bank was taken over by federal regulators on Friday, capping a spectacular collapse after t..."
+    },
+    {
+      "id": "q-2056",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Elon Musk has taken control of Twitter and ousted the CEO, chief financial officer and the company's top lawyer, two people familiar with the deal said Elon Musk has fired Twitter's CEO, as well as a ..."
+    },
+    {
+      "id": "q-2057",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Protesters supporting President Donald Trump stormed the US Capitol Wednesday, clashing with police and forcing a delay in the constitutional process The US Capitol was overtaken Wednesday by supporte..."
+    },
+    {
+      "id": "q-2058",
+      "pred": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "context_used": "Prime Minister Liz Truss resigned following a failed tax-cutting budget that rocked financial markets British Prime Minister Liz Truss quit on Thursday \u2014 bowing to the inevitable after a tumultuous te..."
+    },
+    {
+      "id": "q-2059",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Protesters supporting President Donald Trump stormed the US Capitol Wednesday, clashing with police and forcing a delay in the constitutional process The US Capitol was overtaken Wednesday by supporte..."
+    },
+    {
+      "id": "q-2060",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Chinese technology company DeepSeek has made headlines globally with the launch of its open-source AI model, DeepSeek-R1 Chinese tech start-up DeepSeek is shaking the US' AI sector with its open-sourc..."
+    },
+    {
+      "id": "q-2061",
+      "pred": "A",
+      "gold": "A,D",
+      "score": 0.5,
+      "context_used": "Prime Minister Liz Truss resigned following a failed tax-cutting budget that rocked financial markets British Prime Minister Liz Truss quit on Thursday \u2014 bowing to the inevitable after a tumultuous te..."
+    },
+    {
+      "id": "q-2062",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Myanmar's military seized power in a bloodless coup, detaining democratically elected leader Aung San Suu Kyi Myanmar's military staged a coup Monday and detained senior politicians including Nobel la..."
+    },
+    {
+      "id": "q-2063",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Senate has passed landmark legislation that creates the first federal regulatory framework for dollar-pegged stablecoins The US House of Representatives and the US Senate continue to advance federal s..."
+    },
+    {
+      "id": "q-2064",
+      "pred": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "context_used": "Yevgeny Prigozhin, commander of the Wagner mercenary army, has denied claims that he is planning a military coup against Russia's President Yevgeny Prigozhin, founder of Russia's Wagner mercenary forc..."
+    },
+    {
+      "id": "q-2065",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Chinese technology company DeepSeek has made headlines globally with the launch of its open-source AI model, DeepSeek-R1 Recently, with the emergence of DeepSeek V3 and R1, American AI researchers, Ch..."
+    },
+    {
+      "id": "q-2066",
+      "pred": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, US President Donald Trump has recounted the final moments of Ir..."
+    },
+    {
+      "id": "q-2067",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Prime Minister David Cameron's resignation and wreaked Voters in the UK have decided to leave the European Union, a d..."
+    },
+    {
+      "id": "q-2068",
+      "pred": "A,C",
+      "gold": "A,D",
+      "score": 0.0,
+      "context_used": "The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the country The withdrawal of US forces from Afghanistan and the Taliban's swif..."
+    },
+    {
+      "id": "q-2069",
+      "pred": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "context_used": "The US Capitol was overtaken Wednesday by supporters of President Donald Trump, who, spurred on by his comments and angered by his loss, breached police lines The Capitol was breached by Trump support..."
+    },
+    {
+      "id": "q-2070",
+      "pred": "C",
+      "gold": "C,D",
+      "score": 0.5,
+      "context_used": "Workers in Japan have started releasing treated radioactive water from the Fukushima Daiichi nuclear power plant into the Pacific Ocean Japan began releasing water from its crippled Fukushima nuclear ..."
+    },
+    {
+      "id": "q-2071",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "At least 24 people have died as a result of fires consuming large swaths of the West Coast, with hundreds of thousands under evacuation orders to get to safety At least seven people, including a 1-yea..."
+    },
+    {
+      "id": "q-2072",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Facebook's new corporate name is Meta, CEO Mark Zuckerberg announced on Thursday, in an apparent effort to recast the company's public image Facebook is changing its company name as it shifts its focu..."
+    },
+    {
+      "id": "q-2073",
+      "pred": "B",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "Floyd, a Black man, died in May 2020 after being handcuffed and pinned to the ground by Minneapolis police officers in an episode that Protesters have been rallying across the United States since the ..."
+    },
+    {
+      "id": "q-2074",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Former Japanese Prime Minister Shinzo Abe, a nationalist who served in the post longer than anyone else before stepping down in 2020, was shot and killed on Shinzo Abe, the former prime minister of Ja..."
+    },
+    {
+      "id": "q-2075",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "More than a million people have tried out ChatGPT, a new online artificial intelligence tool trained to mimic human responses On Thursday, OpenAI released ChatGPT, a bot that converses with humans via..."
+    },
+    {
+      "id": "q-2076",
+      "pred": "C,D",
+      "gold": "D",
+      "score": 0.0,
+      "context_used": "The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the country The Taliban seized power in Afghanistan amid a chaotic U interventi..."
+    },
+    {
+      "id": "q-2077",
+      "pred": "A",
+      "gold": "A,B",
+      "score": 0.5,
+      "context_used": "The United States ban on TikTok went into effect on The United States government is poised to issue a ban on TikTok, one of the most popular social media platforms in the world Geoffrey Gertz discusse..."
+    },
+    {
+      "id": "q-2078",
+      "pred": "D",
+      "gold": "A",
+      "score": 0.0,
+      "context_used": "Tesla CEO Elon Musk last week wrapped up his official government service leading DOGE for the Trump administration Billionaire Trump ally Elon Musk, who leads the newly formed Department of Government..."
+    },
+    {
+      "id": "q-2079",
+      "pred": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "context_used": "Myanmar's military seized power in a bloodless coup, detaining democratically elected leader Aung San Suu Kyi Myanmar's military seized control of the country Monday, detaining the country's de facto ..."
+    },
+    {
+      "id": "q-2080",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "The storm knocked out power to more than 4 million households in Texas, raising questions about the durability of the power grid in the United States' second- Extreme Cold and Record Snowfall to Test ..."
+    },
+    {
+      "id": "q-2081",
+      "pred": "C",
+      "gold": "A",
+      "score": 0.0,
+      "context_used": "The GENIUS Act establishes the first federal framework for dollar-pegged stablecoins, granting sweeping authority to the Department of The US House of Representatives and the US Senate continue to adv..."
+    },
+    {
+      "id": "q-2082",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Opposition lawmakers failed to impeach President Yoon Suk Yeol over the political crisis he sparked by declaring martial law earlier this South Korean legislators have launched a push to impeach Presi..."
+    },
+    {
+      "id": "q-2083",
+      "pred": "C",
+      "gold": "C,D",
+      "score": 0.5,
+      "context_used": "tariffs on China, Canada and Mexico went into effect, and as the possible ramifications of a global President Donald Trump also declared that if Canada does not lift other tariffs on the U Trump's fir..."
+    },
+    {
+      "id": "q-2084",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Opposition lawmakers failed to impeach President Yoon Suk Yeol over the political crisis he sparked by declaring martial law earlier this South Korean legislators have launched a push to impeach Presi..."
+    },
+    {
+      "id": "q-2085",
+      "pred": "B",
+      "gold": "A,B",
+      "score": 0.5,
+      "context_used": "Japan will begin discharging treated wastewater from the Fukushima nuclear power plant into the Pacific Ocean, the Japanese government Japan began releasing wastewater from the crippled Fukushima nucl..."
+    },
+    {
+      "id": "q-2086",
+      "pred": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "context_used": "The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the country Taliban fighters watched the last U Since American troops left in A..."
+    },
+    {
+      "id": "q-2087",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Japan began releasing wastewater from the crippled Fukushima nuclear plant into the Pacific Ocean on Thursday despite angry opposition from China and local Japan will begin discharging treated wastewa..."
+    },
+    {
+      "id": "q-2088",
+      "pred": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "context_used": "The storm knocked out power to more than 4 million households in Texas, raising questions about the durability of the power grid in the United States' second- Extreme Cold and Record Snowfall to Test ..."
+    },
+    {
+      "id": "q-2089",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "NVIDIA today became the first company ever to hit a market capitalization of $4 trillion chipmaker Nvidia reported a 101% year-over-year jump in quarterly revenue Wednesday, as companies around the wo..."
+    },
+    {
+      "id": "q-2090",
+      "pred": "D",
+      "gold": "C,D",
+      "score": 0.5,
+      "context_used": "citizens may vote to leave the EU Since British voters elected on Thursday to leave the European Union, signs have quickly emerged of the flaws in holding a referendum on The decision by the United Ki..."
+    },
+    {
+      "id": "q-2091",
+      "pred": "A",
+      "gold": "A,B",
+      "score": 0.5,
+      "context_used": "Extreme Cold and Record Snowfall to Test Texas Power Grid From the deadly pile-up crash in Fort Worth to a winter wonderland of snow to rolling outages to concerns of sky-high CPS Energy bills, here's..."
+    },
+    {
+      "id": "q-2092",
+      "pred": "A",
+      "gold": "A,B",
+      "score": 0.5,
+      "context_used": "Chinese technology company DeepSeek has made headlines globally with the launch of its open-source AI model, DeepSeek-R1 Chinese tech start-up DeepSeek is shaking the US' AI sector with its open-sourc..."
+    },
+    {
+      "id": "q-2093",
+      "pred": "B",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "Yevgeny Prigozhin, commander of the Wagner mercenary army, has denied claims that he is planning a military coup against Russia's President Russia's notorious mercenary leader Yevgeny Prigozhin staged..."
+    },
+    {
+      "id": "q-2094",
+      "pred": "A",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "The US Capitol was overtaken Wednesday by supporters of President Donald Trump, who, spurred on by his comments and angered by his loss, breached police lines Trump supporters clash with police and se..."
+    },
+    {
+      "id": "q-2095",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "South Korean legislators have launched a push to impeach President Yoon Suk Yeol, accusing him of declaring martial law in order to evade investigations Opposition lawmakers failed to impeach Presiden..."
+    },
+    {
+      "id": "q-2096",
+      "pred": "C",
+      "gold": "A",
+      "score": 0.0,
+      "context_used": "Floyd, a Black man, died in May 2020 after being handcuffed and pinned to the ground by Minneapolis police officers in an episode that George Floyd's death sparked anger and episodes of looting as tho..."
+    },
+    {
+      "id": "q-2097",
+      "pred": "D",
+      "gold": "A,D",
+      "score": 0.5,
+      "context_used": "chipmaker Nvidia reported a 101% year-over-year jump in quarterly revenue Wednesday, as companies around the world It was a stellar day for graphics chipmaker Nvidia, with shares surging 24% to a reco..."
+    },
+    {
+      "id": "q-2098",
+      "pred": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "context_used": "Floyd, a Black man, died in May 2020 after being handcuffed and pinned to the ground by Minneapolis police officers in an episode that The officer who knelt on Floyd's neck was charged with The death ..."
+    },
+    {
+      "id": "q-2099",
+      "pred": "A,B",
+      "gold": "A,B,D",
+      "score": 0.5,
+      "context_used": "The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the country A takeover of the entire country was all but absolute as the Afghan..."
+    },
+    {
+      "id": "q-2100",
+      "pred": "D",
+      "gold": "A,D",
+      "score": 0.5,
+      "context_used": "Yevgeny Prigozhin, commander of the Wagner mercenary army, has denied claims that he is planning a military coup against Russia's President Yevgeniy Prigozhin, the mercenary Wagner Group chief who led..."
+    },
+    {
+      "id": "q-2101",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "The Lebanese judge investigating the massive explosion in the port of Beirut has charged the acting prime minister, Hassan Diab, and three former ministers Information minister says army will oversee ..."
+    },
+    {
+      "id": "q-2102",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "A major winter storm hit a large part of the United States on Monday, with heavy snow and cold temperatures in Texas Extreme Cold and Record Snowfall to Test Texas Power Grid From the deadly pile-up c..."
+    },
+    {
+      "id": "q-2103",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "It was a stellar day for graphics chipmaker Nvidia, with shares surging 24% to a record high thanks to an analyst-clobbering quarterly Nvidia stock has rebounded from its slump earlier this year, hitt..."
+    },
+    {
+      "id": "q-2104",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The Lebanese judge investigating the massive explosion in the port of Beirut has charged the acting prime minister, Hassan Diab, and three former ministers Information minister says army will oversee ..."
+    },
+    {
+      "id": "q-2105",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The Capitol was breached by Trump supporters who had been declaring, at rally after rally, that they would go to violent lengths to keep the President in power The US Capitol was overtaken Wednesday b..."
+    },
+    {
+      "id": "q-2106",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Large, explosive and destructive fires have torn through parts of California this year well before the state's most extreme fire weather The wildfires burning in and around Los Angeles have razed neig..."
+    },
+    {
+      "id": "q-2107",
+      "pred": "A",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "Former Japanese Prime Minister Shinzo Abe, a nationalist who served in the post longer than anyone else before stepping down in 2020, was shot and killed on The murder on 8 July 2022 of former Japanes..."
+    },
+    {
+      "id": "q-2108",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Opposition lawmakers failed to impeach President Yoon Suk Yeol over the political crisis he sparked by declaring martial law earlier this South Korean legislators have launched a push to impeach Presi..."
+    },
+    {
+      "id": "q-2109",
+      "pred": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "context_used": "UBS will take over its troubled Swiss rival Credit Suisse for $3 UBS agreed to buy its embattled rival Credit Suisse for 3 billion Swiss francs ($3 UBS will buy rival Credit Suisse for more than $3 bi..."
+    },
+    {
+      "id": "q-2110",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, Qassem Soleimani last week, another chapter in the long story o..."
+    },
+    {
+      "id": "q-2111",
+      "pred": "A",
+      "gold": "A,B",
+      "score": 0.5,
+      "context_used": "Japan will begin discharging treated radioactive water from the stricken Fukushima Daiichi nuclear plant into the sea as early as Thursday Japan will begin discharging treated wastewater from the Fuku..."
+    },
+    {
+      "id": "q-2112",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "A crowd surge in a narrow alley in the capital's Itaewon district killed more than 150 people and injured more than 140 on Saturday evening At least 158 people were killed in a crowd crush during Hall..."
+    },
+    {
+      "id": "q-2113",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "After months of conflicting statements from Huawei executives, the Chinese networking giant on Friday officially unveiled HarmonyOS, Chinese tech giant Huawei Technologies plans to equip more of its p..."
+    },
+    {
+      "id": "q-2114",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "A crowd surge in a narrow alley in the capital's Itaewon district killed more than 150 people and injured more than 140 on Saturday evening At least 158 people were killed in a crowd crush during Hall..."
+    },
+    {
+      "id": "q-2115",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "After months of conflicting statements from Huawei executives, the Chinese networking giant on Friday officially unveiled HarmonyOS, Huawei has finally unveiled its own operating system, a move that c..."
+    },
+    {
+      "id": "q-2116",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "President-elect Donald Trump won Arizona on Saturday, November 9, returning the state and its 11 electoral votes to the Republican column after Joe Biden's With a victory in Arizona on Saturday, US Pr..."
+    },
+    {
+      "id": "q-2117",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, Tehran's Iraqi proxies mostly sat out the twelve-day war, but t..."
+    },
+    {
+      "id": "q-2118",
+      "pred": "C",
+      "gold": "A,B,D",
+      "score": 0.0,
+      "context_used": "The storm knocked out power to more than 4 million households in Texas, raising questions about the durability of the power grid in the United States' second- Extreme Cold and Record Snowfall to Test ..."
+    },
+    {
+      "id": "q-2119",
+      "pred": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "context_used": "UBS will take over its troubled Swiss rival Credit Suisse for $3 UBS agreed to buy its embattled rival Credit Suisse for 3 billion Swiss francs ($3 UBS will buy rival Credit Suisse for more than $3 bi..."
+    },
+    {
+      "id": "q-2120",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Ronan Farrow reports the stories of thirteen women who say that, between the nineteen-nineties and 2015, Harvey Weinstein sexually harassed Weinstein's treatment of women in Hollywood Many women, as w..."
+    },
+    {
+      "id": "q-2121",
+      "pred": "C,D",
+      "gold": "A,C",
+      "score": 0.0,
+      "context_used": "The S&P 500 fell almost 5 percent on Thursday, its worst drop since June 2020, as allies and adversaries alike criticized President Trump's Stocks closed lower Tuesday after another volatile session o..."
+    },
+    {
+      "id": "q-2122",
+      "pred": "A,D",
+      "gold": "A,B,D",
+      "score": 0.5,
+      "context_used": "Myanmar's military seized control of the country Monday, detaining the country's de facto leader, Aung San Suu Kyi, and declaring a state of emergency Myanmar's military seized power in a bloodless co..."
+    },
+    {
+      "id": "q-2123",
+      "pred": "B",
+      "gold": "A",
+      "score": 0.0,
+      "context_used": "Myanmar's military seized control of the country Monday, detaining the country's de facto leader, Aung San Suu Kyi, and declaring a state of emergency Myanmar's military seized power in a bloodless co..."
+    },
+    {
+      "id": "q-2124",
+      "pred": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "Prime Minister Liz Truss resigned following a failed tax-cutting budget that rocked financial markets The UK prime minister abandoned her tax proposal and fired her chancellor Kwasi Kwarteng PM Liz Tr..."
+    },
+    {
+      "id": "q-2125",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, US President Donald Trump has recounted the final moments of Ir..."
+    },
+    {
+      "id": "q-2126",
+      "pred": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "After months of conflicting statements from Huawei executives, the Chinese networking giant on Friday officially unveiled HarmonyOS, Huawei on Friday unveiled its long-awaited self-developed operating..."
+    },
+    {
+      "id": "q-2127",
+      "pred": "C",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the country Since American troops left in August of 2021, many Afghans have The..."
+    },
+    {
+      "id": "q-2128",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "The wildfires burning in and around Los Angeles have razed neighborhoods, killed at least 29 people and forced desperate evacuations Large, explosive and destructive fires have torn through parts of C..."
+    },
+    {
+      "id": "q-2129",
+      "pred": "A,D",
+      "gold": "A,B,D",
+      "score": 0.5,
+      "context_used": "Myanmar's military has seized power and declared a state of emergency for one year following days of escalating tension over the result of November's Myanmar's military seized control of the country M..."
+    },
+    {
+      "id": "q-2130",
+      "pred": "A",
+      "gold": "A,B,D",
+      "score": 0.5,
+      "context_used": "Trump supporters clash with police and security forces as they try to storm the Capitol in Washington, DC on Wednesday The US Capitol was overtaken Wednesday by supporters of President Donald Trump, w..."
+    },
+    {
+      "id": "q-2131",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "A suspected participant in the suicide bombing at the Kabul airport that killed 13 American service members and roughly 170 Afghan civilians Since American troops left in August of 2021, many Afghans ..."
+    },
+    {
+      "id": "q-2132",
+      "pred": "C",
+      "gold": "D",
+      "score": 0.0,
+      "context_used": "Chinese technology company DeepSeek has made headlines globally with the launch of its open-source AI model, DeepSeek-R1 Chinese tech start-up DeepSeek is shaking the US' AI sector with its open-sourc..."
+    },
+    {
+      "id": "q-2133",
+      "pred": "B",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "UBS will buy rival Credit Suisse for more than $3 billion in a deal brokered by Swiss officials to try and prevent a banking crisis UBS Group AG agreed to buy Credit Suisse Group AG in a historic, gov..."
+    },
+    {
+      "id": "q-2134",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the country intervention that ended the way it began: with the Taliban in contr..."
+    },
+    {
+      "id": "q-2135",
+      "pred": "A",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "context_used": "Opposition lawmakers failed to impeach President Yoon Suk Yeol over the political crisis he sparked by declaring martial law earlier this South Korean legislators have launched a push to impeach Presi..."
+    },
+    {
+      "id": "q-2136",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Chinese technology company DeepSeek has made headlines globally with the launch of its open-source AI model, DeepSeek-R1 Recently, with the emergence of DeepSeek V3 and R1, American AI researchers, Ch..."
+    },
+    {
+      "id": "q-2137",
+      "pred": "A",
+      "gold": "A,D",
+      "score": 0.5,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, Tehran's Iraqi proxies mostly sat out the twelve-day war, but t..."
+    },
+    {
+      "id": "q-2138",
+      "pred": "B",
+      "gold": "D",
+      "score": 0.0,
+      "context_used": "Tesla CEO Elon Musk last week wrapped up his official government service leading DOGE for the Trump administration Billionaire Trump ally Elon Musk, who leads the newly formed Department of Government..."
+    },
+    {
+      "id": "q-2139",
+      "pred": "A",
+      "gold": "A,D",
+      "score": 0.5,
+      "context_used": "Thousands of drivers blocked roads across France Saturday in a 'yellow vest' movement against high fuel prices which has mushroomed into a widespread protest French President Emmanuel Macron condemned..."
+    },
+    {
+      "id": "q-2140",
+      "pred": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "The US Capitol was overtaken Wednesday by supporters of President Donald Trump, who, spurred on by his comments and angered by his loss, breached police lines The Capitol was breached by Trump support..."
+    },
+    {
+      "id": "q-2141",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Facebook's new corporate name is Meta, CEO Mark Zuckerberg announced on Thursday, in an apparent effort to recast the company's public image Facebook changed its corporate name to Meta on Thursday, mo..."
+    },
+    {
+      "id": "q-2142",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "The Lebanese judge investigating the massive explosion in the port of Beirut has charged the acting prime minister, Hassan Diab, and three former ministers About 2,750 tons of improperly stored ammoni..."
+    },
+    {
+      "id": "q-2143",
+      "pred": "D",
+      "gold": "A",
+      "score": 0.0,
+      "context_used": "Since American troops left in August of 2021, many Afghans have A suspected participant in the suicide bombing at the Kabul airport that killed 13 American service members and roughly 170 Afghan civil..."
+    },
+    {
+      "id": "q-2144",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Despite official resistance to the idea in the Trump administration, the wildfires raging across California, Oregon and Washington At least 24 people have died as a result of fires consuming large swa..."
+    },
+    {
+      "id": "q-2145",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "With DALL-E and ChatGPT, OpenAI shows the general public the possibilities of AI OpenAI launched ChatGPT exactly one year ago On Thursday, OpenAI released ChatGPT, a bot that converses with humans via..."
+    },
+    {
+      "id": "q-2146",
+      "pred": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "context_used": "Russia's notorious mercenary leader Yevgeny Prigozhin staged an apparent insurrection, sending an armoured convoy towards Moscow and raising questions about In Putin's Sledgehammer, Candace Rondeaux g..."
+    },
+    {
+      "id": "q-2147",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Protesters supporting President Donald Trump stormed the US Capitol Wednesday, clashing with police and forcing a delay in the constitutional process The US Capitol was overtaken Wednesday by supporte..."
+    },
+    {
+      "id": "q-2148",
+      "pred": "C,D",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "context_used": "Thousands of drivers blocked roads across France Saturday in a 'yellow vest' movement against high fuel prices which has mushroomed into a widespread protest French President Emmanuel Macron condemned..."
+    },
+    {
+      "id": "q-2149",
+      "pred": "A,B",
+      "gold": "C",
+      "score": 0.0,
+      "context_used": "Thousands of fires are ravaging the Amazon rainforest in Brazil As the fires ravaging Brazil's Amazon stoke global outrage, its neighbors are also scorching, ripping up and poisoning their forests -- ..."
+    },
+    {
+      "id": "q-2150",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "After months of conflicting statements from Huawei executives, the Chinese networking giant on Friday officially unveiled HarmonyOS, Chinese tech giant Huawei Technologies plans to equip more of its p..."
+    },
+    {
+      "id": "q-2151",
+      "pred": "B,D",
+      "gold": "B,C,D",
+      "score": 0.5,
+      "context_used": "Brazilian President Jair Bolsonaro has responded to growing international condemnation over the fires sweeping through vast swaths of the Amazon rainforest The fires scorching the Amazon come amid gro..."
+    },
+    {
+      "id": "q-2152",
+      "pred": "B,D",
+      "gold": "C",
+      "score": 0.0,
+      "context_used": "Thousands of fires are ravaging the Amazon rainforest in Brazil As the fires ravaging Brazil's Amazon stoke global outrage, its neighbors are also scorching, ripping up and poisoning their forests -- ..."
+    },
+    {
+      "id": "q-2153",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Manufacturers like Harley will suffer, as when a steel tariff was imposed in 2002 The change in the structure of global supply has important implications for US President Donald Trump as he contemplat..."
+    },
+    {
+      "id": "q-2154",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Extreme Cold and Record Snowfall to Test Texas Power Grid From the deadly pile-up crash in Fort Worth to a winter wonderland of snow to rolling outages to concerns of sky-high CPS Energy bills, here's..."
+    },
+    {
+      "id": "q-2155",
+      "pred": "A",
+      "gold": "B",
+      "score": 0.0,
+      "context_used": "Thousands of fires are ravaging the Amazon rainforest in Brazil As the fires ravaging Brazil's Amazon stoke global outrage, its neighbors are also scorching, ripping up and poisoning their forests -- ..."
+    },
+    {
+      "id": "q-2156",
+      "pred": "B",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "China announced Thursday it was banning all seafood from Japan in response to Tokyo's decision to begin releasing treated radioactive wastewater from the Japan began releasing wastewater from the crip..."
+    },
+    {
+      "id": "q-2157",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "After months of conflicting statements from Huawei executives, the Chinese networking giant on Friday officially unveiled HarmonyOS, Chinese tech giant Huawei Technologies plans to equip more of its p..."
+    },
+    {
+      "id": "q-2158",
+      "pred": "D",
+      "gold": "C,D",
+      "score": 0.5,
+      "context_used": "A crowd surge in a narrow alley in the capital's Itaewon district killed more than 150 people and injured more than 140 on Saturday evening South Korean officials say at least 26 foreign nationals wer..."
+    },
+    {
+      "id": "q-2159",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Geoffrey Gertz discusses the possible acquisition of the music app, TikTok,, by Chinese investors, and the role of the Committee on Foreign Investment in The United States ban on TikTok went into effe..."
+    },
+    {
+      "id": "q-2160",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "7-magnitude earthquake hit central Myanmar, causing buildings to collapse and a high number of casualties in the region 7-magnitude quake struck near the city of Mandalay, according to Myanmar's 7 mag..."
+    },
+    {
+      "id": "q-2161",
+      "pred": "C",
+      "gold": "C,D",
+      "score": 0.5,
+      "context_used": "Extreme Cold and Record Snowfall to Test Texas Power Grid A major winter storm hit a large part of the United States on Monday, with heavy snow and cold temperatures in Texas From the deadly pile-up c..."
+    },
+    {
+      "id": "q-2162",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "At least 158 people were killed in a crowd crush during Halloween celebrations in the streets and narrow alleys of the Itaewon area of Seoul on the night of The Halloween crush in Seoul's Itaewon dist..."
+    },
+    {
+      "id": "q-2163",
+      "pred": "A",
+      "gold": "C",
+      "score": 0.0,
+      "context_used": "Chinese technology company DeepSeek has made headlines globally with the launch of its open-source AI model, DeepSeek-R1 Chinese tech start-up DeepSeek is shaking the US' AI sector with its open-sourc..."
+    },
+    {
+      "id": "q-2164",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Prime Minister Liz Truss resigned following a failed tax-cutting budget that rocked financial markets British Prime Minister Liz Truss quit on Thursday \u2014 bowing to the inevitable after a tumultuous te..."
+    },
+    {
+      "id": "q-2165",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Former Japanese Prime Minister Shinzo Abe, a nationalist who served in the post longer than anyone else before stepping down in 2020, was shot and killed on Shinzo Abe, the former prime minister of Ja..."
+    },
+    {
+      "id": "q-2166",
+      "pred": "C",
+      "gold": "A",
+      "score": 0.0,
+      "context_used": "OpenAI launched ChatGPT exactly one year ago The hype around ChatGPT, the sophisticated chatbot from OpenAI, has flooded all corners of the tech world since it was publicly released last month On Thur..."
+    },
+    {
+      "id": "q-2167",
+      "pred": "A",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "The officer who knelt on Floyd's neck was charged with Floyd, a Black man, died in May 2020 after being handcuffed and pinned to the ground by Minneapolis police officers in an episode that George Flo..."
+    },
+    {
+      "id": "q-2168",
+      "pred": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "context_used": "Thousands of drivers blocked roads across France Saturday in a 'yellow vest' movement against high fuel prices which has mushroomed into a widespread protest French President Emmanuel Macron condemned..."
+    },
+    {
+      "id": "q-2169",
+      "pred": "B,C,D",
+      "gold": "B,C",
+      "score": 0.0,
+      "context_used": "More than a million people have tried out ChatGPT, a new online artificial intelligence tool trained to mimic human responses On Thursday, OpenAI released ChatGPT, a bot that converses with humans via..."
+    },
+    {
+      "id": "q-2170",
+      "pred": "A",
+      "gold": "A,D",
+      "score": 0.5,
+      "context_used": "UBS agreed to buy its embattled rival Credit Suisse for 3 billion Swiss francs ($3 UBS will take over its troubled Swiss rival Credit Suisse for $3 UBS will buy rival Credit Suisse for more than $3 bi..."
+    },
+    {
+      "id": "q-2171",
+      "pred": "A",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "After days of speculation about an impending coup, Myanmar's military has formally seized power the very day a newly elected parliament was scheduled to meet Myanmar's military seized power in a blood..."
+    },
+    {
+      "id": "q-2172",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Prime Minister David Cameron's resignation and wreaked Voters in the UK have decided to leave the European Union, a d..."
+    },
+    {
+      "id": "q-2173",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Ronan Farrow reports the stories of thirteen women who say that, between the nineteen-nineties and 2015, Harvey Weinstein sexually harassed Tarana Burke was helping victims of sexual harassment long b..."
+    },
+    {
+      "id": "q-2174",
+      "pred": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "context_used": "Japan began releasing water from its crippled Fukushima nuclear plant into the Pacific Ocean Thursday over the objections of local fishermen and the government Japan will begin discharging treated was..."
+    },
+    {
+      "id": "q-2175",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Prime Minister Liz Truss resigned following a failed tax-cutting budget that rocked financial markets British Prime Minister Liz Truss quit on Thursday \u2014 bowing to the inevitable after a tumultuous te..."
+    },
+    {
+      "id": "q-2176",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Brazilian President Jair Bolsonaro has responded to growing international condemnation over the fires sweeping through vast swaths of the Amazon rainforest The fires scorching the Amazon come amid gro..."
+    },
+    {
+      "id": "q-2177",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Prime Minister David Cameron's resignation and wreaked Voters in the UK have decided to leave the European Union, a d..."
+    },
+    {
+      "id": "q-2178",
+      "pred": "A",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "The worldwide spread of the new disease known as COVID-19 has created a global health crisis unseen in modern times, triggering dramatic The novel coronavirus, SARS-CoV-2, and the disease it causes, C..."
+    },
+    {
+      "id": "q-2179",
+      "pred": "D",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "context_used": "After months of conflicting statements from Huawei executives, the Chinese networking giant on Friday officially unveiled HarmonyOS, Chinese tech giant Huawei Technologies plans to equip more of its p..."
+    },
+    {
+      "id": "q-2180",
+      "pred": "A,B",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "Yevgeny Prigozhin, commander of the Wagner mercenary army, has denied claims that he is planning a military coup against Russia's President Yevgeny Prigozhin, founder of Russia's Wagner mercenary forc..."
+    },
+    {
+      "id": "q-2181",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Japan began releasing wastewater from the crippled Fukushima nuclear plant into the Pacific Ocean on Thursday despite angry opposition from China and local Japan will begin discharging treated wastewa..."
+    },
+    {
+      "id": "q-2182",
+      "pred": "D",
+      "gold": "C",
+      "score": 0.0,
+      "context_used": "intervention that ended the way it began: with the Taliban in control of The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the co..."
+    },
+    {
+      "id": "q-2183",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Japan began releasing wastewater from the crippled Fukushima nuclear plant into the Pacific Ocean on Thursday despite angry opposition from China and local Japan began releasing water from its cripple..."
+    },
+    {
+      "id": "q-2184",
+      "pred": "A",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "UBS will buy rival Credit Suisse for more than $3 billion in a deal brokered by Swiss officials to try and prevent a banking crisis UBS will take over its troubled Swiss rival Credit Suisse for $3 UBS..."
+    },
+    {
+      "id": "q-2185",
+      "pred": "C",
+      "gold": "A",
+      "score": 0.0,
+      "context_used": "Manufacturers like Harley will suffer, as when a steel tariff was imposed in 2002 The change in the structure of global supply has important implications for US President Donald Trump as he contemplat..."
+    },
+    {
+      "id": "q-2186",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Japan began releasing wastewater from the crippled Fukushima nuclear plant into the Pacific Ocean on Thursday despite angry opposition from China and local Japan will begin discharging treated wastewa..."
+    },
+    {
+      "id": "q-2187",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "With DALL-E and ChatGPT, OpenAI shows the general public the possibilities of AI OpenAI launched ChatGPT exactly one year ago More than a million people have tried out ChatGPT, a new online artificial..."
+    },
+    {
+      "id": "q-2188",
+      "pred": "B",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "7-magnitude earthquake hit central Myanmar, causing buildings to collapse and a high number of casualties in the region 7-magnitude quake struck near the city of Mandalay, according to Myanmar's A pow..."
+    },
+    {
+      "id": "q-2189",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The wildfires burning in and around Los Angeles have razed neighborhoods, killed at least 29 people and forced desperate evacuations Large, explosive and destructive fires have torn through parts of C..."
+    },
+    {
+      "id": "q-2190",
+      "pred": "A",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "Chinese technology company DeepSeek has made headlines globally with the launch of its open-source AI model, DeepSeek-R1 Recently, with the emergence of DeepSeek V3 and R1, American AI researchers, Ch..."
+    },
+    {
+      "id": "q-2191",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "The worldwide spread of the new disease known as COVID-19 has created a global health crisis unseen in modern times, triggering dramatic The novel coronavirus, SARS-CoV-2, and the disease it causes, C..."
+    },
+    {
+      "id": "q-2192",
+      "pred": "C",
+      "gold": "A",
+      "score": 0.0,
+      "context_used": "The worldwide spread of the new disease known as COVID-19 has created a global health crisis unseen in modern times, triggering dramatic The novel coronavirus, SARS-CoV-2, and the disease it causes, C..."
+    },
+    {
+      "id": "q-2193",
+      "pred": "C",
+      "gold": "C,D",
+      "score": 0.5,
+      "context_used": "The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Prime Minister David Cameron's resignation and wreaked Voters in the UK have decided to leave the European Union, a d..."
+    },
+    {
+      "id": "q-2194",
+      "pred": "A",
+      "gold": "B,D",
+      "score": 0.0,
+      "context_used": "Brazilian President Jair Bolsonaro has responded to growing international condemnation over the fires sweeping through vast swaths of the Amazon rainforest Thousands of fires are ravaging the Amazon r..."
+    },
+    {
+      "id": "q-2195",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "After months of conflicting statements from Huawei executives, the Chinese networking giant on Friday officially unveiled HarmonyOS, Huawei on Friday unveiled its long-awaited self-developed operating..."
+    },
+    {
+      "id": "q-2196",
+      "pred": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "context_used": "Myanmar's military seized power in a bloodless coup, detaining democratically elected leader Aung San Suu Kyi Myanmar's military seized control of the country Monday, detaining the country's de facto ..."
+    },
+    {
+      "id": "q-2197",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The novel coronavirus, SARS-CoV-2, and the disease it causes, COVID-19, have transfixed the global community, as leaders and citizens seek to respond to a The worldwide spread of the new disease known..."
+    },
+    {
+      "id": "q-2198",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Many women, as well as men, are using the hashtag to show the prevalence of sexual misconduct in the wake of the Harvey Weinstein Ronan Farrow reports the stories of thirteen women who say that, betwe..."
+    },
+    {
+      "id": "q-2199",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "The US Capitol was overtaken Wednesday by supporters of President Donald Trump, who, spurred on by his comments and angered by his loss, breached police lines The Capitol was breached by Trump support..."
+    },
+    {
+      "id": "q-2200",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Myanmar's military seized power in a bloodless coup, detaining democratically elected leader Aung San Suu Kyi Myanmar's military has seized power and declared a state of emergency for one year followi..."
+    },
+    {
+      "id": "q-2201",
+      "pred": "B",
+      "gold": "A,B",
+      "score": 0.5,
+      "context_used": "Chinese technology company DeepSeek has made headlines globally with the launch of its open-source AI model, DeepSeek-R1 Chinese tech start-up DeepSeek is shaking the US' AI sector with its open-sourc..."
+    },
+    {
+      "id": "q-2202",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "chipmaker Nvidia reported a 101% year-over-year jump in quarterly revenue Wednesday, as companies around the world It was a stellar day for graphics chipmaker Nvidia, with shares surging 24% to a reco..."
+    },
+    {
+      "id": "q-2203",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Floyd, a Black man, died in May 2020 after being handcuffed and pinned to the ground by Minneapolis police officers in an episode that The officer who knelt on Floyd's neck was charged with George Flo..."
+    },
+    {
+      "id": "q-2204",
+      "pred": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "US Senate will likely vote on Wednesday on a bill to halt Trump's tariffs on Canadian imports amid economic uncertainty tariffs on China, Canada and Mexico went into effect, and as the possible ramifi..."
+    },
+    {
+      "id": "q-2205",
+      "pred": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "context_used": "The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the country The withdrawal of US forces from Afghanistan and the Taliban's swif..."
+    },
+    {
+      "id": "q-2206",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "The Lebanese judge investigating the massive explosion in the port of Beirut has charged the acting prime minister, Hassan Diab, and three former ministers It has been three weeks since a massive expl..."
+    },
+    {
+      "id": "q-2207",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "South Korean officials say at least 26 foreign nationals were among the more than 150 people killed in the incident in Seoul's Itaewon A crowd surge in a narrow alley in the capital's Itaewon district..."
+    },
+    {
+      "id": "q-2208",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, Qassem Soleimani last week, another chapter in the long story o..."
+    },
+    {
+      "id": "q-2209",
+      "pred": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "context_used": "Myanmar's military has seized power and declared a state of emergency for one year following days of escalating tension over the result of November's After days of speculation about an impending coup,..."
+    },
+    {
+      "id": "q-2210",
+      "pred": "B",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "Voters in the UK have decided to leave the European Union, a decision that has shocked Europe, shaken global markets and pushed Prime Minister David Cameron to The United Kingdom's vote to leave the E..."
+    },
+    {
+      "id": "q-2211",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "7-magnitude earthquake hit central Myanmar, causing buildings to collapse and a high number of casualties in the region 7-magnitude quake struck near the city of Mandalay, according to Myanmar's A pow..."
+    },
+    {
+      "id": "q-2212",
+      "pred": "B",
+      "gold": "D",
+      "score": 0.0,
+      "context_used": "Chinese technology company DeepSeek has made headlines globally with the launch of its open-source AI model, DeepSeek-R1 Recently, with the emergence of DeepSeek V3 and R1, American AI researchers, Ch..."
+    },
+    {
+      "id": "q-2213",
+      "pred": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "context_used": "South Korean officials say at least 26 foreign nationals were among the more than 150 people killed in the incident in Seoul's Itaewon At least 149 people were killed and another 150 injured after the..."
+    },
+    {
+      "id": "q-2214",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Japan began releasing water from its crippled Fukushima nuclear plant into the Pacific Ocean Thursday over the objections of local fishermen and the government Workers in Japan have started releasing ..."
+    },
+    {
+      "id": "q-2215",
+      "pred": "A",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "context_used": "Myanmar's military seized power in a bloodless coup, detaining democratically elected leader Aung San Suu Kyi Myanmar's military staged a coup Monday and detained senior politicians including Nobel la..."
+    },
+    {
+      "id": "q-2216",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, US President Donald Trump has recounted the final moments of Ir..."
+    },
+    {
+      "id": "q-2217",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Bushfires raging in the states of New South Wales and Queensland have emitted 250 million tonnes of CO2 The Black Summer fire season of 2019\u20132020 in southeastern Australia contributed to an intense 's..."
+    },
+    {
+      "id": "q-2218",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Tarana Burke was helping victims of sexual harassment long before Alyssa Milano's tweet gave the movement a boost The #MeToo movement went viral, spurring a Back in October 2017, women took to social ..."
+    },
+    {
+      "id": "q-2219",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "The death of George Floyd sparked protests in Minneapolis, Los Angeles and New York has seen three nights of protests across the nation, including in Minneapolis, Denver and New York over the killing ..."
+    },
+    {
+      "id": "q-2220",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Celebrations broke out in Seoul after lawmakers voted to impeach President Yoon Suk Yeol Opposition lawmakers failed to impeach President Yoon Suk Yeol over the political crisis he sparked by declarin..."
+    },
+    {
+      "id": "q-2221",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Ronan Farrow reports the stories of thirteen women who say that, between the nineteen-nineties and 2015, Harvey Weinstein sexually harassed Many women, as well as men, are using the hashtag to show th..."
+    },
+    {
+      "id": "q-2222",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Yevgeny Prigozhin, commander of the Wagner mercenary army, has denied claims that he is planning a military coup against Russia's President Yevgeniy Prigozhin, the mercenary Wagner Group chief who led..."
+    },
+    {
+      "id": "q-2223",
+      "pred": "B",
+      "gold": "A",
+      "score": 0.0,
+      "context_used": "The Lebanese judge investigating the massive explosion in the port of Beirut has charged the acting prime minister, Hassan Diab, and three former ministers About 2,750 tons of improperly stored ammoni..."
+    },
+    {
+      "id": "q-2224",
+      "pred": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "context_used": "The GENIUS Act establishes the first federal framework for dollar-pegged stablecoins, granting sweeping authority to the Department of Senate has passed landmark legislation that creates the first fed..."
+    },
+    {
+      "id": "q-2225",
+      "pred": "A,B",
+      "gold": "C",
+      "score": 0.0,
+      "context_used": "Yevgeny Prigozhin, commander of the Wagner mercenary army, has denied claims that he is planning a military coup against Russia's President Yevgeniy Prigozhin, the mercenary Wagner Group chief who led..."
+    },
+    {
+      "id": "q-2226",
+      "pred": "C",
+      "gold": "C,D",
+      "score": 0.5,
+      "context_used": "The Lebanese judge investigating the massive explosion in the port of Beirut has charged the acting prime minister, Hassan Diab, and three former ministers About 2,750 tons of improperly stored ammoni..."
+    },
+    {
+      "id": "q-2227",
+      "pred": "A",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "At least 158 people were killed in a crowd crush during Halloween celebrations in the streets and narrow alleys of the Itaewon area of Seoul on the night of A crowd surge in a narrow alley in the capi..."
+    },
+    {
+      "id": "q-2228",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "The Lebanese judge investigating the massive explosion in the port of Beirut has charged the acting prime minister, Hassan Diab, and three former ministers It has been three weeks since a massive expl..."
+    },
+    {
+      "id": "q-2229",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Prime Minister David Cameron's resignation and wreaked Since British voters elected on Thursday to leave the European..."
+    },
+    {
+      "id": "q-2230",
+      "pred": "C",
+      "gold": "A,D",
+      "score": 0.0,
+      "context_used": "Chinese technology company DeepSeek has made headlines globally with the launch of its open-source AI model, DeepSeek-R1 Recently, with the emergence of DeepSeek V3 and R1, American AI researchers, Ch..."
+    },
+    {
+      "id": "q-2231",
+      "pred": "C",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "The US Capitol was overtaken Wednesday by supporters of President Donald Trump, who, spurred on by his comments and angered by his loss, breached police lines The Capitol was breached by Trump support..."
+    },
+    {
+      "id": "q-2232",
+      "pred": "B,C",
+      "gold": "B,C,D",
+      "score": 0.5,
+      "context_used": "Facebook's new corporate name is Meta, CEO Mark Zuckerberg announced on Thursday, in an apparent effort to recast the company's public image Facebook on Thursday announced that it will change its comp..."
+    },
+    {
+      "id": "q-2233",
+      "pred": "C",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "Since British voters elected on Thursday to leave the European Union, signs have quickly emerged of the flaws in holding a referendum on The United Kingdom's vote to leave the EU in a historic \u201cBrexit..."
+    },
+    {
+      "id": "q-2234",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "After months of conflicting statements from Huawei executives, the Chinese networking giant on Friday officially unveiled HarmonyOS, Chinese tech giant Huawei Technologies plans to equip more of its p..."
+    },
+    {
+      "id": "q-2235",
+      "pred": "C",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "context_used": "The US Capitol was overtaken Wednesday by supporters of President Donald Trump, who, spurred on by his comments and angered by his loss, breached police lines The Capitol was breached by Trump support..."
+    },
+    {
+      "id": "q-2236",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Elon Musk has taken over Twitter and fired its CEO and other top executives Elon Musk has fired Twitter's CEO, as well as a few other senior executives, within days of taking ownership Elon Musk has t..."
+    },
+    {
+      "id": "q-2237",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "A crowd surge in a narrow alley in the capital's Itaewon district killed more than 150 people and injured more than 140 on Saturday evening At least 149 people were killed and another 150 injured afte..."
+    },
+    {
+      "id": "q-2238",
+      "pred": "C",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "Yevgeniy Prigozhin, the mercenary Wagner Group chief who led a short-lived mutiny against the Kremlin in June, died in a plane crash north of Moscow on Aug Yevgeny Prigozhin, commander of the Wagner m..."
+    },
+    {
+      "id": "q-2239",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "7-magnitude earthquake hit central Myanmar, causing buildings to collapse and a high number of casualties in the region 7 magnitude has hit central Myanmar, the United States Geological Survey (USGS) ..."
+    },
+    {
+      "id": "q-2240",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, \"Harsh revenge\" awaits the \"criminals\" who killed Qasem Soleima..."
+    },
+    {
+      "id": "q-2241",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Extreme Cold and Record Snowfall to Test Texas Power Grid The storm knocked out power to more than 4 million households in Texas, raising questions about the durability of the power grid in the United..."
+    },
+    {
+      "id": "q-2242",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Since American troops left in August of 2021, many Afghans have A suspected participant in the suicide bombing at the Kabul airport that killed 13 American service members and roughly 170 Afghan civil..."
+    },
+    {
+      "id": "q-2243",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Elon Musk has taken over Twitter and fired its CEO and other top executives Elon Musk has taken control of Twitter and ousted the CEO, chief financial officer and the company's top lawyer, two people ..."
+    },
+    {
+      "id": "q-2244",
+      "pred": "C",
+      "gold": "C,D",
+      "score": 0.5,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, A US drone strike killed Iranian Gen Qassem Soleimani last week..."
+    },
+    {
+      "id": "q-2245",
+      "pred": "C",
+      "gold": "B",
+      "score": 0.0,
+      "context_used": "At least 24 people have died as a result of fires consuming large swaths of the West Coast, with hundreds of thousands under evacuation orders to get to safety At least seven people, including a 1-yea..."
+    },
+    {
+      "id": "q-2246",
+      "pred": "D",
+      "gold": "B",
+      "score": 0.0,
+      "context_used": "Former Japanese Prime Minister Shinzo Abe, a nationalist who served in the post longer than anyone else before stepping down in 2020, was shot and killed on Japan's former Prime Minister Shinzo Abe ha..."
+    },
+    {
+      "id": "q-2247",
+      "pred": "A",
+      "gold": "B",
+      "score": 0.0,
+      "context_used": "Floyd, a Black man, died in May 2020 after being handcuffed and pinned to the ground by Minneapolis police officers in an episode that The officer who knelt on Floyd's neck was charged with George Flo..."
+    },
+    {
+      "id": "q-2248",
+      "pred": "A",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "Workers in Japan have started releasing treated radioactive water from the Fukushima Daiichi nuclear power plant into the Pacific Ocean Japan will begin discharging treated wastewater from the Fukushi..."
+    },
+    {
+      "id": "q-2249",
+      "pred": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "context_used": "The Capitol was breached by Trump supporters who had been declaring, at rally after rally, that they would go to violent lengths to keep the President in power The US Capitol was overtaken Wednesday b..."
+    },
+    {
+      "id": "q-2250",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "At least 158 people were killed in a crowd crush during Halloween celebrations in the streets and narrow alleys of the Itaewon area of Seoul on the night of South Korean officials say at least 26 fore..."
+    },
+    {
+      "id": "q-2251",
+      "pred": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "context_used": "After days of speculation about an impending coup, Myanmar's military has formally seized power the very day a newly elected parliament was scheduled to meet Myanmar's military has seized power and de..."
+    },
+    {
+      "id": "q-2252",
+      "pred": "A",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "The US Capitol was overtaken Wednesday by supporters of President Donald Trump, who, spurred on by his comments and angered by his loss, breached police lines Protesters supporting President Donald Tr..."
+    },
+    {
+      "id": "q-2253",
+      "pred": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "context_used": "7-magnitude earthquake hit central Myanmar, causing buildings to collapse and a high number of casualties in the region 7-magnitude quake struck near the city of Mandalay, according to Myanmar's 7 mag..."
+    },
+    {
+      "id": "q-2254",
+      "pred": "B",
+      "gold": "A,B,D",
+      "score": 0.5,
+      "context_used": "Facebook's new corporate name is Meta, CEO Mark Zuckerberg announced on Thursday, in an apparent effort to recast the company's public image Facebook on Thursday announced that it will change its comp..."
+    },
+    {
+      "id": "q-2255",
+      "pred": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "context_used": "chipmaker Nvidia reported a 101% year-over-year jump in quarterly revenue Wednesday, as companies around the world It was a stellar day for graphics chipmaker Nvidia, with shares surging 24% to a reco..."
+    },
+    {
+      "id": "q-2256",
+      "pred": "A,B",
+      "gold": "D",
+      "score": 0.0,
+      "context_used": "Thousands of fires are ravaging the Amazon rainforest in Brazil As the fires ravaging Brazil's Amazon stoke global outrage, its neighbors are also scorching, ripping up and poisoning their forests -- ..."
+    },
+    {
+      "id": "q-2257",
+      "pred": "A",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "The storm knocked out power to more than 4 million households in Texas, raising questions about the durability of the power grid in the United States' second- Extreme Cold and Record Snowfall to Test ..."
+    },
+    {
+      "id": "q-2258",
+      "pred": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "context_used": "A crowd surge in a narrow alley in the capital's Itaewon district killed more than 150 people and injured more than 140 on Saturday evening South Korean officials say at least 26 foreign nationals wer..."
+    },
+    {
+      "id": "q-2259",
+      "pred": "D",
+      "gold": "B",
+      "score": 0.0,
+      "context_used": "Thousands of drivers blocked roads across France Saturday in a 'yellow vest' movement against high fuel prices which has mushroomed into a widespread protest The past weeks have seen a massive confron..."
+    },
+    {
+      "id": "q-2260",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Floyd, a Black man, died in May 2020 after being handcuffed and pinned to the ground by Minneapolis police officers in an episode that George Floyd's death sparked anger and episodes of looting as tho..."
+    },
+    {
+      "id": "q-2261",
+      "pred": "A,D",
+      "gold": "A,C",
+      "score": 0.0,
+      "context_used": "The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the country The withdrawal of US forces from Afghanistan and the Taliban's swif..."
+    },
+    {
+      "id": "q-2262",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Credit Suisse has been wracked with scandals and major financial losses over the last few years before it was bought by Swiss banking giant UBS on Sunday UBS will take over its troubled Swiss rival Cr..."
+    },
+    {
+      "id": "q-2263",
+      "pred": "A",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "The officer who knelt on Floyd's neck was charged with Floyd, a Black man, died in May 2020 after being handcuffed and pinned to the ground by Minneapolis police officers in an episode that George Flo..."
+    },
+    {
+      "id": "q-2264",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "US Senate will likely vote on Wednesday on a bill to halt Trump's tariffs on Canadian imports amid economic uncertainty tariffs on China, Canada and Mexico went into effect, and as the possible ramifi..."
+    },
+    {
+      "id": "q-2265",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, US President Donald Trump has recounted the final moments of Ir..."
+    },
+    {
+      "id": "q-2266",
+      "pred": "B,D",
+      "gold": "A,C,D",
+      "score": 0.0,
+      "context_used": "The officer who knelt on Floyd's neck was charged with Floyd, a Black man, died in May 2020 after being handcuffed and pinned to the ground by Minneapolis police officers in an episode that George Flo..."
+    },
+    {
+      "id": "q-2267",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Brazilian President Jair Bolsonaro has responded to growing international condemnation over the fires sweeping through vast swaths of the Amazon rainforest Thousands of fires are ravaging the Amazon r..."
+    },
+    {
+      "id": "q-2268",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Ronan Farrow reports the stories of thirteen women who say that, between the nineteen-nineties and 2015, Harvey Weinstein sexually harassed Tarana Burke was helping victims of sexual harassment long b..."
+    },
+    {
+      "id": "q-2269",
+      "pred": "A",
+      "gold": "A,D",
+      "score": 0.5,
+      "context_used": "Yevgeny Prigozhin, commander of the Wagner mercenary army, has denied claims that he is planning a military coup against Russia's President Yevgeny Prigozhin, founder of Russia's Wagner mercenary forc..."
+    },
+    {
+      "id": "q-2270",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Extreme Cold and Record Snowfall to Test Texas Power Grid As Texans continue to cope with the effects of deadly cold weather, much of the eastern half of the country was dealing with snow, ice or From..."
+    },
+    {
+      "id": "q-2271",
+      "pred": "A,C,D",
+      "gold": "A,C",
+      "score": 0.0,
+      "context_used": "The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the country A takeover of the entire country was all but absolute as the Afghan..."
+    },
+    {
+      "id": "q-2272",
+      "pred": "C",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "Myanmar's military seized control of the country Monday, detaining the country's de facto leader, Aung San Suu Kyi, and declaring a state of emergency Myanmar's military seized power in a bloodless co..."
+    },
+    {
+      "id": "q-2273",
+      "pred": "A",
+      "gold": "A,B",
+      "score": 0.5,
+      "context_used": "Facebook's new corporate name is Meta, CEO Mark Zuckerberg announced on Thursday, in an apparent effort to recast the company's public image Facebook on Thursday announced that it will change its comp..."
+    },
+    {
+      "id": "q-2274",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "From the deadly pile-up crash in Fort Worth to a winter wonderland of snow to rolling outages to concerns of sky-high CPS Energy bills, here's how the frigid A major winter storm hit a large part of t..."
+    },
+    {
+      "id": "q-2275",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Ronan Farrow reports the stories of thirteen women who say that, between the nineteen-nineties and 2015, Harvey Weinstein sexually harassed Many women, as well as men, are using the hashtag to show th..."
+    },
+    {
+      "id": "q-2276",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Prime Minister David Cameron's resignation and wreaked Voters in the UK have decided to leave the European Union, a d..."
+    },
+    {
+      "id": "q-2277",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "British Prime Minister Liz Truss quit on Thursday \u2014 bowing to the inevitable after a tumultuous term in which her policies triggered turmoil in British Prime Minister Liz Truss resigned Thursday \u2014 bow..."
+    },
+    {
+      "id": "q-2278",
+      "pred": "C",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "A crowd surge in a narrow alley in the capital's Itaewon district killed more than 150 people and injured more than 140 on Saturday evening At least 158 people were killed in a crowd crush during Hall..."
+    },
+    {
+      "id": "q-2279",
+      "pred": "A",
+      "gold": "A,D",
+      "score": 0.5,
+      "context_used": "tariffs on China, Canada and Mexico went into effect, and as the possible ramifications of a global President Donald Trump also declared that if Canada does not lift other tariffs on the U Trump's fir..."
+    },
+    {
+      "id": "q-2280",
+      "pred": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "7-magnitude earthquake hit central Myanmar, causing buildings to collapse and a high number of casualties in the region 7-magnitude quake struck near the city of Mandalay, according to Myanmar's 7 mag..."
+    },
+    {
+      "id": "q-2281",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "The worldwide spread of the new disease known as COVID-19 has created a global health crisis unseen in modern times, triggering dramatic The novel coronavirus, SARS-CoV-2, and the disease it causes, C..."
+    },
+    {
+      "id": "q-2282",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Yevgeniy Prigozhin, the mercenary Wagner Group chief who led a short-lived mutiny against the Kremlin in June, died in a plane crash north of Moscow on Aug Yevgeny Prigozhin, commander of the Wagner m..."
+    },
+    {
+      "id": "q-2283",
+      "pred": "C",
+      "gold": "D",
+      "score": 0.0,
+      "context_used": "Yevgeny Prigozhin, commander of the Wagner mercenary army, has denied claims that he is planning a military coup against Russia's President Yevgeniy Prigozhin, the mercenary Wagner Group chief who led..."
+    },
+    {
+      "id": "q-2284",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Yevgeniy Prigozhin, the mercenary Wagner Group chief who led a short-lived mutiny against the Kremlin in June, died in a plane crash north of Moscow on Aug Yevgeny Prigozhin, commander of the Wagner m..."
+    },
+    {
+      "id": "q-2285",
+      "pred": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "At least 24 people have died as a result of fires consuming large swaths of the West Coast, with hundreds of thousands under evacuation orders to get to safety California's wildfires are getting stead..."
+    },
+    {
+      "id": "q-2286",
+      "pred": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "Britain has voted to leave the European Union, a historic decision sure to reshape the nation's place in the world The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Pr..."
+    },
+    {
+      "id": "q-2287",
+      "pred": "C",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "context_used": "US Senate will likely vote on Wednesday on a bill to halt Trump's tariffs on Canadian imports amid economic uncertainty tariffs on China, Canada and Mexico went into effect, and as the possible ramifi..."
+    },
+    {
+      "id": "q-2288",
+      "pred": "A",
+      "gold": "B",
+      "score": 0.0,
+      "context_used": "At least 149 people were killed and another 150 injured after they were crushed in a large Halloween crowd in Seoul on Saturday night South Korean officials say at least 26 foreign nationals were amon..."
+    },
+    {
+      "id": "q-2289",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "The withdrawal of US forces from Afghanistan and the Taliban's swift takeover of the country has produced searing and devastating images intervention that ended the way it began: with the Taliban in c..."
+    },
+    {
+      "id": "q-2290",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Many women, as well as men, are using the hashtag to show the prevalence of sexual misconduct in the wake of the Harvey Weinstein Ronan Farrow reports the stories of thirteen women who say that, betwe..."
+    },
+    {
+      "id": "q-2291",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "South Korean legislators have launched a push to impeach President Yoon Suk Yeol, accusing him of declaring martial law in order to evade investigations Opposition lawmakers failed to impeach Presiden..."
+    },
+    {
+      "id": "q-2292",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "The Lebanese judge investigating the massive explosion in the port of Beirut has charged the acting prime minister, Hassan Diab, and three former ministers About 2,750 tons of improperly stored ammoni..."
+    },
+    {
+      "id": "q-2293",
+      "pred": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "context_used": "A crowd surge in a narrow alley in the capital's Itaewon district killed more than 150 people and injured more than 140 on Saturday evening At least 158 people were killed in a crowd crush during Hall..."
+    },
+    {
+      "id": "q-2294",
+      "pred": "D",
+      "gold": "B,C,D",
+      "score": 0.5,
+      "context_used": "Thousands of fires are ravaging the Amazon rainforest in Brazil The fires scorching the Amazon come amid growing concern that Brazil's weakening environmental policies could jeopardize the country's t..."
+    },
+    {
+      "id": "q-2295",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Yevgeniy Prigozhin, the mercenary Wagner Group chief who led a short-lived mutiny against the Kremlin in June, died in a plane crash north of Moscow on Aug Russia's notorious mercenary leader Yevgeny ..."
+    },
+    {
+      "id": "q-2296",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "At least 24 people have died as a result of fires consuming large swaths of the West Coast, with hundreds of thousands under evacuation orders to get to safety Despite official resistance to the idea ..."
+    },
+    {
+      "id": "q-2297",
+      "pred": "C",
+      "gold": "C,D",
+      "score": 0.5,
+      "context_used": "Former Japanese Prime Minister Shinzo Abe, a nationalist who served in the post longer than anyone else before stepping down in 2020, was shot and killed on Japan's former Prime Minister Shinzo Abe ha..."
+    },
+    {
+      "id": "q-2298",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The GENIUS Act establishes the first federal framework for dollar-pegged stablecoins, granting sweeping authority to the Department of The president's stablecoin begins minting on Sun's blockchain, wh..."
+    },
+    {
+      "id": "q-2299",
+      "pred": "A",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "context_used": "Trump supporters clash with police and security forces as they try to storm the Capitol in Washington, DC on Wednesday The US Capitol was overtaken Wednesday by supporters of President Donald Trump, w..."
+    },
+    {
+      "id": "q-2300",
+      "pred": "D",
+      "gold": "A,D",
+      "score": 0.5,
+      "context_used": "From the deadly pile-up crash in Fort Worth to a winter wonderland of snow to rolling outages to concerns of sky-high CPS Energy bills, here's how the frigid Extreme Cold and Record Snowfall to Test T..."
+    },
+    {
+      "id": "q-2301",
+      "pred": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "context_used": "Facebook's new corporate name is Meta, CEO Mark Zuckerberg announced on Thursday, in an apparent effort to recast the company's public image Facebook on Thursday announced that it will change its comp..."
+    },
+    {
+      "id": "q-2302",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "The sudden collapse of California-based Silicon Valley Bank sent depositors into panic and global markets into chaos as the US government scrambled to prevent Regulators announced they'd back deposits..."
+    },
+    {
+      "id": "q-2303",
+      "pred": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "context_used": "South Korean officials say at least 26 foreign nationals were among the more than 150 people killed in the incident in Seoul's Itaewon At least 153 people were killed and dozens injured following a cr..."
+    },
+    {
+      "id": "q-2304",
+      "pred": "B",
+      "gold": "B,C,D",
+      "score": 0.5,
+      "context_used": "Extreme Cold and Record Snowfall to Test Texas Power Grid From the deadly pile-up crash in Fort Worth to a winter wonderland of snow to rolling outages to concerns of sky-high CPS Energy bills, here's..."
+    },
+    {
+      "id": "q-2305",
+      "pred": "C,D",
+      "gold": "D",
+      "score": 0.0,
+      "context_used": "The worldwide spread of the new disease known as COVID-19 has created a global health crisis unseen in modern times, triggering dramatic The novel coronavirus, SARS-CoV-2, and the disease it causes, C..."
+    },
+    {
+      "id": "q-2306",
+      "pred": "C",
+      "gold": "B,C,D",
+      "score": 0.5,
+      "context_used": "The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the country intervention that ended the way it began: with the Taliban in contr..."
+    },
+    {
+      "id": "q-2307",
+      "pred": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "context_used": "A major winter storm hit a large part of the United States on Monday, with heavy snow and cold temperatures in Texas Extreme Cold and Record Snowfall to Test Texas Power Grid As Texans continue to cop..."
+    },
+    {
+      "id": "q-2308",
+      "pred": "C",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "The officer who knelt on Floyd's neck was charged with George Floyd's death sparked anger and episodes of looting as thousands of people are demanding accountability for the officers involved in Floyd..."
+    },
+    {
+      "id": "q-2309",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "The wildfires burning in and around Los Angeles have razed neighborhoods, killed at least 29 people and forced desperate evacuations Large, explosive and destructive fires have torn through parts of C..."
+    },
+    {
+      "id": "q-2310",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "South Korean legislators have launched a push to impeach President Yoon Suk Yeol, accusing him of declaring martial law in order to evade investigations Celebrations broke out in Seoul after lawmakers..."
+    },
+    {
+      "id": "q-2311",
+      "pred": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "context_used": "Russia's notorious mercenary leader Yevgeny Prigozhin staged an apparent insurrection, sending an armoured convoy towards Moscow and raising questions about Yevgeny Prigozhin, commander of the Wagner ..."
+    },
+    {
+      "id": "q-2312",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Ronan Farrow reports the stories of thirteen women who say that, between the nineteen-nineties and 2015, Harvey Weinstein sexually harassed Many women, as well as men, are using the hashtag to show th..."
+    },
+    {
+      "id": "q-2313",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "After months of uncertainty, Elon Musk appears to be moving ahead on a deal to acquire Twitter for $44 billion Elon Musk has taken control of Twitter and ousted the CEO, chief financial officer and th..."
+    },
+    {
+      "id": "q-2314",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "UBS will take over its troubled Swiss rival Credit Suisse for $3 UBS will buy rival Credit Suisse for more than $3 billion in a deal brokered by Swiss officials to try and prevent a banking crisis UBS..."
+    },
+    {
+      "id": "q-2315",
+      "pred": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "context_used": "The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the country Since American troops left in August of 2021, many Afghans have pla..."
+    },
+    {
+      "id": "q-2316",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "The Lebanese judge investigating the massive explosion in the port of Beirut has charged the acting prime minister, Hassan Diab, and three former ministers It has been three weeks since a massive expl..."
+    },
+    {
+      "id": "q-2317",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Japan began releasing water from its crippled Fukushima nuclear plant into the Pacific Ocean Thursday over the objections of local fishermen and the government Japan will begin discharging treated was..."
+    },
+    {
+      "id": "q-2318",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Elon Musk has taken control of Twitter and ousted the CEO, chief financial officer and the company's top lawyer, two people familiar with the deal said After months of uncertainty, Elon Musk appears t..."
+    },
+    {
+      "id": "q-2319",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "South Korean legislators have launched a push to impeach President Yoon Suk Yeol, accusing him of declaring martial law in order to evade investigations Opposition lawmakers failed to impeach Presiden..."
+    },
+    {
+      "id": "q-2320",
+      "pred": "B",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "Floyd, a Black man, died in May 2020 after being handcuffed and pinned to the ground by Minneapolis police officers in an episode that The death of George Floyd sparked protests in Minneapolis, Los An..."
+    },
+    {
+      "id": "q-2321",
+      "pred": "C",
+      "gold": "A",
+      "score": 0.0,
+      "context_used": "The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the country Each president since 2001 has confronted an evolving mission in Afg..."
+    },
+    {
+      "id": "q-2322",
+      "pred": "C",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "The United Kingdom's vote to leave the EU in a historic \u201cBrexit\u201d triggered British Prime Minister David Cameron's resignation and wreaked Voters in the UK have decided to leave the European Union, a d..."
+    },
+    {
+      "id": "q-2323",
+      "pred": "B",
+      "gold": "A",
+      "score": 0.0,
+      "context_used": "Thousands of fires are ravaging the Amazon rainforest in Brazil As the fires ravaging Brazil's Amazon stoke global outrage, its neighbors are also scorching, ripping up and poisoning their forests -- ..."
+    },
+    {
+      "id": "q-2324",
+      "pred": "D",
+      "gold": "B",
+      "score": 0.0,
+      "context_used": "The worldwide spread of the new disease known as COVID-19 has created a global health crisis unseen in modern times, triggering dramatic The novel coronavirus, SARS-CoV-2, and the disease it causes, C..."
+    },
+    {
+      "id": "q-2325",
+      "pred": "A",
+      "gold": "C",
+      "score": 0.0,
+      "context_used": "Credit Suisse has been wracked with scandals and major financial losses over the last few years before it was bought by Swiss banking giant UBS on Sunday UBS will take over its troubled Swiss rival Cr..."
+    },
+    {
+      "id": "q-2326",
+      "pred": "A",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "The death of George Floyd sparked protests in Minneapolis, Los Angeles and New York has seen three nights of protests across the nation, including in Minneapolis, Denver and New York over the killing ..."
+    },
+    {
+      "id": "q-2327",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Credit Suisse has been wracked with scandals and major financial losses over the last few years before it was bought by Swiss banking giant UBS on Sunday UBS will take over its troubled Swiss rival Cr..."
+    },
+    {
+      "id": "q-2328",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, Qassem Soleimani last week, another chapter in the long story o..."
+    },
+    {
+      "id": "q-2329",
+      "pred": "B,D",
+      "gold": "B,C,D",
+      "score": 0.5,
+      "context_used": "The storm knocked out power to more than 4 million households in Texas, raising questions about the durability of the power grid in the United States' second- A major winter storm hit a large part of ..."
+    },
+    {
+      "id": "q-2330",
+      "pred": "A",
+      "gold": "D",
+      "score": 0.0,
+      "context_used": "invasions, civil war, insurgency and a previous period of heavy-handed Taliban rule The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook contro..."
+    },
+    {
+      "id": "q-2331",
+      "pred": "D",
+      "gold": "A,D",
+      "score": 0.5,
+      "context_used": "Thousands of fires are ravaging the Amazon rainforest in Brazil Brazilian President Jair Bolsonaro has responded to growing international condemnation over the fires sweeping through vast swaths of th..."
+    },
+    {
+      "id": "q-2332",
+      "pred": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "context_used": "Former Japanese Prime Minister Shinzo Abe, a nationalist who served in the post longer than anyone else before stepping down in 2020, was shot and killed on Japan's former Prime Minister Shinzo Abe ha..."
+    },
+    {
+      "id": "q-2333",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "The United States ban on TikTok went into effect on The United States government is poised to issue a ban on TikTok, one of the most popular social media platforms in the world Geoffrey Gertz discusse..."
+    },
+    {
+      "id": "q-2334",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "After months of conflicting statements from Huawei executives, the Chinese networking giant on Friday officially unveiled HarmonyOS, Chinese tech giant Huawei Technologies plans to equip more of its p..."
+    },
+    {
+      "id": "q-2335",
+      "pred": "D",
+      "gold": "A,B,D",
+      "score": 0.5,
+      "context_used": "A major winter storm hit a large part of the United States on Monday, with heavy snow and cold temperatures in Texas The storm knocked out power to more than 4 million households in Texas, raising que..."
+    },
+    {
+      "id": "q-2336",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Credit Suisse has been wracked with scandals and major financial losses over the last few years before it was bought by Swiss banking giant UBS on Sunday UBS will take over its troubled Swiss rival Cr..."
+    },
+    {
+      "id": "q-2337",
+      "pred": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "context_used": "Floyd, a Black man, died in May 2020 after being handcuffed and pinned to the ground by Minneapolis police officers in an episode that The death of George Floyd sparked protests in Minneapolis, Los An..."
+    },
+    {
+      "id": "q-2338",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "UBS will buy rival Credit Suisse for more than $3 billion in a deal brokered by Swiss officials to try and prevent a banking crisis UBS will take over its troubled Swiss rival Credit Suisse for $3 UBS..."
+    },
+    {
+      "id": "q-2339",
+      "pred": "A",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "Facebook's new corporate name is Meta, CEO Mark Zuckerberg announced on Thursday, in an apparent effort to recast the company's public image Facebook on Thursday announced that it will change its comp..."
+    },
+    {
+      "id": "q-2340",
+      "pred": "C",
+      "gold": "C,D",
+      "score": 0.5,
+      "context_used": "Stocks closed lower Tuesday after another volatile session of trading as investors digested new developments on tariffs and fresh signs of an economic slowdown tariffs on China, Canada and Mexico went..."
+    },
+    {
+      "id": "q-2341",
+      "pred": "C",
+      "gold": "B,C,D",
+      "score": 0.5,
+      "context_used": "troops restored order at the Kabul airport a day after Afghans mobbed the runway in a frantic attempt to flee Since American troops left in August of 2021, many Afghans have The withdrawal of US force..."
+    },
+    {
+      "id": "q-2342",
+      "pred": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "context_used": "Shares of the first publicly-traded stablecoin company Circle continued to surge on Friday after the Senate passed legislation that would The GENIUS Act establishes the first federal framework for dol..."
+    },
+    {
+      "id": "q-2343",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Credit Suisse has been wracked with scandals and major financial losses over the last few years before it was bought by Swiss banking giant UBS on Sunday UBS will buy rival Credit Suisse for more than..."
+    },
+    {
+      "id": "q-2344",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Back in October 2017, women took to social media to share their experiences of sexual harassment Many women, as well as men, are using the hashtag to show the prevalence of sexual misconduct in the wa..."
+    },
+    {
+      "id": "q-2345",
+      "pred": "C",
+      "gold": "B,D",
+      "score": 0.0,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, A US drone strike killed Iranian Gen US President Donald Trump ..."
+    },
+    {
+      "id": "q-2346",
+      "pred": "A",
+      "gold": "A,B,D",
+      "score": 0.5,
+      "context_used": "Since American troops left in August of 2021, many Afghans have The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the country int..."
+    },
+    {
+      "id": "q-2347",
+      "pred": "C",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "7-magnitude earthquake hit central Myanmar, causing buildings to collapse and a high number of casualties in the region 7-magnitude quake struck near the city of Mandalay, according to Myanmar's 7 mag..."
+    },
+    {
+      "id": "q-2348",
+      "pred": "C",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "context_used": "Myanmar's military has seized power and declared a state of emergency for one year following days of escalating tension over the result of November's Myanmar's military seized control of the country M..."
+    },
+    {
+      "id": "q-2349",
+      "pred": "C,D",
+      "gold": "B,C",
+      "score": 0.0,
+      "context_used": "The officer who knelt on Floyd's neck was charged with Floyd, a Black man, died in May 2020 after being handcuffed and pinned to the ground by Minneapolis police officers in an episode that George Flo..."
+    },
+    {
+      "id": "q-2350",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "From the deadly pile-up crash in Fort Worth to a winter wonderland of snow to rolling outages to concerns of sky-high CPS Energy bills, here's how the frigid Extreme Cold and Record Snowfall to Test T..."
+    },
+    {
+      "id": "q-2351",
+      "pred": "A",
+      "gold": "A,D",
+      "score": 0.5,
+      "context_used": "Mourners pay respects as 154 people confirmed dead in the disaster, which took place as Seoul celebrated Halloween South Korean officials say at least 26 foreign nationals were among the more than 150..."
+    },
+    {
+      "id": "q-2352",
+      "pred": "C",
+      "gold": "B,C,D",
+      "score": 0.5,
+      "context_used": "Myanmar's military seized power in a bloodless coup, detaining democratically elected leader Aung San Suu Kyi Myanmar's military staged a coup Monday and detained senior politicians including Nobel la..."
+    },
+    {
+      "id": "q-2353",
+      "pred": "A",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "Myanmar's military seized power in a bloodless coup, detaining democratically elected leader Aung San Suu Kyi Myanmar's military staged a coup Monday and detained senior politicians including Nobel la..."
+    },
+    {
+      "id": "q-2354",
+      "pred": "D",
+      "gold": "A",
+      "score": 0.0,
+      "context_used": "Celebrations broke out in Seoul after lawmakers voted to impeach President Yoon Suk Yeol South Korean legislators have launched a push to impeach President Yoon Suk Yeol, accusing him of declaring mar..."
+    },
+    {
+      "id": "q-2355",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "The Fukushima Daiichi nuclear power plant will start releasing treated and diluted radioactive wastewater into the Pacific Ocean as early as Thursday Workers in Japan have started releasing treated ra..."
+    },
+    {
+      "id": "q-2356",
+      "pred": "C,D",
+      "gold": "D",
+      "score": 0.0,
+      "context_used": "Chinese technology company DeepSeek has made headlines globally with the launch of its open-source AI model, DeepSeek-R1 Chinese tech start-up DeepSeek is shaking the US' AI sector with its open-sourc..."
+    },
+    {
+      "id": "q-2357",
+      "pred": "A",
+      "gold": "A,B",
+      "score": 0.5,
+      "context_used": "The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the country Since American troops left in August of 2021, many Afghans have The..."
+    },
+    {
+      "id": "q-2358",
+      "pred": "B,D",
+      "gold": "D",
+      "score": 0.0,
+      "context_used": "Protesters supporting President Donald Trump stormed the US Capitol Wednesday, clashing with police and forcing a delay in the constitutional process The US Capitol was overtaken Wednesday by supporte..."
+    },
+    {
+      "id": "q-2359",
+      "pred": "C",
+      "gold": "B",
+      "score": 0.0,
+      "context_used": "Each president since 2001 has confronted an evolving mission in Afghanistan, one that resulted in tens of thousands American and Afghan casualties The American departure from Kabul unfolded the follow..."
+    },
+    {
+      "id": "q-2360",
+      "pred": "D",
+      "gold": "C",
+      "score": 0.0,
+      "context_used": "Japan began releasing wastewater from the crippled Fukushima nuclear plant into the Pacific Ocean on Thursday despite angry opposition from China and local Workers in Japan have started releasing trea..."
+    },
+    {
+      "id": "q-2361",
+      "pred": "D",
+      "gold": "C",
+      "score": 0.0,
+      "context_used": "Tesla CEO Elon Musk last week wrapped up his official government service leading DOGE for the Trump administration Billionaire Trump ally Elon Musk, who leads the newly formed Department of Government..."
+    },
+    {
+      "id": "q-2362",
+      "pred": "A",
+      "gold": "A,B",
+      "score": 0.5,
+      "context_used": "7-magnitude earthquake hit central Myanmar, causing buildings to collapse and a high number of casualties in the region 7-magnitude quake struck near the city of Mandalay, according to Myanmar's 7 mag..."
+    },
+    {
+      "id": "q-2363",
+      "pred": "C",
+      "gold": "B,C,D",
+      "score": 0.5,
+      "context_used": "Myanmar's military seized control of the country Monday, detaining the country's de facto leader, Aung San Suu Kyi, and declaring a state of emergency Myanmar's military has seized power and declared ..."
+    },
+    {
+      "id": "q-2364",
+      "pred": "B",
+      "gold": "C,D",
+      "score": 0.0,
+      "context_used": "It has been three weeks since a massive explosion in Beirut's port killed nearly 200 people, injured thousands and damaged much of the The Lebanese judge investigating the massive explosion in the por..."
+    },
+    {
+      "id": "q-2365",
+      "pred": "A",
+      "gold": "A,B",
+      "score": 0.5,
+      "context_used": "The Lebanese judge investigating the massive explosion in the port of Beirut has charged the acting prime minister, Hassan Diab, and three former ministers It has been three weeks since a massive expl..."
+    },
+    {
+      "id": "q-2366",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "OpenAI launched ChatGPT exactly one year ago On Thursday, OpenAI released ChatGPT, a bot that converses with humans via cutting-edge artificial intelligence The hype around ChatGPT, the sophisticated ..."
+    },
+    {
+      "id": "q-2367",
+      "pred": "A",
+      "gold": "A,B,D",
+      "score": 0.5,
+      "context_used": "Facebook's new corporate name is Meta, CEO Mark Zuckerberg announced on Thursday, in an apparent effort to recast the company's public image Facebook on Thursday announced that it will change its comp..."
+    },
+    {
+      "id": "q-2368",
+      "pred": "B",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "Japan will begin discharging treated radioactive water from the stricken Fukushima Daiichi nuclear plant into the sea as early as Thursday Japan will begin discharging treated wastewater from the Fuku..."
+    },
+    {
+      "id": "q-2369",
+      "pred": "B,C",
+      "gold": "C,D",
+      "score": 0.0,
+      "context_used": "Chinese technology company DeepSeek has made headlines globally with the launch of its open-source AI model, DeepSeek-R1 Chinese tech start-up DeepSeek is shaking the US' AI sector with its open-sourc..."
+    },
+    {
+      "id": "q-2370",
+      "pred": "A",
+      "gold": "A,B,D",
+      "score": 0.5,
+      "context_used": "Large Language Models (LLMs) have recently gathered attention with the release of ChatGPT, a user-centered chatbot released by OpenAI OpenAI launched ChatGPT exactly one year ago More than a million p..."
+    },
+    {
+      "id": "q-2371",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Facebook is planning to change its company name next week to reflect its focus on building the metaverse, according to a source with direct knowledge of the Facebook is changing its company name as it..."
+    },
+    {
+      "id": "q-2372",
+      "pred": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "context_used": "Regulators announced they'd back deposits at Silicon Valley Bank and Signature Bank on Monday Silicon Valley Bank was taken over by federal regulators on Friday, capping a spectacular collapse after t..."
+    },
+    {
+      "id": "q-2373",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "response to the coronavirus pandemic, which includes social distancing, may increase suicide risk The worldwide spread of the new disease known as COVID-19 has created a global health crisis unseen in..."
+    },
+    {
+      "id": "q-2374",
+      "pred": "C",
+      "gold": "B,C,D",
+      "score": 0.5,
+      "context_used": "The storm knocked out power to more than 4 million households in Texas, raising questions about the durability of the power grid in the United States' second- A major winter storm hit a large part of ..."
+    },
+    {
+      "id": "q-2375",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Thousands of people are under evacuation orders as multiple fires burn unchecked in Napa, Sonoma and Shasta counties At least 24 people have died as a result of fires consuming large swaths of the Wes..."
+    },
+    {
+      "id": "q-2376",
+      "pred": "C",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "context_used": "Protesters supporting President Donald Trump stormed the US Capitol Wednesday, clashing with police and forcing a delay in the constitutional process The US Capitol was overtaken Wednesday by supporte..."
+    },
+    {
+      "id": "q-2377",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "Elon Musk has taken control of Twitter and ousted the CEO, chief financial officer and the company's top lawyer, two people familiar with the deal said Elon Musk has taken over Twitter and fired its C..."
+    },
+    {
+      "id": "q-2378",
+      "pred": "B",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "About 2,750 tons of improperly stored ammonium nitrate ignited Tuesday in Lebanon's capital in an explosion that devastated Beirut It has been three weeks since a massive explosion in Beirut's port ki..."
+    },
+    {
+      "id": "q-2379",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Elon Musk has taken over Twitter and fired its CEO and other top executives Elon Musk has fired Twitter's CEO, as well as a few other senior executives, within days of taking ownership Elon Musk has t..."
+    },
+    {
+      "id": "q-2380",
+      "pred": "C,D",
+      "gold": "C",
+      "score": 0.0,
+      "context_used": "Former Japanese Prime Minister Shinzo Abe, a nationalist who served in the post longer than anyone else before stepping down in 2020, was shot and killed on Japan's former Prime Minister Shinzo Abe ha..."
+    },
+    {
+      "id": "q-2381",
+      "pred": "B",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "The fires scorching the Amazon come amid growing concern that Brazil's weakening environmental policies could jeopardize the country's trade As the fires ravaging Brazil's Amazon stoke global outrage,..."
+    },
+    {
+      "id": "q-2382",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The fires scorching the Amazon come amid growing concern that Brazil's weakening environmental policies could jeopardize the country's trade As the fires ravaging Brazil's Amazon stoke global outrage,..."
+    },
+    {
+      "id": "q-2383",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "At least 158 people were killed in a crowd crush during Halloween celebrations in the streets and narrow alleys of the Itaewon area of Seoul on the night of A crowd surge in a narrow alley in the capi..."
+    },
+    {
+      "id": "q-2384",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "Ocean circulation, years of drought, and climate change are fueling Australia's record heat and deadly fires Australia on Tuesday recorded its hottest day ever, as the average temperature across the c..."
+    },
+    {
+      "id": "q-2385",
+      "pred": "B",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "Opposition lawmakers failed to impeach President Yoon Suk Yeol over the political crisis he sparked by declaring martial law earlier this South Korean legislators have launched a push to impeach Presi..."
+    },
+    {
+      "id": "q-2386",
+      "pred": "C",
+      "gold": "C,D",
+      "score": 0.5,
+      "context_used": "Celebrations broke out in Seoul after lawmakers voted to impeach President Yoon Suk Yeol South Korean legislators have launched a push to impeach President Yoon Suk Yeol, accusing him of declaring mar..."
+    },
+    {
+      "id": "q-2387",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The Lebanese judge investigating the massive explosion in the port of Beirut has charged the acting prime minister, Hassan Diab, and three former ministers About 2,750 tons of improperly stored ammoni..."
+    },
+    {
+      "id": "q-2388",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "The American departure from Kabul unfolded the following year in apocalyptic conditions as the Taliban retook control of the country intervention that ended the way it began: with the Taliban in contr..."
+    },
+    {
+      "id": "q-2389",
+      "pred": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, Qassem Soleimani last week, another chapter in the long story o..."
+    },
+    {
+      "id": "q-2390",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "The GENIUS Act establishes the first federal framework for dollar-pegged stablecoins, granting sweeping authority to the Department of The US House of Representatives and the US Senate continue to adv..."
+    },
+    {
+      "id": "q-2391",
+      "pred": "A",
+      "gold": "A,D",
+      "score": 0.5,
+      "context_used": "Brazilian President Jair Bolsonaro has responded to growing international condemnation over the fires sweeping through vast swaths of the Amazon rainforest The fires scorching the Amazon come amid gro..."
+    },
+    {
+      "id": "q-2392",
+      "pred": "A",
+      "gold": "A,C",
+      "score": 0.5,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, US President Donald Trump has recounted the final moments of Ir..."
+    },
+    {
+      "id": "q-2393",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Chinese technology company DeepSeek has made headlines globally with the launch of its open-source AI model, DeepSeek-R1 Chinese tech start-up DeepSeek is shaking the US' AI sector with its open-sourc..."
+    },
+    {
+      "id": "q-2394",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "French Twitter is awash with #BalanceTonPorc \u2014 \u201cexpose your pig\u201d \u2014 stories of sexual harassment and assault Ronan Farrow reports the stories of thirteen women who say that, between the nineteen-nineti..."
+    },
+    {
+      "id": "q-2395",
+      "pred": "D",
+      "gold": "A,B,D",
+      "score": 0.5,
+      "context_used": "The death of George Floyd sparked protests in Minneapolis, Los Angeles and New York Protesters have been rallying across the United States since the death of George Floyd, an unarmed Black man who was..."
+    },
+    {
+      "id": "q-2396",
+      "pred": "A",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "Myanmar's military seized control of the country Monday, detaining the country's de facto leader, Aung San Suu Kyi, and declaring a state of emergency Myanmar's military has seized power and declared ..."
+    },
+    {
+      "id": "q-2397",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Yevgeny Prigozhin, commander of the Wagner mercenary army, has denied claims that he is planning a military coup against Russia's President Yevgeny Prigozhin, founder of Russia's Wagner mercenary forc..."
+    },
+    {
+      "id": "q-2398",
+      "pred": "A",
+      "gold": "B",
+      "score": 0.0,
+      "context_used": "Myanmar's military seized power in a bloodless coup, detaining democratically elected leader Aung San Suu Kyi Myanmar's military seized control of the country Monday, detaining the country's de facto ..."
+    },
+    {
+      "id": "q-2399",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "The Capitol was breached by Trump supporters who had been declaring, at rally after rally, that they would go to violent lengths to keep the President in power Trump supporters overtook Capitol Police..."
+    },
+    {
+      "id": "q-2400",
+      "pred": "D",
+      "gold": "C,D",
+      "score": 0.5,
+      "context_used": "A crowd surge in a narrow alley in the capital's Itaewon district killed more than 150 people and injured more than 140 on Saturday evening At least 158 people were killed in a crowd crush during Hall..."
+    },
+    {
+      "id": "q-2401",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Tarana Burke was helping victims of sexual harassment long before Alyssa Milano's tweet gave the movement a boost The #MeToo movement went viral, spurring a Back in October 2017, women took to social ..."
+    },
+    {
+      "id": "q-2402",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "A crowd surge in a narrow alley in the capital's Itaewon district killed more than 150 people and injured more than 140 on Saturday evening At least 149 people were killed and another 150 injured afte..."
+    },
+    {
+      "id": "q-2403",
+      "pred": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "A crowd surge in a narrow alley in the capital's Itaewon district killed more than 150 people and injured more than 140 on Saturday evening At least 158 people were killed in a crowd crush during Hall..."
+    },
+    {
+      "id": "q-2404",
+      "pred": "A",
+      "gold": "A,D",
+      "score": 0.5,
+      "context_used": "The United States ban on TikTok went into effect on The United States government is poised to issue a ban on TikTok, one of the most popular social media platforms in the world ByteDance has stepped u..."
+    },
+    {
+      "id": "q-2405",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Ocean circulation, years of drought, and climate change are fueling Australia's record heat and deadly fires Australia on Tuesday recorded its hottest day ever, as the average temperature across the c..."
+    },
+    {
+      "id": "q-2406",
+      "pred": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "Workers in Japan have started releasing treated radioactive water from the Fukushima Daiichi nuclear power plant into the Pacific Ocean Japan will begin discharging treated wastewater from the Fukushi..."
+    },
+    {
+      "id": "q-2407",
+      "pred": "B",
+      "gold": "B,C",
+      "score": 0.5,
+      "context_used": "It has been three weeks since a massive explosion in Beirut's port killed nearly 200 people, injured thousands and damaged much of the About 2,750 tons of improperly stored ammonium nitrate ignited Tu..."
+    },
+    {
+      "id": "q-2408",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Yevgeny Prigozhin, commander of the Wagner mercenary army, has denied claims that he is planning a military coup against Russia's President Yevgeniy Prigozhin, the mercenary Wagner Group chief who led..."
+    },
+    {
+      "id": "q-2409",
+      "pred": "A",
+      "gold": "A,B",
+      "score": 0.5,
+      "context_used": "Japan will begin discharging treated radioactive water from the stricken Fukushima Daiichi nuclear plant into the sea as early as Thursday Japan will begin discharging treated wastewater from the Fuku..."
+    },
+    {
+      "id": "q-2410",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Thousands of drivers blocked roads across France Saturday in a 'yellow vest' movement against high fuel prices which has mushroomed into a widespread protest A protester was accidentally run over and ..."
+    },
+    {
+      "id": "q-2411",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Elon Musk renewed fundraising efforts for his business empire after relinquishing his White House role Tesla CEO Elon Musk last week wrapped up his official government service leading DOGE for the Tru..."
+    },
+    {
+      "id": "q-2412",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "context_used": "chipmaker Nvidia reported a 101% year-over-year jump in quarterly revenue Wednesday, as companies around the world It was a stellar day for graphics chipmaker Nvidia, with shares surging 24% to a reco..."
+    },
+    {
+      "id": "q-2413",
+      "pred": "C",
+      "gold": "B,C,D",
+      "score": 0.5,
+      "context_used": "Myanmar's military seized power in a bloodless coup, detaining democratically elected leader Aung San Suu Kyi After days of speculation about an impending coup, Myanmar's military has formally seized ..."
+    },
+    {
+      "id": "q-2414",
+      "pred": "A",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "context_used": "At a press conference in Bern on March 19th the chairmen of Credit Suisse and ubs, the two great rivals of Swiss banking, announced a Credit Suisse has been wracked with scandals and major financial l..."
+    },
+    {
+      "id": "q-2415",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "context_used": "Extreme Cold and Record Snowfall to Test Texas Power Grid The storm knocked out power to more than 4 million households in Texas, raising questions about the durability of the power grid in the United..."
+    },
+    {
+      "id": "q-2416",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "Prime Minister Liz Truss resigned following a failed tax-cutting budget that rocked financial markets British Prime Minister Liz Truss resigned Thursday \u2014 bowing British Prime Minister Liz Truss quit ..."
+    },
+    {
+      "id": "q-2417",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "context_used": "Days after President Donald Trump ordered a drone strike that killed Qasem Soleimani, the powerful commander of Iran's elite Quds Force, \"Harsh revenge\" awaits the \"criminals\" who killed Qasem Soleima..."
+    },
+    {
+      "id": "q-2418",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "context_used": "After months of conflicting statements from Huawei executives, the Chinese networking giant on Friday officially unveiled HarmonyOS, Chinese tech giant Huawei Technologies plans to equip more of its p..."
+    },
+    {
+      "id": "q-2419",
+      "pred": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "context_used": "British Prime Minister Liz Truss resigned Thursday \u2014 bowing British Prime Minister Liz Truss has announced her resignation following weeks of criticism from her opponents and members of her own Conser..."
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "config": {
+    "model": "claude-sonnet-4-20250514",
+    "prompt_type": "zero_shot",
+    "include_docs": false,
+    "split": "sample",
+    "num_samples": 50
+  },
+  "metrics": {
+    "average_score": 0.59,
+    "full_match": 24,
+    "partial_match": 11,
+    "incorrect": 15,
+    "total": 50,
+    "full_match_rate": 0.48,
+    "partial_match_rate": 0.22,
+    "incorrect_rate": 0.3
+  },
+  "predictions": [
+    {
+      "id": "q-1",
+      "target_event": "Videos of the assassination circulated on social media.",
+      "prediction": "A,D",
+      "gold": "D",
+      "response": "D\n\nThe most plausible direct cause of videos of the assassination circulating on social media would be the actual assassination attempt itself - a man firing twice at Shinzo Abe. This is the event that would have been captured on video and subsequently shared on social media platforms."
+    },
+    {
+      "id": "q-2",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "prediction": "B",
+      "gold": "C",
+      "response": "B"
+    },
+    {
+      "id": "q-3",
+      "target_event": "The impeachment motion against President Yoon failed.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "To determine the most plausible direct cause of an impeachment motion failing, I need to consider what would directly lead to that outcome.\n\nAn impeachment motion fails when it doesn't receive enough votes to pass, typically due to insufficient support from legislators.\n\nLooking at the options:\n\nA. Opposition legislators filing an impeachment motion - This would be a prerequisite for the motion to exist, but not a direct cause of its failure.\n\nB. None of the others are correct causes - This is a catch-all option.\n\nC. A protest anthem performance - This would be a response to events but not a direct cause of the motion's failure.\n\nD. President Yoon declaring martial law and sending soldiers to parliament - This could be the underlying reason for the impeachment motion, but the question asks for the direct cause of the motion's *failure*, not its initiation.\n\nNone of these options directly explain why the impeachment motion failed (such as lack of votes, procedural issues, or insufficient legislative support). The most likely direct cause would be related to the voting process or legislative dynamics, which aren't represented in these options.\n\nB"
+    },
+    {
+      "id": "q-4",
+      "target_event": "Social media companies removed harmful content.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D\n\nThe circulation of assassination videos on social media would directly prompt social media companies to remove such harmful content, as these platforms typically have policies against violent or graphic content."
+    },
+    {
+      "id": "q-5",
+      "target_event": "On November 10, Musk stated bankruptcy was possible for Twitter if it didn't increase revenue.",
+      "prediction": "D",
+      "gold": "C",
+      "response": "To identify the most plausible direct cause of Musk stating bankruptcy was possible for Twitter if it didn't increase revenue on November 10, I need to consider what would directly lead to such a statement.\n\nLet me analyze each option:\n\nA. Twitter sued Elon Musk to force the acquisition - This legal action wouldn't directly cause Musk to make statements about Twitter's financial situation and bankruptcy risk.\n\nB. Elon Musk changed his profile to 'Chief Twit' - This is just a profile change and wouldn't directly cause concerns about bankruptcy.\n\nC. None of the others are correct causes - This would only be correct if none of the other options are plausible direct causes.\n\nD. Elon Musk signed a deal to acquire Twitter in April - This acquisition deal would put Musk in a position where he would become responsible for Twitter's financial performance and would have access to internal financial information, making him concerned about revenue and potential bankruptcy.\n\nThe most plausible direct cause is that Musk's acquisition deal (which he signed in April and completed in October) gave him ownership and insight into Twitter's financial situation, leading to his November 10 statement about potential bankruptcy if revenue didn't increase.\n\nD"
+    },
+    {
+      "id": "q-6",
+      "target_event": "President Trump announced a plan to impose additional 25% tariffs on Canadian steel and aluminum imports.",
+      "prediction": "D",
+      "gold": "C",
+      "response": "D"
+    },
+    {
+      "id": "q-7",
+      "target_event": "South Korea\u2019s parliament voted to impeach President Yoon Suk Yeol.",
+      "prediction": "D",
+      "gold": "B,D",
+      "response": "D"
+    },
+    {
+      "id": "q-8",
+      "target_event": "Ontario placed a 25% tax on electricity exports to the U.S.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-9",
+      "target_event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "prediction": "B,D",
+      "gold": "D",
+      "response": "D,B"
+    },
+    {
+      "id": "q-10",
+      "target_event": "Capitol Police Chief Steven Sund, House Sergeant at Arms Paul Irving, and Senate Sergeant at Arms Michael Stenger resigned.",
+      "prediction": "A,B",
+      "gold": "A,C",
+      "response": "B\n\nThe resignations of these three key security officials occurred as a direct result of the security failures that led to the disruption and halting of the congressional certification process on January 6, 2021. The breach of the Capitol and the resulting halt to the certification proceedings created the crisis that led to calls for accountability and ultimately their resignations."
+    },
+    {
+      "id": "q-11",
+      "target_event": "Authorities in Myanmar and Thailand declared a state of emergency.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-12",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-13",
+      "target_event": "Elon Musk gained full command of the federal cost-cutting effort.",
+      "prediction": "C",
+      "gold": "A",
+      "response": "C"
+    },
+    {
+      "id": "q-14",
+      "target_event": "Northern Ireland and Scotland voted to remain in the EU.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-15",
+      "target_event": "The US Senate will likely vote on Wednesday on a bill to halt Trump\u2019s tariffs on Canadian imports.",
+      "prediction": "A,C,D",
+      "gold": "A,C,D",
+      "response": "A,C,D"
+    },
+    {
+      "id": "q-16",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-17",
+      "target_event": "Musk allies took top positions in federal agencies.",
+      "prediction": "A",
+      "gold": "D",
+      "response": "Looking at this question, I need to identify what would directly cause \"Musk allies took top positions in federal agencies.\"\n\nLet me analyze each option:\n\nA. \"Elon Musk and Vivek Ramaswamy increased hiring for DOGE\" - This directly describes hiring/placement activities that would result in allies taking positions in federal agencies.\n\nB. \"Mr. Musk stated DOGE participants will not be paid and requested they work 80-hour weeks\" - This is about working conditions, not about placing people in positions.\n\nC. \"DOGE representatives spoke with staff at over a dozen federal agencies\" - This describes meetings/communications, not appointments to positions.\n\nD. \"None of the others are correct causes\" - This would only be correct if none of the above options were plausible direct causes.\n\nOption A is the most plausible direct cause because increased hiring for DOGE would naturally result in Musk allies being placed in federal agency positions.\n\nA"
+    },
+    {
+      "id": "q-18",
+      "target_event": "Mr. Musk stated DOGE participants will not be paid and requested they work 80-hour weeks.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-19",
+      "target_event": "The coronavirus pandemic halted the global economy.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-20",
+      "target_event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "prediction": "A",
+      "gold": "A,B,C",
+      "response": "A"
+    },
+    {
+      "id": "q-21",
+      "target_event": "David Cameron announced his resignation as Prime Minister.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-22",
+      "target_event": "Lockdowns obstructed agricultural flow, resulting in hiked food prices, food shortages, malnutrition, and deaths.",
+      "prediction": "C,D",
+      "gold": "A,C",
+      "response": "C,D"
+    },
+    {
+      "id": "q-23",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-24",
+      "target_event": "The FBI and ATF cleared the Capitol.",
+      "prediction": "B",
+      "gold": "A",
+      "response": "B"
+    },
+    {
+      "id": "q-25",
+      "target_event": "Democrats won statewide offices in Arizona, North Carolina, Wisconsin, and Michigan.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "Looking at this event, I need to consider what would most directly cause Democrats to win statewide offices in these key swing states.\n\nLet me analyze each option:\n\nA. Trump receiving more Latino votes than previous Republicans would likely help Republicans, not Democrats, in statewide races.\n\nB. This is a fallback option if none of the others are plausible causes.\n\nC. Impeachment and acquittal could potentially affect voter sentiment, but this would be more of an indirect influence on electoral outcomes rather than a direct cause.\n\nD. If Trump was elected as the 47th president, this would indicate strong Republican performance, which would contradict Democrats winning statewide offices in these competitive states.\n\nNone of these options provide a plausible direct cause for Democrats winning statewide offices in Arizona, North Carolina, Wisconsin, and Michigan. In fact, options A and D would suggest Republican strength that would work against Democratic victories.\n\nB"
+    },
+    {
+      "id": "q-26",
+      "target_event": "By April 3, 2025, the death toll from the earthquake reached 4,390 in Myanmar, with over 5,490 injured.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C\n\nThe death toll and injury count described in the event would be directly caused by the earthquake causing significant damage and displacement across Myanmar. This is the most direct cause-and-effect relationship among the options provided."
+    },
+    {
+      "id": "q-27",
+      "target_event": "The British pound plunged in value.",
+      "prediction": "B",
+      "gold": "B,D",
+      "response": "B"
+    },
+    {
+      "id": "q-28",
+      "target_event": "The Capitol was secured, and lawmakers reconvened to continue certification.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-29",
+      "target_event": "The British pound plunged in value.",
+      "prediction": "B",
+      "gold": "B,C",
+      "response": "B"
+    },
+    {
+      "id": "q-30",
+      "target_event": "Northern Ireland and Scotland voted to remain in the EU.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A\n\nThe most direct cause of Northern Ireland and Scotland voting to remain in the EU was that the United Kingdom held a referendum on June 23. This referendum provided the opportunity for different regions to cast their votes, which resulted in Northern Ireland and Scotland voting to remain while England and Wales voted to leave."
+    },
+    {
+      "id": "q-31",
+      "target_event": "Northern Ireland and Scotland voted to remain in the EU.",
+      "prediction": "D",
+      "gold": "A",
+      "response": "D\n\nThe event describes how Northern Ireland and Scotland voted to remain in the EU, which directly relates to the division of the nation into 'remain' and 'leave' camps during the Brexit referendum. This division is what enabled different regions to vote differently, with Northern Ireland and Scotland choosing to remain while England and Wales voted to leave."
+    },
+    {
+      "id": "q-32",
+      "target_event": "Shinzo Abe promoted the Quadrilateral Security Dialogue (Quad).",
+      "prediction": "B",
+      "gold": "D",
+      "response": "B"
+    },
+    {
+      "id": "q-33",
+      "target_event": "The United Kingdom held a referendum on June 23.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-34",
+      "target_event": "President Trump announced a plan to impose additional 25% tariffs on Canadian steel and aluminum imports.",
+      "prediction": "D",
+      "gold": "C",
+      "response": "D"
+    },
+    {
+      "id": "q-35",
+      "target_event": "Musk confirmed charging $8/month for Twitter Blue check marks and removed ID verification.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-36",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-37",
+      "target_event": "Many therapists cease in-person client sessions.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-38",
+      "target_event": "Ontario placed a 25% tax on electricity exports to the U.S.",
+      "prediction": "D",
+      "gold": "B,D",
+      "response": "D"
+    },
+    {
+      "id": "q-39",
+      "target_event": "The United Kingdom held a referendum on June 23.",
+      "prediction": "C",
+      "gold": "A,B,C",
+      "response": "C"
+    },
+    {
+      "id": "q-40",
+      "target_event": "Sinn Fein called for a referendum on Irish unity.",
+      "prediction": "A",
+      "gold": "A,B",
+      "response": "Looking at this question, I need to identify what would most directly cause Sinn Fein to call for a referendum on Irish unity.\n\nThe options all seem to relate to Brexit, though they're not completely clear about what the June 23 referendum was about (though historically this would be the Brexit referendum).\n\nSinn Fein's call for an Irish unity referendum would most likely be a direct response to the actual Brexit vote result, where the UK (including Northern Ireland) voted to leave the EU. This created a new political situation that Sinn Fein saw as an opportunity to push for Irish reunification.\n\nBetween the options given:\n- Options A and B are identical and refer to the actual referendum being held\n- Option C refers to the division during the campaign period  \n- Option D refers to the earlier pledge to hold a referendum\n\nThe most direct cause would be the actual holding of the Brexit referendum (and its result), as this created the immediate political circumstances that prompted Sinn Fein's response.\n\nA"
+    },
+    {
+      "id": "q-41",
+      "target_event": "By April 3, 2025, the death toll from the earthquake reached 4,390 in Myanmar, with over 5,490 injured.",
+      "prediction": "B",
+      "gold": "A,B,C",
+      "response": "B\n\nThe death toll and injury count described in the event would be the direct result of the major earthquake and aftershock that struck Myanmar. Option B describes the seismic events (M7.7 earthquake and M6.7 aftershock) that would directly cause the casualties mentioned. The other options describe consequences or effects of the earthquake rather than the direct cause of the death toll and injuries."
+    },
+    {
+      "id": "q-42",
+      "target_event": "The Iranian government issued an intercity travel ban and closed schools, universities, national parks, and non-essential businesses on March 26.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-43",
+      "target_event": "On December 18, Musk ran a Twitter poll asking if he should step down as CEO, with a majority voting yes.",
+      "prediction": "C",
+      "gold": "A",
+      "response": "To identify the most plausible direct cause of Musk running a Twitter poll on December 18 asking if he should step down as CEO, I need to consider what events would directly lead to such a decision.\n\nLet me analyze each option:\n\nA. None of the others are correct causes - This would only be correct if none of the other options are plausible direct causes.\n\nB. The Delaware Chancery Court ordered a Friday deadline for the Twitter acquisition deal to close in early October - This happened months before December 18 and relates to the acquisition process, not to stepping down as CEO after already being in the role.\n\nC. Musk confirmed charging $8/month for Twitter Blue check marks and removed ID verification - This was a controversial policy change that generated significant backlash from users and could directly lead to pressure on Musk's leadership, making him consider stepping down.\n\nD. Elon Musk signed a deal to acquire Twitter in April - This happened much earlier and was about acquiring the company, not about stepping down as CEO.\n\nThe most plausible direct cause would be the controversial policy changes (option C) that created user backlash and pressure on his leadership, which would directly motivate him to ask users if he should step down.\n\nC"
+    },
+    {
+      "id": "q-44",
+      "target_event": "Over three million Brits called for a do-over.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-45",
+      "target_event": "Authorities in Myanmar and Thailand declared a state of emergency.",
+      "prediction": "C",
+      "gold": "B,C",
+      "response": "C"
+    },
+    {
+      "id": "q-46",
+      "target_event": "Yoon's senior aides and defense minister offered to resign.",
+      "prediction": "B",
+      "gold": "A,B,C",
+      "response": "B"
+    },
+    {
+      "id": "q-47",
+      "target_event": "Five people died during the riots.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-48",
+      "target_event": "The congressional certification of Joe Biden\u2019s victory was halted.",
+      "prediction": "B",
+      "gold": "B,C",
+      "response": "B"
+    },
+    {
+      "id": "q-49",
+      "target_event": "Lockdowns obstructed agricultural flow, resulting in hiked food prices, food shortages, malnutrition, and deaths.",
+      "prediction": "A",
+      "gold": "B",
+      "response": "A\n\nThe coronavirus pandemic halted the global economy, which directly led to the lockdowns mentioned in the event. These lockdowns then obstructed agricultural flow, causing the chain of consequences described (hiked food prices, food shortages, malnutrition, and deaths)."
+    },
+    {
+      "id": "q-50",
+      "target_event": "Musk laid off thousands of Twitter employees and contractors.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    }
+  ]
+}

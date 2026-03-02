@@ -1,0 +1,472 @@
+{
+  "config": {
+    "model": "gpt-4o",
+    "method": "smart_router",
+    "split": "sample",
+    "num_samples": 50
+  },
+  "metrics": {
+    "average_score": 0.46,
+    "full_match": 20,
+    "partial_match": 6,
+    "incorrect": 24,
+    "route_counts": {
+      "none": 10,
+      "disambiguation": 5,
+      "multi_answer": 35,
+      "standard": 0
+    }
+  },
+  "predictions": [
+    {
+      "id": "q-1",
+      "route": "multi_answer",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "baseline_pred": "A,D",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-2",
+      "route": "none",
+      "pred": "B,D",
+      "gold": "C",
+      "score": 0.0,
+      "baseline_pred": "C",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-3",
+      "route": "none",
+      "pred": "A",
+      "gold": "B",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-4",
+      "route": "multi_answer",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-5",
+      "route": "none",
+      "pred": "D",
+      "gold": "C",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-6",
+      "route": "disambiguation",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "baseline_pred": "C",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-7",
+      "route": "disambiguation",
+      "pred": "C",
+      "gold": "B,D",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-8",
+      "route": "multi_answer",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "baseline_pred": "A",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-9",
+      "route": "multi_answer",
+      "pred": "B,D",
+      "gold": "D",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-10",
+      "route": "multi_answer",
+      "pred": "A",
+      "gold": "A,C",
+      "score": 0.5,
+      "baseline_pred": "A",
+      "baseline_score": 0.5
+    },
+    {
+      "id": "q-11",
+      "route": "multi_answer",
+      "pred": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "baseline_pred": "A,D",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-12",
+      "route": "multi_answer",
+      "pred": "A,C",
+      "gold": "A",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-13",
+      "route": "multi_answer",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "baseline_pred": "A",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-14",
+      "route": "multi_answer",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-15",
+      "route": "disambiguation",
+      "pred": "A,D",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "baseline_pred": "A,D",
+      "baseline_score": 0.5
+    },
+    {
+      "id": "q-16",
+      "route": "multi_answer",
+      "pred": "B,D",
+      "gold": "B",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-17",
+      "route": "none",
+      "pred": "C",
+      "gold": "D",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-18",
+      "route": "multi_answer",
+      "pred": "B,D",
+      "gold": "B",
+      "score": 0.0,
+      "baseline_pred": "B,D",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-19",
+      "route": "multi_answer",
+      "pred": "A,B",
+      "gold": "A",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-20",
+      "route": "multi_answer",
+      "pred": "A,B",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "baseline_pred": "A",
+      "baseline_score": 0.5
+    },
+    {
+      "id": "q-21",
+      "route": "disambiguation",
+      "pred": "C",
+      "gold": "B",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-22",
+      "route": "multi_answer",
+      "pred": "A,D",
+      "gold": "A,C",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.5
+    },
+    {
+      "id": "q-23",
+      "route": "multi_answer",
+      "pred": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "baseline_pred": "A,D",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-24",
+      "route": "none",
+      "pred": "B,C",
+      "gold": "A",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-25",
+      "route": "none",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "baseline_pred": "B",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-26",
+      "route": "multi_answer",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "baseline_pred": "C",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-27",
+      "route": "multi_answer",
+      "pred": "A,B",
+      "gold": "B,D",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-28",
+      "route": "multi_answer",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "baseline_pred": "D",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-29",
+      "route": "multi_answer",
+      "pred": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-30",
+      "route": "multi_answer",
+      "pred": "A,B,C",
+      "gold": "A",
+      "score": 0.0,
+      "baseline_pred": "A,B,C",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-31",
+      "route": "none",
+      "pred": "C,D",
+      "gold": "A",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-32",
+      "route": "none",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "baseline_pred": "D",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-33",
+      "route": "multi_answer",
+      "pred": "A,D",
+      "gold": "A,C",
+      "score": 0.0,
+      "baseline_pred": "A,D",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-34",
+      "route": "disambiguation",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "baseline_pred": "C",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-35",
+      "route": "multi_answer",
+      "pred": "B,C,D",
+      "gold": "B",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-36",
+      "route": "multi_answer",
+      "pred": "B,C",
+      "gold": "B",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-37",
+      "route": "multi_answer",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "baseline_pred": "B",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-38",
+      "route": "multi_answer",
+      "pred": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "baseline_pred": "B,D",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-39",
+      "route": "multi_answer",
+      "pred": "A,B",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "baseline_pred": "A",
+      "baseline_score": 0.5
+    },
+    {
+      "id": "q-40",
+      "route": "multi_answer",
+      "pred": "A,B,D",
+      "gold": "A,B",
+      "score": 0.0,
+      "baseline_pred": "A,D",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-41",
+      "route": "multi_answer",
+      "pred": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "baseline_pred": "B",
+      "baseline_score": 0.5
+    },
+    {
+      "id": "q-42",
+      "route": "multi_answer",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "baseline_pred": "C",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-43",
+      "route": "none",
+      "pred": "C",
+      "gold": "A",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-44",
+      "route": "multi_answer",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-45",
+      "route": "multi_answer",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "baseline_pred": "C",
+      "baseline_score": 0.5
+    },
+    {
+      "id": "q-46",
+      "route": "multi_answer",
+      "pred": "A,B",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "baseline_pred": "A",
+      "baseline_score": 0.5
+    },
+    {
+      "id": "q-47",
+      "route": "multi_answer",
+      "pred": "C,D",
+      "gold": "C",
+      "score": 0.0,
+      "baseline_pred": "C",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-48",
+      "route": "multi_answer",
+      "pred": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "baseline_pred": "B,C",
+      "baseline_score": 1.0
+    },
+    {
+      "id": "q-49",
+      "route": "none",
+      "pred": "A,D",
+      "gold": "B",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 0.0
+    },
+    {
+      "id": "q-50",
+      "route": "multi_answer",
+      "pred": "A,B",
+      "gold": "A",
+      "score": 0.0,
+      "baseline_pred": "A",
+      "baseline_score": 1.0
+    }
+  ]
+}

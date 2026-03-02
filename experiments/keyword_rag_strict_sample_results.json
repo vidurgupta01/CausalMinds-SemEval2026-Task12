@@ -1,0 +1,355 @@
+{
+  "avg_score": 0.65,
+  "results": [
+    {
+      "id": "q-1",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "had_context": false
+    },
+    {
+      "id": "q-2",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-3",
+      "pred": "D",
+      "gold": "B",
+      "score": 0.0,
+      "had_context": true
+    },
+    {
+      "id": "q-4",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "had_context": false
+    },
+    {
+      "id": "q-5",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-6",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-7",
+      "pred": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "had_context": true
+    },
+    {
+      "id": "q-8",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-9",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-10",
+      "pred": "B",
+      "gold": "A,C",
+      "score": 0.0,
+      "had_context": true
+    },
+    {
+      "id": "q-11",
+      "pred": "D",
+      "gold": "A,D",
+      "score": 0.5,
+      "had_context": true
+    },
+    {
+      "id": "q-12",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-13",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-14",
+      "pred": "A",
+      "gold": "C",
+      "score": 0.0,
+      "had_context": true
+    },
+    {
+      "id": "q-15",
+      "pred": "A",
+      "gold": "A,C,D",
+      "score": 0.5,
+      "had_context": true
+    },
+    {
+      "id": "q-16",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-17",
+      "pred": "C",
+      "gold": "D",
+      "score": 0.0,
+      "had_context": true
+    },
+    {
+      "id": "q-18",
+      "pred": "D",
+      "gold": "B",
+      "score": 0.0,
+      "had_context": true
+    },
+    {
+      "id": "q-19",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "had_context": false
+    },
+    {
+      "id": "q-20",
+      "pred": "A",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "had_context": true
+    },
+    {
+      "id": "q-21",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-22",
+      "pred": "D",
+      "gold": "A,C",
+      "score": 0.0,
+      "had_context": false
+    },
+    {
+      "id": "q-23",
+      "pred": "D",
+      "gold": "A,D",
+      "score": 0.5,
+      "had_context": true
+    },
+    {
+      "id": "q-24",
+      "pred": "B",
+      "gold": "A",
+      "score": 0.0,
+      "had_context": true
+    },
+    {
+      "id": "q-25",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-26",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-27",
+      "pred": "A",
+      "gold": "B,D",
+      "score": 0.0,
+      "had_context": true
+    },
+    {
+      "id": "q-28",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-29",
+      "pred": "B",
+      "gold": "B,C",
+      "score": 0.5,
+      "had_context": true
+    },
+    {
+      "id": "q-30",
+      "pred": "D",
+      "gold": "A",
+      "score": 0.0,
+      "had_context": true
+    },
+    {
+      "id": "q-31",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "had_context": false
+    },
+    {
+      "id": "q-32",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "had_context": false
+    },
+    {
+      "id": "q-33",
+      "pred": "A",
+      "gold": "A,C",
+      "score": 0.5,
+      "had_context": true
+    },
+    {
+      "id": "q-34",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-35",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-36",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-37",
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0,
+      "had_context": false
+    },
+    {
+      "id": "q-38",
+      "pred": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "had_context": true
+    },
+    {
+      "id": "q-39",
+      "pred": "A",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "had_context": true
+    },
+    {
+      "id": "q-40",
+      "pred": "D",
+      "gold": "A,B",
+      "score": 0.0,
+      "had_context": true
+    },
+    {
+      "id": "q-41",
+      "pred": "B",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "had_context": true
+    },
+    {
+      "id": "q-42",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "had_context": false
+    },
+    {
+      "id": "q-43",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-44",
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0,
+      "had_context": false
+    },
+    {
+      "id": "q-45",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "had_context": true
+    },
+    {
+      "id": "q-46",
+      "pred": "B",
+      "gold": "A,B,C",
+      "score": 0.5,
+      "had_context": true
+    },
+    {
+      "id": "q-47",
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0,
+      "had_context": true
+    },
+    {
+      "id": "q-48",
+      "pred": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "had_context": true
+    },
+    {
+      "id": "q-49",
+      "pred": "A",
+      "gold": "B",
+      "score": 0.0,
+      "had_context": true
+    },
+    {
+      "id": "q-50",
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0,
+      "had_context": true
+    }
+  ]
+}

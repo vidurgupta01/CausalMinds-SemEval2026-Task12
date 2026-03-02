@@ -1,0 +1,502 @@
+{
+  "config": {
+    "model": "gpt-4o",
+    "prompt_type": "self_consistency",
+    "n_samples": 3,
+    "threshold": 0.5,
+    "split": "sample",
+    "num_samples": 30
+  },
+  "metrics": {
+    "average_score": 0.6333333333333333,
+    "full_match": 17,
+    "partial_match": 4,
+    "incorrect": 9,
+    "total": 30,
+    "full_match_rate": 0.5666666666666667,
+    "partial_match_rate": 0.13333333333333333,
+    "incorrect_rate": 0.3
+  },
+  "predictions": [
+    {
+      "id": "q-1",
+      "target_event": "Videos of the assassination circulated on social media.",
+      "prediction": "D",
+      "gold": "D",
+      "sample_predictions": [
+        "D",
+        "D",
+        "D"
+      ],
+      "responses": [
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "id": "q-2",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "prediction": "C",
+      "gold": "C",
+      "sample_predictions": [
+        "C",
+        "C",
+        "B"
+      ],
+      "responses": [
+        "C. None of the others are correct causes.",
+        "C. None of the others are correct causes.",
+        "B. Trump addressed the crowd."
+      ]
+    },
+    {
+      "id": "q-3",
+      "target_event": "The impeachment motion against President Yoon failed.",
+      "prediction": "B",
+      "gold": "B",
+      "sample_predictions": [
+        "B",
+        "B",
+        "B"
+      ],
+      "responses": [
+        "B. None of the others are correct causes.",
+        "B. None of the others are correct causes.",
+        "B. None of the others are correct causes."
+      ]
+    },
+    {
+      "id": "q-4",
+      "target_event": "Social media companies removed harmful content.",
+      "prediction": "D",
+      "gold": "D",
+      "sample_predictions": [
+        "D",
+        "D",
+        "D"
+      ],
+      "responses": [
+        "D. Videos of the assassination circulated on social media.",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "id": "q-5",
+      "target_event": "On November 10, Musk stated bankruptcy was possible for Twitter if it didn't increase revenue.",
+      "prediction": "C",
+      "gold": "C",
+      "sample_predictions": [
+        "C",
+        "C",
+        "C"
+      ],
+      "responses": [
+        "C. None of the others are correct causes.",
+        "C. None of the others are correct causes.",
+        "C. None of the others are correct causes."
+      ]
+    },
+    {
+      "id": "q-6",
+      "target_event": "President Trump announced a plan to impose additional 25% tariffs on Canadian steel and aluminum imports.",
+      "prediction": "C",
+      "gold": "C",
+      "sample_predictions": [
+        "C",
+        "C",
+        "C"
+      ],
+      "responses": [
+        "C. President Trump placed 25% tariffs on imports from Canada.",
+        "C. President Trump placed 25% tariffs on imports from Canada.",
+        "C. President Trump placed 25% tariffs on imports from Canada."
+      ]
+    },
+    {
+      "id": "q-7",
+      "target_event": "South Korea\u2019s parliament voted to impeach President Yoon Suk Yeol.",
+      "prediction": "D",
+      "gold": "B,D",
+      "sample_predictions": [
+        "D",
+        "D",
+        "D"
+      ],
+      "responses": [
+        "D. President Yoon Suk Yeol declared martial law on December 3 and sent soldiers to parliament.",
+        "C. Tens of thousands of protesters gathered outside the National Assembly in Seoul.  \nD. President Yoon Suk Yeol declared martial law on December 3 and sent soldiers to parliament.",
+        "D. President Yoon Suk Yeol declared martial law on December 3 and sent soldiers to parliament."
+      ]
+    },
+    {
+      "id": "q-8",
+      "target_event": "Ontario placed a 25% tax on electricity exports to the U.S.",
+      "prediction": "A",
+      "gold": "A",
+      "sample_predictions": [
+        "A",
+        "A",
+        "A"
+      ],
+      "responses": [
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    {
+      "id": "q-9",
+      "target_event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "prediction": "D",
+      "gold": "D",
+      "sample_predictions": [
+        "D",
+        "D",
+        "D"
+      ],
+      "responses": [
+        "D",
+        "D. Protesters clashed with police and breached security barriers at the Capitol.",
+        "D. Protesters clashed with police and breached security barriers at the Capitol."
+      ]
+    },
+    {
+      "id": "q-10",
+      "target_event": "Capitol Police Chief Steven Sund, House Sergeant at Arms Paul Irving, and Senate Sergeant at Arms Michael Stenger resigned.",
+      "prediction": "B",
+      "gold": "A,C",
+      "sample_predictions": [
+        "B",
+        "B",
+        "B"
+      ],
+      "responses": [
+        "B. The congressional certification of Joe Biden\u2019s victory was halted.",
+        "B. The congressional certification of Joe Biden\u2019s victory was halted.",
+        "B. The congressional certification of Joe Biden\u2019s victory was halted."
+      ]
+    },
+    {
+      "id": "q-11",
+      "target_event": "Authorities in Myanmar and Thailand declared a state of emergency.",
+      "prediction": "A,B",
+      "gold": "A,D",
+      "sample_predictions": [
+        "A,B",
+        "A,B",
+        "A,B,D"
+      ],
+      "responses": [
+        "A, B",
+        "A, B",
+        "A, B, D"
+      ]
+    },
+    {
+      "id": "q-12",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "prediction": "A",
+      "gold": "A",
+      "sample_predictions": [
+        "A",
+        "A",
+        "A"
+      ],
+      "responses": [
+        "A. Hundreds of soldiers stormed the National Assembly.",
+        "A.",
+        "A."
+      ]
+    },
+    {
+      "id": "q-13",
+      "target_event": "Elon Musk gained full command of the federal cost-cutting effort.",
+      "prediction": "A",
+      "gold": "A",
+      "sample_predictions": [
+        "A",
+        "A",
+        "A"
+      ],
+      "responses": [
+        "A",
+        "The information provided does not directly indicate which of the options are the direct cause(s) of Elon Musk gaining full command of the federal cost-cutting effort. The answer would depend on additional context or details about how these events are connected to Musk's involvement. Without such context, it's not possible to definitively identify the direct cause(s) from the options given.",
+        "A"
+      ]
+    },
+    {
+      "id": "q-14",
+      "target_event": "Northern Ireland and Scotland voted to remain in the EU.",
+      "prediction": "A,C",
+      "gold": "C",
+      "sample_predictions": [
+        "C",
+        "A,C",
+        "A,C"
+      ],
+      "responses": [
+        "C",
+        "C. The United Kingdom held a referendum on June 23.",
+        "C. The United Kingdom held a referendum on June 23."
+      ]
+    },
+    {
+      "id": "q-15",
+      "target_event": "The US Senate will likely vote on Wednesday on a bill to halt Trump\u2019s tariffs on Canadian imports.",
+      "prediction": "A,C",
+      "gold": "A,C,D",
+      "sample_predictions": [
+        "A,C",
+        "A,C",
+        "A,C,D"
+      ],
+      "responses": [
+        "A, C",
+        "A, C",
+        "A, C, D"
+      ]
+    },
+    {
+      "id": "q-16",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "prediction": "B",
+      "gold": "B",
+      "sample_predictions": [
+        "B",
+        "B",
+        "B"
+      ],
+      "responses": [
+        "B. President Yoon Suk Yeol declared martial law on December 3 and sent soldiers to parliament.",
+        "B. President Yoon Suk Yeol declared martial law on December 3 and sent soldiers to parliament.",
+        "B."
+      ]
+    },
+    {
+      "id": "q-17",
+      "target_event": "Musk allies took top positions in federal agencies.",
+      "prediction": "C",
+      "gold": "D",
+      "sample_predictions": [
+        "C",
+        "C",
+        "C"
+      ],
+      "responses": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    {
+      "id": "q-18",
+      "target_event": "Mr. Musk stated DOGE participants will not be paid and requested they work 80-hour weeks.",
+      "prediction": "A",
+      "gold": "B",
+      "sample_predictions": [
+        "A",
+        "A",
+        "A"
+      ],
+      "responses": [
+        "B. Trump appointed Elon Musk and Vivek Ramaswamy as co-leaders of the Department of Government Efficiency (DOGE).",
+        "B. Trump appointed Elon Musk and Vivek Ramaswamy as co-leaders of the Department of Government Efficiency (DOGE).",
+        "B. Trump appointed Elon Musk and Vivek Ramaswamy as co-leaders of the Department of Government Efficiency (DOGE)."
+      ]
+    },
+    {
+      "id": "q-19",
+      "target_event": "The coronavirus pandemic halted the global economy.",
+      "prediction": "A",
+      "gold": "A",
+      "sample_predictions": [
+        "A",
+        "A",
+        "A"
+      ],
+      "responses": [
+        "A. COVID-19 forced countries into lockdown.",
+        "A. COVID-19 forced countries into lockdown.",
+        "A"
+      ]
+    },
+    {
+      "id": "q-20",
+      "target_event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "prediction": "A",
+      "gold": "A,B,C",
+      "sample_predictions": [
+        "A",
+        "A,D",
+        "A"
+      ],
+      "responses": [
+        "A. Protesters clashed with police and breached security barriers at the Capitol.",
+        "A, D",
+        "A. Protesters clashed with police and breached security barriers at the Capitol."
+      ]
+    },
+    {
+      "id": "q-21",
+      "target_event": "David Cameron announced his resignation as Prime Minister.",
+      "prediction": "A,B",
+      "gold": "B",
+      "sample_predictions": [
+        "A,B",
+        "A,B",
+        "A,B"
+      ],
+      "responses": [
+        "B. The UK voted to leave the EU in a June 23 referendum.",
+        "B. The UK voted to leave the EU in a June 23 referendum.",
+        "B. The UK voted to leave the EU in a June 23 referendum."
+      ]
+    },
+    {
+      "id": "q-22",
+      "target_event": "Lockdowns obstructed agricultural flow, resulting in hiked food prices, food shortages, malnutrition, and deaths.",
+      "prediction": "A,C,D",
+      "gold": "A,C",
+      "sample_predictions": [
+        "A,C,D",
+        "A,C,D",
+        "A,C,D"
+      ],
+      "responses": [
+        "A, C, D",
+        "A, C, D",
+        "A, C, D"
+      ]
+    },
+    {
+      "id": "q-23",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "sample_predictions": [
+        "A,D",
+        "A,D",
+        "A,D"
+      ],
+      "responses": [
+        "A, D",
+        "A, D",
+        "A, D"
+      ]
+    },
+    {
+      "id": "q-24",
+      "target_event": "The FBI and ATF cleared the Capitol.",
+      "prediction": "B,C",
+      "gold": "A",
+      "sample_predictions": [
+        "B,C",
+        "B",
+        "B,C"
+      ],
+      "responses": [
+        "B, C",
+        "B",
+        "B, C"
+      ]
+    },
+    {
+      "id": "q-25",
+      "target_event": "Democrats won statewide offices in Arizona, North Carolina, Wisconsin, and Michigan.",
+      "prediction": "B",
+      "gold": "B",
+      "sample_predictions": [
+        "B",
+        "B",
+        "B"
+      ],
+      "responses": [
+        "B. None of the others are correct causes.",
+        "B. None of the others are correct causes.",
+        "B. None of the others are correct causes."
+      ]
+    },
+    {
+      "id": "q-26",
+      "target_event": "By April 3, 2025, the death toll from the earthquake reached 4,390 in Myanmar, with over 5,490 injured.",
+      "prediction": "C",
+      "gold": "C",
+      "sample_predictions": [
+        "C",
+        "C",
+        "C"
+      ],
+      "responses": [
+        "C",
+        "C.",
+        "C"
+      ]
+    },
+    {
+      "id": "q-27",
+      "target_event": "The British pound plunged in value.",
+      "prediction": "A,D",
+      "gold": "B,D",
+      "sample_predictions": [
+        "A,D",
+        "B,D",
+        "A"
+      ],
+      "responses": [
+        "B. The United Kingdom held a referendum on June 23.\nD. The United Kingdom held a referendum on June 23.",
+        "B, D",
+        "B. The United Kingdom held a referendum on June 23.  \nD. The United Kingdom held a referendum on June 23.  \n\n(Note: Answers B and D are essentially the same event and thus both can be considered direct causes. The actual outcome of the referendum, where the UK voted to leave the EU, is the direct cause of the British pound plunging in value.)"
+      ]
+    },
+    {
+      "id": "q-28",
+      "target_event": "The Capitol was secured, and lawmakers reconvened to continue certification.",
+      "prediction": "D",
+      "gold": "D",
+      "sample_predictions": [
+        "D",
+        "D",
+        "D"
+      ],
+      "responses": [
+        "D.",
+        "D.",
+        "D."
+      ]
+    },
+    {
+      "id": "q-29",
+      "target_event": "The British pound plunged in value.",
+      "prediction": "B",
+      "gold": "B,C",
+      "sample_predictions": [
+        "B",
+        "B",
+        "A,B"
+      ],
+      "responses": [
+        "B",
+        "B",
+        "B. The UK voted to leave the EU in a June 23 referendum."
+      ]
+    },
+    {
+      "id": "q-30",
+      "target_event": "Northern Ireland and Scotland voted to remain in the EU.",
+      "prediction": "A",
+      "gold": "A",
+      "sample_predictions": [
+        "A",
+        "A",
+        "A"
+      ],
+      "responses": [
+        "A",
+        "A",
+        "A"
+      ]
+    }
+  ]
+}

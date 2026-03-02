@@ -1,0 +1,912 @@
+[
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: A U.S. drone strike killed Iranian Maj. Gen. Qassem Soleimani and Abu Mahdi al-Muhandis after Muhandis picked up Soleimani from an airplane.\n\nA. US President Donald Trump ordered the assassination of Iranian General Qassem Soleimani.\nB. In 2015, the U.S. and five other nations signed a nuclear accord with Tehran.\nC. After 2006, Muhandis founded Kataib Hezbollah.\nD. During the 1980s Iran-Iraq War, Muhandis fought on the side of Iran.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Facebook replaced its corporate sign outside its California headquarters with one featuring the Meta logo.\n\nA. Facebook changed its corporate name to Meta on October 28 at the company's annual Connect event.\nB. Facebook changed its corporate name to Meta on October 28 at the company's annual Connect event.\nC. A whistleblower turned over internal Facebook documents to Congress and the U.S. Securities and Exchange Commission.\nD. Mark Zuckerberg announced Facebook was betting on the metaverse in July.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Facebook plans to change its company name to reflect its focus on the metaverse.\n\nA. Facebook announced plans to hire 10,000 more employees for metaverse development in Europe.\nB. More than a dozen news outlets published stories based on the leaked Facebook documents.\nC. Mark Zuckerberg announced Facebook was betting on the metaverse in July.\nD. Facebook announced Andrew Bosworth's promotion to chief technology officer.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Russian military helicopters opened fire on the Wagner convoy.\n\nA. Wagner forces advanced towards Moscow with a column of armored vehicles.\nB. Wagner forces seized control of the military headquarters in Rostov-on-Don.\nC. Yevgeny Prigozhin recruited Deputy Defense Minister Mikhail Mizintsev in April.\nD. The Russian Defense Ministry ordered all mercenary groups, including Wagner, to report to central military command by July 1.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Nvidia shares surged 24% to a record high, triggering a stock rally for Nvidia and other AI-adjacent businesses.\n\nA. Jensen Huang, Chris Malachowsky, and Curtis Priem founded Nvidia in 1993.\nB. Nvidia released its first-quarter earnings report, estimating $11 billion in second-quarter sales and reporting $1.09 earnings per share.\nC. Jensen Huang took Nvidia public on Nasdaq in 1999.\nD. Foreign investors purchased a net 15.8 trillion won ($11.6 billion) of South Korean stocks from January through March.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Ongoing lawsuits have been filed against OpenAI alleging copyright infringement and privacy violations due to its training data.\n\nA. None of the others are correct causes.\nB. OpenAI publicly released ChatGPT as a free research preview on November 30, 2022.\nC. OpenAI released ChatGPT Plus on February 1, 2023, and later introduced GPT-4 Turbo with Vision and GPT-4o to the public.\nD. Human judges scored the initial model\u2019s responses.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: David Lebryk departed his position at the Treasury Department.\n\nA. Mr. Musk stated DOGE participants will not be paid and requested they work 80-hour weeks.\nB. Musk allies took top positions in federal agencies.\nC. Trump appointed Elon Musk and Vivek Ramaswamy as co-leaders of the Department of Government Efficiency (DOGE).\nD. Elon Musk and Vivek Ramaswamy increased hiring for DOGE.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: On August 15, 2021, the Taliban seized the presidential palace in Kabul and declared the war over.\n\nA. US troops began withdrawing from Afghanistan in early July.\nB. US troops began withdrawing from Afghanistan in early July.\nC. U.S. troops left Bagram Airfield.\nD. Al-Qaeda terrorists attacked the US on September 11, 2001.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The city fires all four officers.\n\nA. Officials in Hennepin County ruled Floyd\u2019s death a homicide on June 1, 2020.\nB. George Floyd died on May 25, 2020, in Minneapolis under the knee of a White police officer.\nC. Two Cup Foods employees confront George Floyd about using a counterfeit bill.\nD. Cup Foods employees call police and report George Floyd used fake bills and was drunk/uncontrolled.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: 130 people were arrested across France, including 42 in Paris.\n\nA. The Macron government announced an increase in gas taxes effective January 1, 2019.\nB. The \"yellow vests\" movement caused roadblocks across France.\nC. 73 people were taken into police custody during the protests.\nD. A protester was accidentally run over and killed by a car near Lyon during demonstrations.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Scientific journals, including Springer Nature and Elsevier, updated author guidelines to prohibit LLMs as authors and require documentation of their use.\n\nA. ChatGPT quickly reached one million daily active users.\nB. Human judges scored the initial model\u2019s responses.\nC. GPT-4 was released on March 14, 2023, and integrated into ChatGPT.\nD. Millions of people started using ChatGPT immediately after its launch.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: At least 153 people were killed and dozens injured.\n\nA. Kim and her friend crawled out of the crush and were pulled into a tavern by adults.\nB. Tens of thousands of people gathered in Itaewon, Seoul, to celebrate Halloween on Saturday night.\nC. Emergency workers and pedestrians performed CPR on victims in the streets on Saturday night.\nD. Tens of thousands of people gathered in Itaewon, Seoul, to celebrate Halloween on Saturday night.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Taliban militants captured several provincial capitals, including Zaranj, Sheberghan, Kunduz, Sar-e Pol, Taloqan, and Aybak, between August 6 and August 9.\n\nA. The US launched a bombing campaign in Afghanistan in October 2001.\nB. U.S. troops left Bagram Airfield.\nC. Al-Qaeda terrorists attacked the US on September 11, 2001.\nD. US troops began withdrawing from Afghanistan in early July.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Musk confirmed charging $8/month for Twitter Blue check marks and removed ID verification.\n\nA. Musk laid off thousands of Twitter employees and contractors.\nB. Elon Musk completed his $44 billion takeover of Twitter.\nC. The Delaware Chancery Court ordered a Friday deadline for the Twitter acquisition deal to close in early October.\nD. Elon Musk entered Twitter headquarters.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.\n\nA. The U.S. and other countries began withdrawing their forces from Afghanistan on May 1.\nB. Al-Qaeda terrorists attacked the US on September 11, 2001.\nC. On August 15, 2021, Afghan President Ashraf Ghani fled the country.\nD. The Trump administration brokered a cease-fire with the Taliban in early 2020, excluding the Afghan government.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Officials confirmed on Monday that the death toll rose to 154 and 149 people were injured.\n\nA. A deadly crowd surge occurred in a narrow alley in Seoul's Itaewon district on Saturday night.\nB. Emergency workers from around the country were deployed to Itaewon to treat the injured.\nC. A temporary medical center was established in Itaewon for treating the injured.\nD. Kim and her friend crawled out of the crush and were pulled into a tavern by adults.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Scientific journals, including Springer Nature and Elsevier, updated author guidelines to prohibit LLMs as authors and require documentation of their use.\n\nA. OpenAI collected examples of good dialogue responses from people to train an initial version of ChatGPT.\nB. OpenAI experienced leadership changes, including the firing and rehiring of Sam Altman.\nC. The Italian Data Protection Authority imposed a temporary ban on ChatGPT in Italy due to privacy concerns.\nD. None of the others are correct causes.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Musk laid off thousands of Twitter employees and contractors.\n\nA. Elon Musk changed his profile to \u2018Chief Twit\u2019.\nB. Elon Musk completed his $44 billion takeover of Twitter.\nC. The Delaware Chancery Court ordered a Friday deadline for the Twitter acquisition deal to close in early October.\nD. Musk fired top Twitter executives.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Fiserv announced plans to roll out a new blockchain-based digital asset platform anchored by a U.S. dollar-pegged stablecoin, FIUSD.\n\nA. On May 20, 2025, the Senate voted 66-32 to advance a modified version of the GENIUS Act.\nB. In 2024, the European Union adopted its Markets in Crypto-Assets (MiCA) regulation.\nC. On June 17, 2025, the U.S. Senate passed the GENIUS Act.\nD. In November 2022, the FTX exchange failed.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Prigozhin went into exile in Belarus.\n\nA. Prigozhin negotiated his exit and called off his march on Moscow on Saturday afternoon.\nB. Prigozhin declared an armed rebellion.\nC. Wagner forces advanced towards Moscow with a column of armored vehicles.\nD. Prigozhin accused Defense Minister Sergei Shoigu of withholding ammunition and weapons from Wagner fighters in Ukraine.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Officials ordered the evacuation of Mollala and expanded evacuation zones in Clackamas County, Oregon due to wildfires.\n\nA. California required rebuilding in high-risk wildfire areas to use fire-resistant materials over a decade ago.\nB. Wildfires in recent years destroyed thousands of homes.\nC. The Almeda Fire burned hundreds of homes and businesses in Phoenix and Talent, Oregon.\nD. None of the others are correct causes.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The Chinese government criticized Japan\u2019s plan to release wastewater.\n\nA. Japan announced its plan to release treated Fukushima wastewater into the sea.\nB. A huge earthquake and tsunami in 2011 caused a meltdown at the Fukushima plant.\nC. The International Atomic Energy Agency (IAEA) issued a report in July 2023 confirming Fukushima\u2019s release will have a negligible radiological effect.\nD. Japan announced its plan to release treated Fukushima wastewater into the sea.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: India sent approximately 15 tonnes of relief material to Myanmar via an IAF C-130J aircraft.\n\nA. Myanmar's military-dominated government issued a plea for outside help.\nB. Mandalay General Hospital became full, stopped admitting patients, and lost power and water.\nC. Authorities in Myanmar and Thailand declared a state of emergency.\nD. Authorities in Myanmar and Thailand declared a state of emergency.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,C,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: On December 10, 2020, Judge Sawan charged Caretaker Prime Minister Hassan Diab and three former ministers with criminal negligence.\n\nA. Thousands of volunteers from Lebanon and its diaspora cleared rubble, offered accommodation, and repaired homes in affected areas after the explosion.\nB. The Rhosus sank on February 18, 2018.\nC. A colossal explosion occurred at the Port of Beirut on August 4, killing at least 200 people and injuring around 5,000.\nD. A fire broke out at Warehouse 12 at the Port of Beirut on August 4, reportedly started by welding work.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Electric demand for heat across the state soared.\n\nA. Outdoor temperatures plunged to arctic levels.\nB. ERCOT officials acknowledged \"pretty frigid temperatures\" were headed to Texas during a board meeting.\nC. Texas Gov. Greg Abbott issued a disaster declaration in all 254 counties.\nD. A major winter storm hit a large part of the United States on Monday, bringing heavy snow and cold temperatures.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Trump was impeached for a second time on January 13th.\n\nA. Protesters clashed with police and breached security barriers at the Capitol.\nB. Trump supporters protested in Washington, D.C.\nC. Protesters clashed with police and breached security barriers at the Capitol.\nD. Twitter removed Trump's tweets and locked his account.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Over 2 million Texas residents were left without electricity.\n\nA. Outdoor temperatures plunged to arctic levels.\nB. Texas Gov. Greg Abbott issued a disaster declaration in all 254 counties.\nC. San Antonio Mayor Ron Nirenberg and Bexar County Judge Wolff issued a joint declaration urging precautions, travel limits, and energy conservation, activating emergency management plans.\nD. ERCOT officials acknowledged \"pretty frigid temperatures\" were headed to Texas during a board meeting.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Derek Chauvin was arrested and charged with murder and manslaughter.\n\nA. George Floyd died on May 25, 2020, in Minneapolis under the knee of a White police officer.\nB. Two Cup Foods employees confront George Floyd about using a counterfeit bill.\nC. Derek Chauvin keeps his knee on George Floyd's neck for over eight minutes, including after Floyd becomes unconscious, until EMTs intervene.\nD. George Floyd died on May 25, 2020, in Minneapolis under the knee of a White police officer.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,C,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Lockdowns triggered an increased risk of domestic violence.\n\nA. The healthcare system shifted attention to COVID-19 patients, disrupting services for other medical conditions and resulting in many deaths.\nB. Chinese authorities identified SARS-CoV-2 as the new coronavirus.\nC. None of the others are correct causes.\nD. The WHO was notified of a cluster of unusual pneumonia cases in Wuhan City, China on Dec. 31.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: India sent approximately 15 tonnes of relief material to Myanmar via an IAF C-130J aircraft.\n\nA. A M7.7 earthquake struck Myanmar on March 28, 2025, followed by a M6.7 aftershock.\nB. Mandalay General Hospital became full, stopped admitting patients, and lost power and water.\nC. A M7.7 earthquake struck Myanmar on March 28, 2025, followed by a M6.7 aftershock.\nD. The United Nations mobilized help for Myanmar on Friday.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Authorities in Myanmar and Thailand declared a state of emergency.\n\nA. A high-rise under construction collapsed in Bangkok, Thailand, causing casualties.\nB. The United Nations mobilized help for Myanmar on Friday.\nC. The earthquake caused significant damage and displacement across Myanmar.\nD. Mandalay General Hospital became full, stopped admitting patients, and lost power and water.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: U.S. government regulators announced they would fully cover deposits at both SVB and Signature Bank.\n\nA. Silicon Valley Bank made emergency moves to handle withdrawal requests.\nB. The FDIC took control of SVB and created the Deposit Insurance National Bank of Santa Clara.\nC. Signature Bank failed after a bank run.\nD. Signature Bank failed after a bank run.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The Los Angeles Mayor agreed to increase the LAPD budget cut to $150 million, to be redistributed to non-profit agencies.\n\nA. The Secret Service rushed President Trump and his family to a bunker after unrest outside the White House on May 29, 2020.\nB. Cup Foods employees call police and report George Floyd used fake bills and was drunk/uncontrolled.\nC. Widespread protests erupted across the nation, including at Lafayette Square in Washington, D.C.\nD. Officers Thomas Lane and J. Alexander Kueng arrive, handcuff Floyd, and move him to a police vehicle.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Elon Musk gained full command of the federal cost-cutting effort.\n\nA. Elon Musk tempered his initial promise for federal spending cuts from $2 trillion to $1 trillion.\nB. OPM offered federal workers the option to resign with pay.\nC. None of the others are correct causes.\nD. Vivek Ramaswamy withdrew from the project before Mr. Trump assumed office.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The Iranian government issued an intercity travel ban and closed schools, universities, national parks, and non-essential businesses on March 26.\n\nA. The U.S. government mandated port and border closures and authorized immediate repatriation of asylum seekers on March 21.\nB. The World Health Organization (WHO) officially declared the situation a pandemic on March 11, 2020.\nC. The Italian government called in the military to enforce its lockdown and ordered non-essential businesses to close by March 22.\nD. The WHO was notified of a cluster of unusual pneumonia cases in Wuhan City, China on Dec. 31.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Fire crews contained several fires, including the Kenneth, Lidia, Sunset, Auto, Hurst, Archer, and San Diego area fires.\n\nA. Thousands of firefighters are tackling multiple blazes that killed at least two people and destroyed over 10,000 structures in the Los Angeles area.\nB. An out-of-control wildfire in L.A.\u2019s Pacific Palisades affected almost 3,000 acres and forced thousands to evacuate.\nC. The Eaton fire burned over 14,000 acres, destroyed thousands of homes, and displaced tens of thousands.\nD. The Palisades fire burned over 23,400 acres and forced evacuations along Pacific Coast Highway in Pacific Palisades, Malibu, and Santa Monica.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The Bank of England intervened on September 28 by announcing a temporary purchase of \u00a365 billion worth of long-dated UK government bonds.\n\nA. The country's currency plummeted in value and government borrowing costs rose after the announcement.\nB. The country's currency plummeted in value and government borrowing costs rose after the announcement.\nC. Boris Johnson resigned on July 7.\nD. Liz Truss became UK Prime Minister on September 5.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Huawei announced a deployment timeline for HarmonyOS on various devices between 2020 and 2022.\n\nA. HarmonyOS development began in 2017.\nB. Google, Intel, and other U.S. companies suspended business with Huawei.\nC. Huawei released a TV running HarmonyOS.\nD. Huawei denied the U.S. government's accusations and pursued legal means.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: DeepSeek-R1\u2019s application became the most downloaded free AI app on the US Apple App Store.\n\nA. Liang Wenfeng founded DeepSeek in July 2023.\nB. DeepSeek released its large language model, DeepSeek-R1, on January 20.\nC. DeepSeek unveiled its V3 model in December and R1 model in January.\nD. DeepSeek's app reached the top of U.S. free app charts within a week of its launch.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Protesters overtook and destroyed the Minneapolis Police Department\u2019s Third Precinct.\n\nA. Cup Foods employees call police and report George Floyd used fake bills and was drunk/uncontrolled.\nB. Video of George Floyd\u2019s last moments circulated in May.\nC. Officers Thomas Lane and J. Alexander Kueng arrive, handcuff Floyd, and move him to a police vehicle.\nD. Derek Chauvin was arrested and charged with murder and manslaughter.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Australia's military deployed ships and aircraft to rescue thousands trapped by fires.\n\nA. None of the others are correct causes.\nB. Bushfire smoke created smog in Sydney, causing air quality to reach 22 times worse than standard levels and causing respiratory problems for residents.\nC. Satellite pictures confirmed smoke from eastern New South Wales fires crossed the Tasman Sea to New Zealand.\nD. Bushfires in New South Wales and Queensland destroyed CO2-absorbing vegetation.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The Japanese government allocated $200 million to compensate the fishing industry and $340 million for local economic mitigation.\n\nA. The Chinese government criticized Japan\u2019s plan to release wastewater.\nB. Prime Minister Fumio Kishida announced Japan would begin discharging treated radioactive water from the Fukushima Daiichi plant into the sea as early as Thursday.\nC. Protesters rallied in Tokyo on August 24, 2023, against the Japanese government\u2019s plan to release treated wastewater from the Fukushima-Daiichi power plant.\nD. The IAEA will maintain an on-site presence for the duration of the release.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Scientists confirmed 2024 was Canada and the world\u2019s hottest year on record, breaching the 1.5 C warming threshold.\n\nA. None of the others are correct causes.\nB. The Kenneth fire broke out in West Hills.\nC. The Lidia fire ignited in Angeles National Forest.\nD. The Eaton fire burned over 14,000 acres, destroyed thousands of homes, and displaced tens of thousands.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Widespread disruption occurred in internet and news access, and banks temporarily shut down across Myanmar following the coup.\n\nA. China\u2019s foreign minister Wang Yi visited Myanmar less than three weeks before the military coup.\nB. The election commission denied widespread voter fraud.\nC. Myanmar\u2019s military seized power on February 1, beginning a coup.\nD. Aung San Suu Kyi led her party to landslide victories in 2015 and on November 8.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Protesters overtook and destroyed the Minneapolis Police Department\u2019s Third Precinct.\n\nA. George Floyd died on May 25, 2020, in Minneapolis under the knee of a White police officer.\nB. George Floyd died on May 25, 2020, in Minneapolis under the knee of a White police officer.\nC. Cup Foods employees call police and report George Floyd used fake bills and was drunk/uncontrolled.\nD. Video of George Floyd\u2019s last moments circulated in May.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Nvidia announced it is significantly increasing chip supply to meet surging demand.\n\nA. The tech industry increased its focus on A.I., causing a shortage of chips.\nB. Jensen Huang took Nvidia public on Nasdaq in 1999.\nC. Foreign investors purchased a net 15.8 trillion won ($11.6 billion) of South Korean stocks from January through March.\nD. Nvidia released its first-quarter earnings report, estimating $11 billion in second-quarter sales and reporting $1.09 earnings per share.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: President Donald Trump established a national Bitcoin reserve.\n\nA. In March 2023, major stablecoins like USDC experienced brief de-pegging events due to banking sector stress.\nB. In November 2022, the FTX exchange failed.\nC. None of the others are correct causes.\nD. World Liberty Financial issued its own stablecoin.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Families of victims from the 2014 Sewol ferry disaster visited the Itaewon site.\n\nA. World leaders, including Fumio Kishida, Joe Biden, and Xi Jinping, sent messages of condolence to President Yoon.\nB. None of the others are correct causes.\nC. Officials confirmed on Monday that the death toll rose to 154 and 149 people were injured.\nD. Kim and her friend crawled out of the crush and were pulled into a tavern by adults.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Prime Minister Fumio Kishida announced Japan would begin discharging treated radioactive water from the Fukushima Daiichi plant into the sea as early as Thursday.\n\nA. Japan's cabinet approved a treated-water plan in 2021.\nB. China expanded its ban on seafood imports from Fukushima to include all of Japan.\nC. Japan's cabinet approved a treated-water plan in 2021.\nD. The Chinese government criticized Japan\u2019s plan to release wastewater.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The U.S. State Department confirmed at least two U.S. citizens were among the dead.\n\nA. Kim and her friend entered the alley at 8 p.m. and became trapped as the crowd density increased.\nB. Emergency workers and pedestrians performed CPR on victims in the streets on Saturday night.\nC. A deadly crowd surge occurred in a narrow alley in Seoul's Itaewon district on Saturday night.\nD. A temporary medical center was established in Itaewon for treating the injured.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The D.C. National Guard was activated, and a citywide curfew was imposed.\n\nA. Pipe bombs were reported at the Republican National Committee building and the Democratic National Committee headquarters.\nB. Supporters stormed the U.S. Capitol.\nC. Supporters stormed the U.S. Capitol.\nD. A woman was shot inside the Capitol and died.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Local governments established public mourning sites.\n\nA. The U.S. State Department confirmed at least two U.S. citizens were among the dead.\nB. World leaders, including Fumio Kishida, Joe Biden, and Xi Jinping, sent messages of condolence to President Yoon.\nC. A deadly crowd surge occurred in a narrow alley in Seoul's Itaewon district on Saturday night.\nD. President Yoon Suk-yeol declared a period of national mourning and designated Itaewon a disaster zone.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Huawei\u2019s smartphone sales suffered in international markets.\n\nA. Huawei unveiled its Harmony operating system.\nB. Huawei announced a deployment timeline for HarmonyOS on various devices between 2020 and 2022.\nC. Google, Intel, and other U.S. companies suspended business with Huawei.\nD. Google, Intel, and other U.S. companies suspended business with Huawei.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Huawei\u2019s smartphone sales suffered in international markets.\n\nA. Huawei was placed on a US trade blacklist, preventing Google from supplying new Huawei devices with Android OS.\nB. Huawei stated it will first lay the foundation for operating systems in the Chinese market, then expand overseas.\nC. Huawei announced HarmonyOS will be open source.\nD. Google, Intel, and other U.S. companies suspended business with Huawei.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: A TEPCO staff member activated a seawater pump and an operator confirmed the release.\n\nA. South Korea banned seafood imports from the Fukushima area.\nB. A huge earthquake and tsunami in 2011 caused a meltdown at the Fukushima plant.\nC. Protesters rallied in Tokyo on August 24, 2023, against the Japanese government\u2019s plan to release treated wastewater from the Fukushima-Daiichi power plant.\nD. Japan announced its plan to release treated Fukushima wastewater into the sea.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Belarusian President Alexander Lukashenko brokered a deal for Prigozhin to leave Russia.\n\nA. Prigozhin accused Defense Minister Sergei Shoigu of withholding ammunition and weapons from Wagner fighters in Ukraine.\nB. Wagner forces seized control of the military headquarters in Rostov-on-Don.\nC. Wagner forces advanced towards Moscow with a column of armored vehicles.\nD. Wagner forces advanced towards Moscow with a column of armored vehicles.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,C,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: ERCOT initiated rolling outages, leaving millions of Texans without power.\n\nA. On February 11, a 130+ vehicle crash on I-35 in Fort Worth resulted in 6 deaths and over 65 hospitalizations.\nB. A major winter storm hit a large part of the United States on Monday, bringing heavy snow and cold temperatures.\nC. Texas Gov. Greg Abbott issued a disaster declaration in all 254 counties.\nD. A major winter storm hit a large part of the United States on Monday, bringing heavy snow and cold temperatures.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The UK joined the Schengen Information System.\n\nA. Nicola Sturgeon stated the Scottish government would prepare legislation for a new independence referendum.\nB. Northern Ireland and Scotland voted to remain in the EU.\nC. None of the others are correct causes.\nD. Sinn Fein called for a referendum on Irish unity.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The last U.S. military planes departed Afghanistan around midnight Monday (Kabul time), completing the withdrawal.\n\nA. Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.\nB. A suicide bombing claimed by ISIS-K killed nearly 200 Afghans and 13 U.S. service members outside Kabul's airport on August 26, 2021.\nC. Taliban militants captured several provincial capitals, including Zaranj, Sheberghan, Kunduz, Sar-e Pol, Taloqan, and Aybak, between August 6 and August 9.\nD. The U.S. and the Taliban signed a peace agreement in Doha on February 29, 2020.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: President Yoon Suk Yeol vowed to carry out a thorough investigation.\n\nA. A group of young men shoved down the hill, leading to people falling and Kim being buried in the crush.\nB. A temporary medical center was established in Itaewon for treating the injured.\nC. At least 153 people were killed and dozens injured.\nD. A deadly crowd surge occurred in a narrow alley in Seoul's Itaewon district on Saturday night.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Facebook announced a $150-million investment in immersive learning.\n\nA. The company intends to begin trading under the stock ticker MVRS on December 1.\nB. Facebook introduced a new infinity-shaped corporate logo.\nC. The company plans to report on two operating segments, Family of Apps and Reality Labs, starting Q4 2021.\nD. None of the others are correct causes.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Authorities mobilized 3,000 officers and set up a security perimeter to contain 8,000 protesters and protect government buildings in Paris.\n\nA. A protester was accidentally run over and killed by a car near Lyon during demonstrations.\nB. 227 people were injured in the protests, with six severely.\nC. 73 people were taken into police custody during the protests.\nD. None of the others are correct causes.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Taliban militants captured several provincial capitals, including Zaranj, Sheberghan, Kunduz, Sar-e Pol, Taloqan, and Aybak, between August 6 and August 9.\n\nA. Al-Qaeda terrorists attacked the US on September 11, 2001.\nB. The U.S. and other countries began withdrawing their forces from Afghanistan on May 1.\nC. The U.S. and the Taliban signed a peace agreement in Doha on February 29, 2020.\nD. The US launched a bombing campaign in Afghanistan in October 2001.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Widespread disruption occurred in internet and news access, and banks temporarily shut down across Myanmar following the coup.\n\nA. The election commission denied widespread voter fraud.\nB. The military detained Aung San Suu Kyi and other top government figures.\nC. The military detained Aung San Suu Kyi and other top government figures.\nD. Aung San Suu Kyi led her party to landslide victories in 2015 and on November 8.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Police used tear gas and water cannons to disperse protesters in Paris.\n\nA. 227 people were injured in the protests, with six severely.\nB. A protester was accidentally run over and killed by a car near Lyon during demonstrations.\nC. 73 people were taken into police custody during the protests.\nD. On November 24, 2018, \"yellow vest\" protestors blocked the Champs Elys\u00e9es in Paris, leading to confrontations.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Donald Trump hailed a $500 billion plan by OpenAI, SoftBank, and Oracle.\n\nA. The launch of DeepSeek caused the loss of close to $1 trillion off global stock markets.\nB. DeepSeek's app reached the top of U.S. free app charts within a week of its launch.\nC. DeepSeek's app reached the top of U.S. free app charts within a week of its launch.\nD. OpenAI CEO Sam Altman announced the finalization of the new reasoning AI model.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The U.S. government limits sales of powerful chips to China.\n\nA. None of the others are correct causes.\nB. The launch of DeepSeek caused the loss of close to $1 trillion off global stock markets.\nC. DeepSeek-R1 achieved a Pass@1 score of 97.3% on MATH-500, surpassing OpenAI\u2019s o1.\nD. DeepSeek launched its V2 model, which triggered a price war in China's AI industry.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Security arrested the suspected gunman, Tetsuya Yamagami.\n\nA. A man fired twice at Shinzo Abe.\nB. Shinzo Abe visited Jerusalem in 2018.\nC. Shinzo Abe returned to office in 2012 and later became the longest-serving prime minister.\nD. A man fired twice at Shinzo Abe.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Opposition legislators filed an impeachment motion against President Yoon on Wednesday.\n\nA. Hundreds of soldiers stormed the National Assembly.\nB. Hundreds of soldiers stormed the National Assembly.\nC. Baek Jae Gil performed his protest anthem for thousands outside the National Assembly in Seoul.\nD. Tens of thousands of protesters gathered outside the National Assembly in Seoul.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Austin and San Antonio issued boil-water notices.\n\nA. Over 2 million Texas residents were left without electricity.\nB. Over four million customers were without power in Texas.\nC. ERCOT initiated rolling outages, leaving millions of Texans without power.\nD. Electric demand for heat across the state soared.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The ANYSO stratospheric smoke persisted for at least 15 months through March 2021.\n\nA. Australia's military deployed ships and aircraft to rescue thousands trapped by fires.\nB. The most extreme pyroCb activity occurred on December 30, with eleven sub-events producing 25 pulses, at least 13 of which injected smoke into the lower stratosphere.\nC. Bushfires in New South Wales and Queensland destroyed CO2-absorbing vegetation.\nD. The fires killed at least 24 people.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The Japanese government allocated $200 million to compensate the fishing industry and $340 million for local economic mitigation.\n\nA. Japan announced its plan to release treated Fukushima wastewater into the sea.\nB. Prime Minister Fumio Kishida announced Japan would begin discharging treated radioactive water from the Fukushima Daiichi plant into the sea as early as Thursday.\nC. A huge earthquake and tsunami in 2011 caused a meltdown at the Fukushima plant.\nD. South Korea banned seafood imports from the Fukushima area.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: French women launched the #BalanceTonPorc social media campaign, sharing stories of aggression and harassment.\n\nA. Harvey Weinstein invited Ashley Judd to a hotel and had her sent to his room.\nB. None of the others are correct causes.\nC. Tarana Burke founded the 'Me Too' nonprofit organization in 2006.\nD. The first rape crisis center was founded in Washington, D.C., in 1972.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Facebook announced a series of new software tools, including Presence Platform for Quest 2 mixed reality.\n\nA. Facebook announced Andrew Bosworth's promotion to chief technology officer.\nB. None of the others are correct causes.\nC. Facebook announced a $50 million fund for responsible metaverse research in September.\nD. Facebook announced plans to hire 10,000 more employees for metaverse development in Europe.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: President Joe Biden approved a major disaster declaration for Texas.\n\nA. ERCOT officials acknowledged \"pretty frigid temperatures\" were headed to Texas during a board meeting.\nB. A major winter storm hit a large part of the United States on Monday, bringing heavy snow and cold temperatures.\nC. Regional power generators spontaneously shut down, including three coal plants and a gas plant in Corpus Christi.\nD. Austin and San Antonio issued boil-water notices.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: More than a dozen news outlets published stories based on the leaked Facebook documents.\n\nA. A whistleblower turned over internal Facebook documents to Congress and the U.S. Securities and Exchange Commission.\nB. Mark Zuckerberg announced a smart-glasses partnership with Ray-Ban.\nC. Facebook announced Andrew Bosworth's promotion to chief technology officer.\nD. Facebook announced plans to hire 10,000 more employees for metaverse development in Europe.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Iran\u2019s supreme leader Ayatollah Ali Khamenei warned the US of retaliation following Soleimani\u2019s killing.\n\nA. After 2006, Muhandis founded Kataib Hezbollah.\nB. US President Donald Trump ordered the assassination of Iranian General Qassem Soleimani.\nC. In 2007, U.S. commandos observed a convoy carrying Gen. Qassem Soleimani in northern Iraq.\nD. US President Donald Trump ordered the assassination of Iranian General Qassem Soleimani.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Musk allies took top positions in federal agencies.\n\nA. Elon Musk and Vivek Ramaswamy increased hiring for DOGE.\nB. Mr. Musk stated DOGE participants will not be paid and requested they work 80-hour weeks.\nC. DOGE representatives spoke with staff at over a dozen federal agencies.\nD. Trump appointed Elon Musk and Vivek Ramaswamy as co-leaders of the Department of Government Efficiency (DOGE).\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Lebanon declared a two-week state of emergency in Beirut following the blast.\n\nA. The Port Authority transferred ammonium nitrate from the Rhosus to hangar 12 in Beirut\u2019s port on October 23-24, 2014.\nB. The explosion destroyed medicines, vaccines, personal protective equipment, and damaged primary health care centers, hospitals, warehouses, and a grain silo.\nC. A colossal explosion occurred at the Port of Beirut on August 4, killing at least 200 people and injuring around 5,000.\nD. The Moldovan-flagged ship Rhosus, carrying 2,750 tonnes of ammonium nitrate, was impounded by Lebanon\u2019s Enforcement Department on December 20, 2013.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Thousands of firefighters are tackling multiple blazes that killed at least two people and destroyed over 10,000 structures in the Los Angeles area.\n\nA. None of the others are correct causes.\nB. Ottawa rapper Khalid Omar was forced to evacuate his Calabasas condo, and his studio was ruined by the wildfires, specifically the Kenneth fire which began spreading Thursday.\nC. The Park Fire became the fourth-largest in California history.\nD. The Park Fire ignited in July in Northern California.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Derek Chauvin was arrested and charged with murder and manslaughter.\n\nA. Two Cup Foods employees confront George Floyd about using a counterfeit bill.\nB. Video of George Floyd\u2019s last moments circulated in May.\nC. George Floyd died on May 25, 2020, in Minneapolis under the knee of a White police officer.\nD. Officers Thomas Lane and J. Alexander Kueng arrive, handcuff Floyd, and move him to a police vehicle.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The congressional certification of Joe Biden\u2019s victory was halted.\n\nA. Five people died during the riots.\nB. Trump supporters protested in Washington, D.C.\nC. Pipe bombs were reported at the Republican National Committee building and the Democratic National Committee headquarters.\nD. A woman was shot inside the Capitol and died.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: OpenAI launched the DALL-E 2 beta on July 20, 2022.\n\nA. The reinforcement learning algorithm trained the final version of ChatGPT to produce high-scoring responses.\nB. None of the others are correct causes.\nC. Human judges scored the initial model\u2019s responses.\nD. OpenAI collected examples of good dialogue responses from people to train an initial version of ChatGPT.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Huawei announced a deployment timeline for HarmonyOS on various devices between 2020 and 2022.\n\nA. Huawei denied the U.S. government's accusations and pursued legal means.\nB. Huawei released a TV running HarmonyOS.\nC. Google, Intel, and other U.S. companies suspended business with Huawei.\nD. Google, Intel, and other U.S. companies suspended business with Huawei.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The Pentagon suspended operations against ISIS in Iraq and Syria.\n\nA. Iran\u2019s supreme leader Ayatollah Ali Khamenei warned the US of retaliation following Soleimani\u2019s killing.\nB. In 2007, U.S. commandos observed a convoy carrying Gen. Qassem Soleimani in northern Iraq.\nC. US President Donald Trump ordered the assassination of Iranian General Qassem Soleimani.\nD. The Iraqi parliament voted to expel US troops from Iraq.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: President Donald Trump proposed tariffs on steel and aluminum.\n\nA. Trump named Robert Lighthizer, a steel industry lobbyist, as U.S. Trade Representative.\nB. Japan approved China\u2019s WTO bid in 1999.\nC. China overtook the United States as the largest economy (PPP) by 2016.\nD. Trump scrapped the Trans-Pacific Partnership (TPP).\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Widespread protests erupted across the nation, including at Lafayette Square in Washington, D.C.\n\nA. Two Cup Foods employees confront George Floyd about using a counterfeit bill.\nB. Video of George Floyd\u2019s last moments circulated in May.\nC. Derek Chauvin was arrested and charged with murder and manslaughter.\nD. Three former Minneapolis police officers were criminally charged with aiding and abetting second-degree murder in connection with Floyd's death, and Chauvin's charge was upgraded to second-degree murder.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The Los Angeles Mayor agreed to increase the LAPD budget cut to $150 million, to be redistributed to non-profit agencies.\n\nA. Cup Foods employees call police and report George Floyd used fake bills and was drunk/uncontrolled.\nB. Derek Chauvin keeps his knee on George Floyd's neck for over eight minutes, including after Floyd becomes unconscious, until EMTs intervene.\nC. The Secret Service rushed President Trump and his family to a bunker after unrest outside the White House on May 29, 2020.\nD. None of the others are correct causes.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Iraqi caretaker Prime Minister Adel Abdul Mahdi condemned the US air raid as a violation of Iraq\u2019s sovereignty.\n\nA. US President Donald Trump ordered the assassination of Iranian General Qassem Soleimani.\nB. A U.S. drone strike killed Iranian Maj. Gen. Qassem Soleimani and Abu Mahdi al-Muhandis after Muhandis picked up Soleimani from an airplane.\nC. President Donald Trump withdrew the U.S. from the nuclear accord after taking office.\nD. Iran\u2019s supreme leader Ayatollah Ali Khamenei warned the US of retaliation following Soleimani\u2019s killing.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: A temporary medical center was established in Itaewon for treating the injured.\n\nA. Kim and her friend entered the alley at 8 p.m. and became trapped as the crowd density increased.\nB. At least 153 people were killed and dozens injured.\nC. Kim and her friend crawled out of the crush and were pulled into a tavern by adults.\nD. Emergency workers and pedestrians performed CPR on victims in the streets on Saturday night.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Huawei stated HarmonyOS will debut first on the Honor Smart Screen and Huawei TVs.\n\nA. Huawei unveiled its Harmony operating system.\nB. Huawei unveiled its Harmony operating system.\nC. Huawei announced HarmonyOS will be open source.\nD. Huawei denied the U.S. government's accusations and pursued legal means.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Jeremy Hunt reversed most mini-budget policies three weeks later.\n\nA. Boris Johnson resigned on July 7.\nB. Liz Truss fired Treasury chief Kwasi Kwarteng.\nC. Liz Truss became UK Prime Minister on September 5.\nD. Kwasi Kwarteng announced a mini-budget on September 23.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Global markets plunged following the Brexit vote.\n\nA. The United Kingdom held a referendum on June 23.\nB. The United Kingdom held a referendum on June 23.\nC. The nation divided into 'remain' and 'leave' camps.\nD. The referendum date was set in February.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Regulators expedited the merger process between Credit Suisse and UBS to avert a crisis.\n\nA. Credit Suisse announced material weaknesses in its financial reporting.\nB. Credit Suisse customers withdrew over $133 billion in 2022.\nC. Credit Suisse shareholders will receive one UBS share for every 22.48 Credit Suisse shares.\nD. The Swiss central bank provided $54 billion to Credit Suisse.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Trump was impeached for a second time on January 13th.\n\nA. Supporters stormed the U.S. Capitol.\nB. Supporters stormed the U.S. Capitol.\nC. Trump urged supporters to march to the Capitol.\nD. Twitter removed Trump's tweets and locked his account.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Regional power generators spontaneously shut down, including three coal plants and a gas plant in Corpus Christi.\n\nA. Outdoor temperatures plunged to arctic levels.\nB. On February 11, a 130+ vehicle crash on I-35 in Fort Worth resulted in 6 deaths and over 65 hospitalizations.\nC. Texas Gov. Greg Abbott issued a disaster declaration in all 254 counties.\nD. ERCOT officials acknowledged \"pretty frigid temperatures\" were headed to Texas during a board meeting.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The US Senate will likely vote on Wednesday on a bill to halt Trump\u2019s tariffs on Canadian imports.\n\nA. The White House did not apply tariffs to Russia, North Korea, Cuba, and Belarus.\nB. President Trump announced a new tariff system on Wednesday, substituting America's longstanding import tax system.\nC. Premier Ford paused Ontario's electricity surcharge.\nD. The 16th Amendment was ratified in 1913.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: U.S. troops left Bagram Airfield.\n\nA. The U.S. and the Taliban signed a peace agreement in Doha on February 29, 2020.\nB. Al-Qaeda terrorists attacked the US on September 11, 2001.\nC. The Taliban began a massive offensive in early May 2021.\nD. The US launched a bombing campaign in Afghanistan in October 2001.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Quebec planes and B.C. helicopters are battling the L.A. wildfires.\n\nA. The Park Fire ignited in July in Northern California.\nB. The Eaton fire burned over 14,000 acres, destroyed thousands of homes, and displaced tens of thousands.\nC. The Park Fire destroyed at least 700 structures.\nD. The Eaton fire burned over 14,000 acres, destroyed thousands of homes, and displaced tens of thousands.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: At least 153 people were killed and dozens injured.\n\nA. Kim and her friend crawled out of the crush and were pulled into a tavern by adults.\nB. Emergency workers and pedestrians performed CPR on victims in the streets on Saturday night.\nC. A deadly crowd surge occurred in a narrow alley in Seoul's Itaewon district on Saturday night.\nD. Kim and her friend entered the alley at 8 p.m. and became trapped as the crowd density increased.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Over 2 million Texas residents were left without electricity.\n\nA. Outdoor temperatures plunged to arctic levels.\nB. San Antonio Mayor Ron Nirenberg and Bexar County Judge Wolff issued a joint declaration urging precautions, travel limits, and energy conservation, activating emergency management plans.\nC. ERCOT officials acknowledged \"pretty frigid temperatures\" were headed to Texas during a board meeting.\nD. Texas Gov. Greg Abbott issued a disaster declaration in all 254 counties.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Myanmar's ruling junta chief reported at least 144 people killed and over 732 injured.\n\nA. A M7.7 earthquake struck Myanmar on March 28, 2025, followed by a M6.7 aftershock.\nB. A high-rise under construction collapsed in Bangkok, Thailand, causing casualties.\nC. A M7.7 earthquake struck Myanmar on March 28, 2025, followed by a M6.7 aftershock.\nD. Mandalay General Hospital became full, stopped admitting patients, and lost power and water.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: On November 26, 2018, the first trials for those arrested on November 24 took place.\n\nA. Prime Minister Edouard Philippe announced nearly 500 million euros in aid for low-income motorists.\nB. 130 people were arrested across France, including 42 in Paris.\nC. On November 24, 2018, \"yellow vest\" protestors blocked the Champs Elys\u00e9es in Paris, leading to confrontations.\nD. The Macron government announced an increase in gas taxes effective January 1, 2019.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Lebanon declared a two-week state of emergency in Beirut following the blast.\n\nA. The Moldovan-flagged ship Rhosus, carrying 2,750 tonnes of ammonium nitrate, was impounded by Lebanon\u2019s Enforcement Department on December 20, 2013.\nB. The explosion destroyed medicines, vaccines, personal protective equipment, and damaged primary health care centers, hospitals, warehouses, and a grain silo.\nC. The Port Authority transferred ammonium nitrate from the Rhosus to hangar 12 in Beirut\u2019s port on October 23-24, 2014.\nD. The explosion destroyed medicines, vaccines, personal protective equipment, and damaged primary health care centers, hospitals, warehouses, and a grain silo.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Huawei\u2019s smartphone sales suffered in international markets.\n\nA. Google, Intel, and other U.S. companies suspended business with Huawei.\nB. Huawei stated HarmonyOS will debut first on the Honor Smart Screen and Huawei TVs.\nC. Richard Yu announced Harmony OS at a developer conference in Dongguan, China.\nD. Google, Intel, and other U.S. companies suspended business with Huawei.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The Bank of England intervened on September 28 by announcing a temporary purchase of \u00a365 billion worth of long-dated UK government bonds.\n\nA. Liz Truss became UK Prime Minister on September 5.\nB. Queen Elizabeth II died on September 8.\nC. Boris Johnson resigned on July 7.\nD. The country's currency plummeted in value and government borrowing costs rose after the announcement.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Regional power generators spontaneously shut down, including three coal plants and a gas plant in Corpus Christi.\n\nA. On February 11, a 130+ vehicle crash on I-35 in Fort Worth resulted in 6 deaths and over 65 hospitalizations.\nB. Outdoor temperatures plunged to arctic levels.\nC. Texas Gov. Greg Abbott issued a disaster declaration in all 254 counties.\nD. Over four million customers were without power in Texas.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The district officially unveiled Black Lives Matter Plaza on June 5, 2020.\n\nA. Widespread protests erupted across the nation, including at Lafayette Square in Washington, D.C.\nB. Widespread protests erupted across the nation, including at Lafayette Square in Washington, D.C.\nC. Two Cup Foods employees confront George Floyd about using a counterfeit bill.\nD. Video of George Floyd\u2019s last moments circulated in May.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Nvidia set a new company revenue record.\n\nA. Nvidia reported a 101% year-over-year increase in quarterly revenue.\nB. Nvidia reported a 101% year-over-year increase in quarterly revenue.\nC. Nvidia released its first-quarter earnings report, estimating $11 billion in second-quarter sales and reporting $1.09 earnings per share.\nD. Nvidia shares surged 24% to a record high, triggering a stock rally for Nvidia and other AI-adjacent businesses.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Scientific journals, including Springer Nature and Elsevier, updated author guidelines to prohibit LLMs as authors and require documentation of their use.\n\nA. OpenAI collected examples of good dialogue responses from people to train an initial version of ChatGPT.\nB. The reinforcement learning algorithm trained the final version of ChatGPT to produce high-scoring responses.\nC. Sam Altman publicly acknowledged ChatGPT\u2019s limitations in accuracy and truthfulness.\nD. Millions of people started using ChatGPT immediately after its launch.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Mr. Musk stated DOGE participants will not be paid and requested they work 80-hour weeks.\n\nA. DOGE representatives spoke with staff at over a dozen federal agencies.\nB. Elon Musk contributed $277 million to Trump's and other Republicans' 2024 campaigns.\nC. Trump appointed Elon Musk and Vivek Ramaswamy as co-leaders of the Department of Government Efficiency (DOGE).\nD. Mr. Trump stated DOGE's purpose is to advise on cutting wasteful spending.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Electric demand for heat across the state soared.\n\nA. On February 11, a 130+ vehicle crash on I-35 in Fort Worth resulted in 6 deaths and over 65 hospitalizations.\nB. Outdoor temperatures plunged to arctic levels.\nC. ERCOT officials acknowledged \"pretty frigid temperatures\" were headed to Texas during a board meeting.\nD. San Antonio Mayor Ron Nirenberg and Bexar County Judge Wolff issued a joint declaration urging precautions, travel limits, and energy conservation, activating emergency management plans.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Shinzo Abe was pronounced dead at 5:03 p.m.\n\nA. Shinzo Abe became the youngest prime minister in postwar Japan in 2006.\nB. Shinzo Abe reinterpreted Japan's constitution in 2014.\nC. Former Japanese Prime Minister Shinzo Abe was assassinated at a campaign rally.\nD. Shinzo Abe became the deputy chief cabinet secretary in the early 2000s.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The US and China signed the \"Phase One\" trade agreement in January 2020, with China committing to increase imports of US goods and services.\n\nA. The Trump administration placed Huawei on a trade blacklist in 2019 and implemented additional restrictions on its operations.\nB. Donald Trump stated at a campaign rally in May 2016 that China was \"raping our country\" and committing \"the greatest theft in the history of the world.\"\nC. Trump launched a trade war on China during his first administration.\nD. Economists led by David Autor found that Chinese import competition caused the loss of 1 million U.S. manufacturing jobs between 1990 and 2007.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Quebec planes and B.C. helicopters are battling the L.A. wildfires.\n\nA. The Eaton fire burned over 14,000 acres, destroyed thousands of homes, and displaced tens of thousands.\nB. Fire crews contained several fires, including the Kenneth, Lidia, Sunset, Auto, Hurst, Archer, and San Diego area fires.\nC. The Eaton fire burned over 14,000 acres, destroyed thousands of homes, and displaced tens of thousands.\nD. The Park Fire destroyed at least 700 structures.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Putin delivered a televised address accusing Prigozhin of treason.\n\nA. Prigozhin declared an armed rebellion.\nB. Wagner forces seized control of the military headquarters in Rostov-on-Don.\nC. Russian military helicopters opened fire on the Wagner convoy.\nD. Wagner forces advanced towards Moscow with a column of armored vehicles.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The Bank of England intervened on September 28 by announcing a temporary purchase of \u00a365 billion worth of long-dated UK government bonds.\n\nA. Queen Elizabeth II died on September 8.\nB. Kwasi Kwarteng announced a mini-budget on September 23.\nC. The country's currency plummeted in value and government borrowing costs rose after the announcement.\nD. Liz Truss became UK Prime Minister on September 5.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Austin and San Antonio issued boil-water notices.\n\nA. ERCOT initiated rolling outages, leaving millions of Texans without power.\nB. San Antonio Mayor Ron Nirenberg and Bexar County Judge Wolff issued a joint declaration urging precautions, travel limits, and energy conservation, activating emergency management plans.\nC. On February 11, a 130+ vehicle crash on I-35 in Fort Worth resulted in 6 deaths and over 65 hospitalizations.\nD. ERCOT initiated rolling outages, leaving millions of Texans without power.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Prime Minister Edouard Philippe announced nearly 500 million euros in aid for low-income motorists.\n\nA. On November 24, 2018, \"yellow vest\" protestors blocked the Champs Elys\u00e9es in Paris, leading to confrontations.\nB. On November 24, 2018, \"yellow vest\" protestors blocked the Champs Elys\u00e9es in Paris, leading to confrontations.\nC. Police used tear gas and water cannons to disperse protesters in Paris.\nD. On November 24, 2018, \"yellow vest\" protestors blocked the Champs Elys\u00e9es in Paris, leading to confrontations.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The chairmen of Credit Suisse and UBS announced a union on March 19th in Bern.\n\nA. None of the others are correct causes.\nB. The Swiss government ordered Credit Suisse to temporarily suspend bonus payments to staff.\nC. Credit Suisse shareholders will receive one UBS share for every 22.48 Credit Suisse shares.\nD. Credit Suisse's board rebuffed the proposal from UBS.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: A temporary medical center was established in Itaewon for treating the injured.\n\nA. At least 153 people were killed and dozens injured.\nB. Kim and her friend entered the alley at 8 p.m. and became trapped as the crowd density increased.\nC. A group of young men shoved down the hill, leading to people falling and Kim being buried in the crush.\nD. At least 153 people were killed and dozens injured.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: In February 2021, the Court of Cassation removed Judge Sawan from the case, and Investigative Judge Tarek Bitar replaced him.\n\nA. The Cabinet ordered those involved in storing the ammonium nitrate at the port to be placed under house arrest.\nB. None of the others are correct causes.\nC. Lebanon declared a two-week state of emergency in Beirut following the blast.\nD. The Lebanese government established an investigative committee to determine responsibility for the explosion.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The United States enacted semiconductor export controls limiting China\u2019s access to advanced semiconductor technologies in October 2022.\n\nA. Japan approved China\u2019s WTO bid in 1999.\nB. Economists led by David Autor found that Chinese import competition caused the loss of 1 million U.S. manufacturing jobs between 1990 and 2007.\nC. None of the others are correct causes.\nD. Donald Trump stated at a campaign rally in May 2016 that China was \"raping our country\" and committing \"the greatest theft in the history of the world.\"\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: In July 2024, the U.S. government stated in a legal filing related to TikTok that China could use TikTok\u2019s algorithm to interfere with the U.S. political system.\n\nA. None of the others are correct causes.\nB. Senator Marco Rubio accused TikTok of censoring content aligned with Chinese directives.\nC. ByteDance stepped up efforts to separate its social media app TikTok from its Chinese operations.\nD. Former U.S. employees reported that Beijing-based moderators had final approval on flagged TikTok videos.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The last U.S. military planes departed Afghanistan around midnight Monday (Kabul time), completing the withdrawal.\n\nA. US troops began withdrawing from Afghanistan in early July.\nB. On August 15, 2021, Afghan President Ashraf Ghani fled the country.\nC. The Taliban began a massive offensive in early May 2021.\nD. Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Prime Minister Edouard Philippe announced nearly 500 million euros in aid for low-income motorists.\n\nA. Police used tear gas and water cannons to disperse protesters in Paris.\nB. On November 24, 2018, \"yellow vest\" protestors blocked the Champs Elys\u00e9es in Paris, leading to confrontations.\nC. The \"yellow vests\" movement caused roadblocks across France.\nD. The Macron government announced an increase in gas taxes effective January 1, 2019.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: World leaders expressed shock and condemned the murder.\n\nA. Shinzo Abe became the youngest prime minister in postwar Japan in 2006.\nB. Shinzo Abe became the deputy chief cabinet secretary in the early 2000s.\nC. Former Japanese Prime Minister Shinzo Abe was assassinated at a campaign rally.\nD. The shooter used a handmade gun.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The new 10% tariffs will go into effect on Saturday, and reciprocal rates next Wednesday.\n\nA. The 16th Amendment was ratified in 1913.\nB. President Trump announced a plan to impose additional 25% tariffs on Canadian steel and aluminum imports.\nC. Trump and Canadian Prime Minister Mark Carney had a call last week.\nD. Trump announced tariffs on Chinese goods and any country buying oil from Venezuela.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Twitter removed Trump's tweets and locked his account.\n\nA. Supporters stormed the U.S. Capitol.\nB. Five people died during the riots.\nC. Trump urged supporters to march to the Capitol.\nD. The D.C. National Guard was activated, and a citywide curfew was imposed.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: On January 17, 2025, the Supreme Court upheld the constitutionality of the April 2024 law regarding TikTok divestment.\n\nA. In July 2024, the U.S. government stated in a legal filing related to TikTok that China could use TikTok\u2019s algorithm to interfere with the U.S. political system.\nB. ByteDance stepped up efforts to separate its social media app TikTok from its Chinese operations.\nC. In April 2024, Congress passed a law requiring ByteDance to divest TikTok by early 2025 or face a ban on U.S. app store distribution.\nD. ByteDance acquired Musical.ly in 2017 and rebranded it as TikTok.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: President Donald Trump signed a multibillion-dollar emergency aid package.\n\nA. The United States indicted Nicol\u00e1s Maduro with narco-terrorism and other serious charges on March 26.\nB. Clinical trials began to test potential treatments and vaccines for COVID-19.\nC. COVID-19 triggered a financial-market meltdown.\nD. The Italian government called in the military to enforce its lockdown and ordered non-essential businesses to close by March 22.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The Bank of England intervened on September 28 by announcing a temporary purchase of \u00a365 billion worth of long-dated UK government bonds.\n\nA. Queen Elizabeth II died on September 8.\nB. Liz Truss became UK Prime Minister on September 5.\nC. The country's currency plummeted in value and government borrowing costs rose after the announcement.\nD. Boris Johnson resigned on July 7.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Northern Ireland and Scotland voted to remain in the EU.\n\nA. The United Kingdom held a referendum on June 23.\nB. Prime Minister David Cameron pledged a referendum on EU membership in 2013.\nC. The Conservative Party won the election.\nD. The referendum date was set in February.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.\n\nA. Hundreds of soldiers stormed the National Assembly.\nB. Baek Jae Gil performed his protest anthem for thousands outside the National Assembly in Seoul.\nC. President Yoon Suk Yeol declared martial law on December 3 and sent soldiers to parliament.\nD. President Yoon Suk Yeol was immediately suspended from exercising his powers.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Widespread disruption occurred in internet and news access, and banks temporarily shut down across Myanmar following the coup.\n\nA. The military detained Aung San Suu Kyi and other top government figures.\nB. The army announced power was handed to commander-in-chief Min Aung Hlaing and declared a national state of emergency for one year.\nC. The election commission denied widespread voter fraud.\nD. Aung San Suu Kyi led her party to landslide victories in 2015 and on November 8.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Vice President Myint Swe was installed as acting President.\n\nA. The army announced power was handed to commander-in-chief Min Aung Hlaing and declared a national state of emergency for one year.\nB. The military detained Aung San Suu Kyi and other top government figures.\nC. The military detained Aung San Suu Kyi and other top government figures.\nD. China\u2019s foreign minister Wang Yi visited Myanmar less than three weeks before the military coup.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Donald Trump hailed a $500 billion plan by OpenAI, SoftBank, and Oracle.\n\nA. In November 2023, DeepSeek launched DeepSeek LLM.\nB. DeepSeek's app reached the top of U.S. free app charts within a week of its launch.\nC. Liang Wenfeng founded DeepSeek in July 2023.\nD. DeepSeek released a notice stating it does not engage in external project cooperation or privatization deployment.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: On July 9, 2021, Interior Minister Mohammad Fehmi refused Bitar\u2019s request to prosecute Ibrahim; Bitar appealed, but Cassation Attorney General Ghassan Khoury denied the request.\n\nA. On December 10, 2020, Judge Sawan charged Caretaker Prime Minister Hassan Diab and three former ministers with criminal negligence.\nB. None of the others are correct causes.\nC. Judge Fadi Sawan has led the investigation into the Beirut port explosion since August.\nD. The Port Authority transferred ammonium nitrate from the Rhosus to hangar 12 in Beirut\u2019s port on October 23-24, 2014.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: On December 31, pro-Iranian protesters attacked the US Embassy in Baghdad.\n\nA. During the 1980s Iran-Iraq War, Muhandis fought on the side of Iran.\nB. In 2015, the U.S. and five other nations signed a nuclear accord with Tehran.\nC. President Donald Trump withdrew the U.S. from the nuclear accord after taking office.\nD. On December 29, US forces conducted airstrikes at five Kataib Hezbollah facilities in Iraq and Syria, killing at least 25 people.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Myanmar\u2019s military government removed 24 ministers and deputies and appointed 11 replacements.\n\nA. The army announced power was handed to commander-in-chief Min Aung Hlaing and declared a national state of emergency for one year.\nB. The army announced power was handed to commander-in-chief Min Aung Hlaing and declared a national state of emergency for one year.\nC. The military detained Aung San Suu Kyi and other top government figures.\nD. China\u2019s foreign minister Wang Yi visited Myanmar less than three weeks before the military coup.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: South Korea\u2019s parliament voted to impeach President Yoon Suk Yeol.\n\nA. Lawmakers at the National Assembly unanimously annulled martial law.\nB. The impeachment motion against President Yoon failed.\nC. Baek Jae Gil performed his protest anthem for thousands outside the National Assembly in Seoul.\nD. Lawmakers at the National Assembly unanimously annulled martial law.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Amazonas state in Brazil declared a state of emergency due to the fires.\n\nA. French President Emmanuel Macron announced France\u2019s withdrawal of support for the Mercosur trade deal.\nB. None of the others are correct causes.\nC. Fire hotspots in indigenous territories increased by 88% from January to August compared to 2018, according to CIMI citing INPE data.\nD. Brazilian authorities are investigating 70 farmers and land grabbers in Par\u00e1 for allegedly organizing an August 10 'Day of Fire.'\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: World leaders expressed shock and condemned the murder.\n\nA. Shinzo Abe was pronounced dead at 5:03 p.m.\nB. Social media companies removed harmful content.\nC. Explosives were found at Tetsuya Yamagami's home.\nD. Shinzo Abe offered to host a peace summit in 2017.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Burst pipes led to widespread water disruptions, affecting over 15 million people in Texas.\n\nA. At least 38 people died nationwide from winter storms or frigid conditions, including 15 deaths in Texas.\nB. San Antonio Mayor Ron Nirenberg and Bexar County Judge Wolff issued a joint declaration urging precautions, travel limits, and energy conservation, activating emergency management plans.\nC. A major winter storm hit a large part of the United States on Monday, bringing heavy snow and cold temperatures.\nD. Outdoor temperatures plunged to arctic levels.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Doctors at several hospitals pledged to go on strike to protest the coup.\n\nA. The military detained Aung San Suu Kyi and other top government figures.\nB. The army announced power was handed to commander-in-chief Min Aung Hlaing and declared a national state of emergency for one year.\nC. Myanmar\u2019s military seized power on February 1, beginning a coup.\nD. The election commission denied widespread voter fraud.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The IAEA will maintain an on-site presence for the duration of the release.\n\nA. Japan announced its plan to release treated Fukushima wastewater into the sea.\nB. China expanded its ban on seafood imports from Fukushima to include all of Japan.\nC. Protesters rallied in Tokyo on August 24, 2023, against the Japanese government\u2019s plan to release treated wastewater from the Fukushima-Daiichi power plant.\nD. Fishermen, including Haruo Ono, sued the Japanese government to stop the water release.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The Los Angeles Mayor agreed to increase the LAPD budget cut to $150 million, to be redistributed to non-profit agencies.\n\nA. Protesters overtook and destroyed the Minneapolis Police Department\u2019s Third Precinct.\nB. Police attacked protesters using stun hand grenades, tear gas, rubber bullets, vehicles, and direct projectile fire.\nC. Two Cup Foods employees confront George Floyd about using a counterfeit bill.\nD. Widespread protests erupted across the nation, including at Lafayette Square in Washington, D.C.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The Italian government called in the military to enforce its lockdown and ordered non-essential businesses to close by March 22.\n\nA. COVID-19 forced countries into lockdown.\nB. COVID-19 forced countries into lockdown.\nC. The WHO was notified of a cluster of unusual pneumonia cases in Wuhan City, China on Dec. 31.\nD. Chinese authorities identified SARS-CoV-2 as the new coronavirus.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Burst pipes led to widespread water disruptions, affecting over 15 million people in Texas.\n\nA. Texas Gov. Greg Abbott issued a disaster declaration in all 254 counties.\nB. At least 38 people died nationwide from winter storms or frigid conditions, including 15 deaths in Texas.\nC. On February 11, a 130+ vehicle crash on I-35 in Fort Worth resulted in 6 deaths and over 65 hospitalizations.\nD. Outdoor temperatures plunged to arctic levels.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Donald Trump hailed a $500 billion plan by OpenAI, SoftBank, and Oracle.\n\nA. In November 2023, DeepSeek launched DeepSeek LLM.\nB. DeepSeek unveiled its V3 model in December and R1 model in January.\nC. OpenAI CEO Sam Altman announced the finalization of the new reasoning AI model.\nD. DeepSeek released a notice stating it does not engage in external project cooperation or privatization deployment.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Russian military helicopters opened fire on the Wagner convoy.\n\nA. Prigozhin declared an armed rebellion.\nB. Prigozhin declared an armed rebellion.\nC. Yevgeny Prigozhin recruited Deputy Defense Minister Mikhail Mizintsev in April.\nD. Prigozhin declared an armed rebellion.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Myanmar\u2019s military imposed a nationwide 8pm to 6am curfew.\n\nA. A military spokesperson warned of \"action\" if the dispute wasn't settled and refused to rule out a coup.\nB. International leaders and organizations condemned the military takeover in Myanmar.\nC. The election commission denied widespread voter fraud.\nD. None of the others are correct causes.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Doctors at several hospitals pledged to go on strike to protest the coup.\n\nA. The military repeatedly disputed the election results, alleging fraud and calling on the election commission to release polling data.\nB. Vice President Myint Swe was installed as acting President.\nC. Aung San Suu Kyi led her party to landslide victories in 2015 and on November 8.\nD. Myanmar\u2019s military seized power on February 1, beginning a coup.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Wagner forces advanced towards Moscow with a column of armored vehicles.\n\nA. Prigozhin accused Defense Minister Sergei Shoigu of withholding ammunition and weapons from Wagner fighters in Ukraine.\nB. Wagner forces seized control of the military headquarters in Rostov-on-Don.\nC. Yevgeny Prigozhin recruited Deputy Defense Minister Mikhail Mizintsev in April.\nD. Prigozhin declared an armed rebellion.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Electric demand for heat across the state soared.\n\nA. ERCOT officials acknowledged \"pretty frigid temperatures\" were headed to Texas during a board meeting.\nB. San Antonio Mayor Ron Nirenberg and Bexar County Judge Wolff issued a joint declaration urging precautions, travel limits, and energy conservation, activating emergency management plans.\nC. Over four million customers were without power in Texas.\nD. A major winter storm hit a large part of the United States on Monday, bringing heavy snow and cold temperatures.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Prigozhin went into exile in Belarus.\n\nA. Yevgeny Prigozhin recruited Deputy Defense Minister Mikhail Mizintsev in April.\nB. Putin delivered a televised address accusing Prigozhin of treason.\nC. Prigozhin accused Defense Minister Sergei Shoigu of withholding ammunition and weapons from Wagner fighters in Ukraine.\nD. None of the others are correct causes.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Facebook introduced a new infinity-shaped corporate logo.\n\nA. Facebook plans to change its company name to reflect its focus on the metaverse.\nB. More than a dozen news outlets published stories based on the leaked Facebook documents.\nC. Facebook announced a $50 million fund for responsible metaverse research in September.\nD. Facebook announced Andrew Bosworth's promotion to chief technology officer.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Facebook plans to change its company name to reflect its focus on the metaverse.\n\nA. None of the others are correct causes.\nB. Facebook announced plans to hire 10,000 more employees for metaverse development in Europe.\nC. Facebook announced Andrew Bosworth's promotion to chief technology officer.\nD. More than a dozen news outlets published stories based on the leaked Facebook documents.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Shinzo Abe was pronounced dead at 5:03 p.m.\n\nA. Shinzo Abe returned to office in 2012 and later became the longest-serving prime minister.\nB. A man fired twice at Shinzo Abe.\nC. A man fired twice at Shinzo Abe.\nD. Shinzo Abe visited Jerusalem in 2018.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Local governments established public mourning sites.\n\nA. Emergency workers and pedestrians performed CPR on victims in the streets on Saturday night.\nB. President Yoon Suk-yeol declared a period of national mourning and designated Itaewon a disaster zone.\nC. President Yoon Suk-yeol declared a period of national mourning and designated Itaewon a disaster zone.\nD. A deadly crowd surge occurred in a narrow alley in Seoul's Itaewon district on Saturday night.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,C,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The D.C. National Guard was activated, and a citywide curfew was imposed.\n\nA. Pipe bombs were reported at the Republican National Committee building and the Democratic National Committee headquarters.\nB. Trump supporters protested in Washington, D.C.\nC. A woman was shot inside the Capitol and died.\nD. Trump supporters protested in Washington, D.C.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The U.S. State Department confirmed at least two U.S. citizens were among the dead.\n\nA. Kim and her friend entered the alley at 8 p.m. and became trapped as the crowd density increased.\nB. A deadly crowd surge occurred in a narrow alley in Seoul's Itaewon district on Saturday night.\nC. Emergency workers from around the country were deployed to Itaewon to treat the injured.\nD. A group of young men shoved down the hill, leading to people falling and Kim being buried in the crush.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The Secret Service rushed President Trump and his family to a bunker after unrest outside the White House on May 29, 2020.\n\nA. Officers Thomas Lane and J. Alexander Kueng arrive, handcuff Floyd, and move him to a police vehicle.\nB. Three former Minneapolis police officers were criminally charged with aiding and abetting second-degree murder in connection with Floyd's death, and Chauvin's charge was upgraded to second-degree murder.\nC. Protesters overtook and destroyed the Minneapolis Police Department\u2019s Third Precinct.\nD. Widespread protests erupted across the nation, including at Lafayette Square in Washington, D.C.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Authorities mobilized 3,000 officers and set up a security perimeter to contain 8,000 protesters and protect government buildings in Paris.\n\nA. On November 24, 2018, \"yellow vest\" protestors blocked the Champs Elys\u00e9es in Paris, leading to confrontations.\nB. 227 people were injured in the protests, with six severely.\nC. On November 24, 2018, \"yellow vest\" protestors blocked the Champs Elys\u00e9es in Paris, leading to confrontations.\nD. A protester was accidentally run over and killed by a car near Lyon during demonstrations.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: At least 38 people died nationwide from winter storms or frigid conditions, including 15 deaths in Texas.\n\nA. ERCOT officials acknowledged \"pretty frigid temperatures\" were headed to Texas during a board meeting.\nB. Regional power generators spontaneously shut down, including three coal plants and a gas plant in Corpus Christi.\nC. Electric demand for heat across the state soared.\nD. A major winter storm hit a large part of the United States on Monday, bringing heavy snow and cold temperatures.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: On July 2, 2021, Judge Bitar requested parliament lift immunity for former ministers Khalil, Zeaiter, and Nohad Machnouk, and sought permission from bar associations to prosecute Khalil, Zeaiter, and Fenianos.\n\nA. Thousands of volunteers from Lebanon and its diaspora cleared rubble, offered accommodation, and repaired homes in affected areas after the explosion.\nB. Prime Minister Hassan Diab and his government resigned following the explosion.\nC. A fire broke out at Warehouse 12 at the Port of Beirut on August 4, reportedly started by welding work.\nD. In February 2021, the Court of Cassation removed Judge Sawan from the case, and Investigative Judge Tarek Bitar replaced him.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The ANYSO plume ascended from 14\u201317 km to 34 km due to diabatic lofting, reaching the highest altitudes ever recorded for a wildfire smoke plume.\n\nA. Bushfire smoke created smog in Sydney, causing air quality to reach 22 times worse than standard levels and causing respiratory problems for residents.\nB. Satellite pictures confirmed smoke from eastern New South Wales fires crossed the Tasman Sea to New Zealand.\nC. Bushfires in New South Wales and Queensland destroyed CO2-absorbing vegetation.\nD. None of the others are correct causes.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: U.S. government regulators announced they would fully cover deposits at both SVB and Signature Bank.\n\nA. Silvergate announced it would wind down operations and liquidate.\nB. Signature Bank failed after a bank run.\nC. SVB sold part of its bond holdings at a $1.8 billion loss.\nD. Silicon Valley Bank clients withdrew funds in recent months.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Women in media created an anonymously editable Google spreadsheet titled \u201cSHITTY MEDIA MEN\u201d to list men in media and allegations of inappropriate behavior.\n\nA. The New York Times published an investigation into Harvey Weinstein's sexual harassment on October 5, 2017.\nB. The first rape crisis center was founded in Washington, D.C., in 1972.\nC. Harvey Weinstein invited Ashley Judd to a hotel and had her sent to his room.\nD. In 2015, Harvey Weinstein badgered a female assistant into giving him a massage while he was naked.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The Pentagon suspended operations against ISIS in Iraq and Syria.\n\nA. Iran\u2019s supreme leader Ayatollah Ali Khamenei warned the US of retaliation following Soleimani\u2019s killing.\nB. The Iraqi parliament voted to expel US troops from Iraq.\nC. A U.S. drone strike killed Iranian Maj. Gen. Qassem Soleimani and Abu Mahdi al-Muhandis after Muhandis picked up Soleimani from an airplane.\nD. US President Donald Trump ordered the assassination of Iranian General Qassem Soleimani.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,C,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Germany and Norway withheld tens of millions of dollars from the Amazon Fund.\n\nA. Thousands of fires burned in the Amazon rainforest in Brazil in 2019, particularly affecting Roraima, Acre, Rond\u00f4nia, and Amazonas states.\nB. Bolsonaro replaced the director of Brazil\u2019s National Institute of Space Research with a military official.\nC. MAAP released a report revealing overlap between deforestation and fire alerts in the Brazilian Amazon.\nD. Dozens of fires scorched and are spreading across large swaths of the Amazon.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Doctors at several hospitals pledged to go on strike to protest the coup.\n\nA. Myanmar\u2019s military government removed 24 ministers and deputies and appointed 11 replacements.\nB. The military repeatedly disputed the election results, alleging fraud and calling on the election commission to release polling data.\nC. Myanmar\u2019s military seized power on February 1, beginning a coup.\nD. In November 2020, the NLD won a resounding parliamentary election victory, awarding Aung San Suu Kyi a second term.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: China banned food imports from 10 Japanese prefectures and imposed radiation checks in response to the water release.\n\nA. TEPCO began releasing the first batch of treated radioactive water into the Pacific Ocean.\nB. TEPCO began releasing the first batch of treated radioactive water into the Pacific Ocean.\nC. The International Atomic Energy Agency (IAEA) issued a report in July 2023 confirming Fukushima\u2019s release will have a negligible radiological effect.\nD. A TEPCO staff member activated a seawater pump and an operator confirmed the release.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: DeepSeek released its large language model, DeepSeek-R1, on January 20.\n\nA. DeepSeek's model outperformed Meta's Llama 3.1, OpenAI's GPT-4o, and Anthropic's Claude Sonnet 3.5 in third-party benchmark tests.\nB. DeepSeek's app reached the top of U.S. free app charts within a week of its launch.\nC. DeepSeek unveiled its V3 model in December and R1 model in January.\nD. In November 2023, DeepSeek launched DeepSeek LLM.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: On August 15, 2021, Afghan President Ashraf Ghani fled the country.\n\nA. The US launched a bombing campaign in Afghanistan in October 2001.\nB. Taliban militants captured several provincial capitals, including Zaranj, Sheberghan, Kunduz, Sar-e Pol, Taloqan, and Aybak, between August 6 and August 9.\nC. Al-Qaeda terrorists attacked the US on September 11, 2001.\nD. The Trump administration brokered a cease-fire with the Taliban in early 2020, excluding the Afghan government.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The US and China signed the \"Phase One\" trade agreement in January 2020, with China committing to increase imports of US goods and services.\n\nA. Trump scrapped the Trans-Pacific Partnership (TPP).\nB. The Trump administration placed Huawei on a trade blacklist in 2019 and implemented additional restrictions on its operations.\nC. Donald Trump stated at a campaign rally in May 2016 that China was \"raping our country\" and committing \"the greatest theft in the history of the world.\"\nD. Trump launched a trade war on China during his first administration.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Congress confirmed Biden as president in the early hours of January 7th.\n\nA. Five people died during the riots.\nB. The Capitol was secured, and lawmakers reconvened to continue certification.\nC. Supporters stormed the U.S. Capitol.\nD. Trump addressed the crowd.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,C",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: OpenAI released ChatGPT Plus on February 1, 2023, and later introduced GPT-4 Turbo with Vision and GPT-4o to the public.\n\nA. ChatGPT quickly reached one million daily active users.\nB. Human judges scored the initial model\u2019s responses.\nC. OpenAI trained InstructGPT to produce less toxic text.\nD. OpenAI publicly released ChatGPT as a free research preview on November 30, 2022.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Prigozhin went into exile in Belarus.\n\nA. Wagner forces advanced towards Moscow with a column of armored vehicles.\nB. Wagner forces advanced towards Moscow with a column of armored vehicles.\nC. Prigozhin accused Defense Minister Sergei Shoigu of withholding ammunition and weapons from Wagner fighters in Ukraine.\nD. Wagner forces advanced towards Moscow with a column of armored vehicles.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Over four million customers were without power in Texas.\n\nA. ERCOT initiated rolling outages, leaving millions of Texans without power.\nB. Outdoor temperatures plunged to arctic levels.\nC. San Antonio Mayor Ron Nirenberg and Bexar County Judge Wolff issued a joint declaration urging precautions, travel limits, and energy conservation, activating emergency management plans.\nD. Texas Gov. Greg Abbott issued a disaster declaration in all 254 counties.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A,B",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: Nvidia shares surged 24% to a record high, triggering a stock rally for Nvidia and other AI-adjacent businesses.\n\nA. Jensen Huang took Nvidia public on Nasdaq in 1999.\nB. Nvidia released its first-quarter earnings report, estimating $11 billion in second-quarter sales and reporting $1.09 earnings per share.\nC. Foreign investors purchased a net 15.8 trillion won ($11.6 billion) of South Korean stocks from January through March.\nD. Nvidia announced it is significantly increasing chip supply to meet surging demand.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "B,D",
+    "input": ""
+  },
+  {
+    "instruction": "Identify the direct cause(s) of this event. Select all options that directly caused the event to happen.\n\nEvent: The British pound plunged in value.\n\nA. None of the others are correct causes.\nB. The referendum date was set in February.\nC. Prime Minister David Cameron pledged a referendum on EU membership in 2013.\nD. Northern Ireland and Scotland voted to remain in the EU.\n\nRules:\n- A direct cause must happen BEFORE the event\n- There must be a clear causal mechanism\n- Multiple options can be correct\n- \"None of the others\" is valid when no option is a true cause\n\nAnswer (letters only, comma-separated if multiple):",
+    "output": "A",
+    "input": ""
+  }
+]

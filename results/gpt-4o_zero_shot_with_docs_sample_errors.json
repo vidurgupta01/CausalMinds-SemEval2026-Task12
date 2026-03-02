@@ -1,0 +1,218 @@
+{
+  "incorrect_examples": [
+    {
+      "id": "q-7",
+      "target_event": "South Korea\u2019s parliament voted to impeach President Yoon Suk Yeol.",
+      "prediction": "C",
+      "gold": "B,D",
+      "response": "C"
+    },
+    {
+      "id": "q-10",
+      "target_event": "Capitol Police Chief Steven Sund, House Sergeant at Arms Paul Irving, and Senate Sergeant at Arms Michael Stenger resigned.",
+      "prediction": "B",
+      "gold": "A,C",
+      "response": "B"
+    },
+    {
+      "id": "q-12",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "prediction": "C,D",
+      "gold": "A",
+      "response": "C,D"
+    },
+    {
+      "id": "q-13",
+      "target_event": "Elon Musk gained full command of the federal cost-cutting effort.",
+      "prediction": "B",
+      "gold": "A",
+      "response": "B"
+    },
+    {
+      "id": "q-17",
+      "target_event": "Musk allies took top positions in federal agencies.",
+      "prediction": "C",
+      "gold": "D",
+      "response": "C"
+    },
+    {
+      "id": "q-18",
+      "target_event": "Mr. Musk stated DOGE participants will not be paid and requested they work 80-hour weeks.",
+      "prediction": "B,D",
+      "gold": "B",
+      "response": "B,D"
+    },
+    {
+      "id": "q-22",
+      "target_event": "Lockdowns obstructed agricultural flow, resulting in hiked food prices, food shortages, malnutrition, and deaths.",
+      "prediction": "D",
+      "gold": "A,C",
+      "response": "D"
+    },
+    {
+      "id": "q-24",
+      "target_event": "The FBI and ATF cleared the Capitol.",
+      "prediction": "B,C",
+      "gold": "A",
+      "response": "B,C"
+    },
+    {
+      "id": "q-27",
+      "target_event": "The British pound plunged in value.",
+      "prediction": "A,B,D",
+      "gold": "B,D",
+      "response": "A, B, D"
+    },
+    {
+      "id": "q-31",
+      "target_event": "Northern Ireland and Scotland voted to remain in the EU.",
+      "prediction": "C,D",
+      "gold": "A",
+      "response": "C,D"
+    }
+  ],
+  "partial_examples": [
+    {
+      "id": "q-11",
+      "target_event": "Authorities in Myanmar and Thailand declared a state of emergency.",
+      "prediction": "D",
+      "gold": "A,D",
+      "response": "D"
+    },
+    {
+      "id": "q-15",
+      "target_event": "The US Senate will likely vote on Wednesday on a bill to halt Trump\u2019s tariffs on Canadian imports.",
+      "prediction": "A",
+      "gold": "A,C,D",
+      "response": "A"
+    },
+    {
+      "id": "q-20",
+      "target_event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "prediction": "A",
+      "gold": "A,B,C",
+      "response": "A"
+    },
+    {
+      "id": "q-29",
+      "target_event": "The British pound plunged in value.",
+      "prediction": "B",
+      "gold": "B,C",
+      "response": "B"
+    },
+    {
+      "id": "q-38",
+      "target_event": "Ontario placed a 25% tax on electricity exports to the U.S.",
+      "prediction": "D",
+      "gold": "B,D",
+      "response": "D"
+    },
+    {
+      "id": "q-39",
+      "target_event": "The United Kingdom held a referendum on June 23.",
+      "prediction": "A",
+      "gold": "A,B,C",
+      "response": "A"
+    },
+    {
+      "id": "q-40",
+      "target_event": "Sinn Fein called for a referendum on Irish unity.",
+      "prediction": "A",
+      "gold": "A,B",
+      "response": "A"
+    },
+    {
+      "id": "q-41",
+      "target_event": "By April 3, 2025, the death toll from the earthquake reached 4,390 in Myanmar, with over 5,490 injured.",
+      "prediction": "B",
+      "gold": "A,B,C",
+      "response": "B"
+    },
+    {
+      "id": "q-45",
+      "target_event": "Authorities in Myanmar and Thailand declared a state of emergency.",
+      "prediction": "C",
+      "gold": "B,C",
+      "response": "C"
+    },
+    {
+      "id": "q-46",
+      "target_event": "Yoon's senior aides and defense minister offered to resign.",
+      "prediction": "A",
+      "gold": "A,B,C",
+      "response": "A"
+    }
+  ],
+  "correct_examples": [
+    {
+      "id": "q-1",
+      "target_event": "Videos of the assassination circulated on social media.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-3",
+      "target_event": "The impeachment motion against President Yoon failed.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-4",
+      "target_event": "Social media companies removed harmful content.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-5",
+      "target_event": "On November 10, Musk stated bankruptcy was possible for Twitter if it didn't increase revenue.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-6",
+      "target_event": "President Trump announced a plan to impose additional 25% tariffs on Canadian steel and aluminum imports.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-8",
+      "target_event": "Ontario placed a 25% tax on electricity exports to the U.S.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-9",
+      "target_event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-14",
+      "target_event": "Northern Ireland and Scotland voted to remain in the EU.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-16",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    }
+  ]
+}

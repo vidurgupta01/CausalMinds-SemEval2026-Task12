@@ -1,0 +1,2821 @@
+{
+  "config": {
+    "model": "gpt-4o",
+    "prompt": "focused_causation",
+    "split": "dev",
+    "n_examples": 5,
+    "num_samples": 400
+  },
+  "metrics": {
+    "average_score": 0.65125,
+    "full_match": 224,
+    "partial_match": 73,
+    "incorrect": 103,
+    "total": 400,
+    "full_match_rate": 0.56,
+    "partial_match_rate": 0.1825,
+    "incorrect_rate": 0.2575
+  },
+  "predictions": [
+    {
+      "id": "q-2020",
+      "event": "President Yoon Suk Yeol vowed to carry out a thoro",
+      "gold": "C",
+      "pred": "C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2021",
+      "event": "Twitter removed Trump's tweets and locked his acco",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2022",
+      "event": "President Donald Trump proposed tariffs on steel a",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2023",
+      "event": "On November 24, 2018, \"yellow vest\" protestors blo",
+      "gold": "A,B,C",
+      "pred": "A,B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2024",
+      "event": "On November 26, 2018, the first trials for those a",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2025",
+      "event": "South Korea banned seafood imports from the Fukush",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2026",
+      "event": "The company intends to begin trading under the sto",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2027",
+      "event": "Huawei released a TV running HarmonyOS.",
+      "gold": "A,B",
+      "pred": "A,B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2028",
+      "event": "The chairmen of Credit Suisse and UBS announced a ",
+      "gold": "A",
+      "pred": "A,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2029",
+      "event": "Facebook changed its corporate name to Meta on Oct",
+      "gold": "A,C,D",
+      "pred": "A,C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2030",
+      "event": "Myanmar's military-dominated government issued a p",
+      "gold": "A,C,D",
+      "pred": "A,C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2031",
+      "event": "The Chinese government criticized Japan\u2019s plan to ",
+      "gold": "B,C",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2032",
+      "event": "US Treasury Secretary Janet Yellen called financia",
+      "gold": "B,C",
+      "pred": "B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2033",
+      "event": "Three former Minneapolis police officers were crim",
+      "gold": "A,C,D",
+      "pred": "A,D",
+      "score": 0.5
+    },
+    {
+      "id": "q-2034",
+      "event": "President Joe Biden approved a major disaster decl",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2035",
+      "event": "Liz Truss announced her resignation as Prime Minis",
+      "gold": "A,C,D",
+      "pred": "A,C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2036",
+      "event": "Doctors at several hospitals pledged to go on stri",
+      "gold": "B",
+      "pred": "A,B",
+      "score": 0.0
+    },
+    {
+      "id": "q-2037",
+      "event": "Widespread protests erupted across the nation, inc",
+      "gold": "C,D",
+      "pred": "C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2038",
+      "event": "Wagner forces advanced towards Moscow with a colum",
+      "gold": "B,C",
+      "pred": "B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2039",
+      "event": "Time Magazine named 'the Silence Breakers' Person ",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2040",
+      "event": "Prime Minister Fumio Kishida announced Japan would",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2041",
+      "event": "Local governments established public mourning site",
+      "gold": "B,C",
+      "pred": "B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2042",
+      "event": "Signature Bank failed after a bank run.",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2043",
+      "event": "Yoon's senior aides and defense minister offered t",
+      "gold": "A,D",
+      "pred": "A,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2044",
+      "event": "The House and Senate recessed, and the Capitol was",
+      "gold": "A,B,C",
+      "pred": "A,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2045",
+      "event": "Security arrested the suspected gunman, Tetsuya Ya",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2046",
+      "event": "Nvidia's market cap briefly reached $1 trillion on",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2047",
+      "event": "Goldman Sachs estimated that AI systems like ChatG",
+      "gold": "C",
+      "pred": "A",
+      "score": 0.0
+    },
+    {
+      "id": "q-2048",
+      "event": "Ontario placed a 25% tax on electricity exports to",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2049",
+      "event": "The United Kingdom held a referendum on June 23.",
+      "gold": "A,B,C",
+      "pred": "A,C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2050",
+      "event": "The tariff announcement triggered a global meltdow",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2051",
+      "event": "The Iraqi parliament voted to expel US troops from",
+      "gold": "A,D",
+      "pred": "A,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2052",
+      "event": "DeepSeek launched its V2 model, which triggered a ",
+      "gold": "D",
+      "pred": "A",
+      "score": 0.0
+    },
+    {
+      "id": "q-2053",
+      "event": "Clinical trials began to test potential treatments",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2054",
+      "event": "Austin and San Antonio issued boil-water notices.",
+      "gold": "D",
+      "pred": "C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2055",
+      "event": "U.S. government regulators announced they would fu",
+      "gold": "C,D",
+      "pred": "C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2056",
+      "event": "Musk suspended accounts of prominent journalists.",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2057",
+      "event": "Trump was permanently banned from Twitter on Janua",
+      "gold": "B",
+      "pred": "B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2058",
+      "event": "The Bank of England intervened on September 28 by ",
+      "gold": "C,D",
+      "pred": "C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2059",
+      "event": "Trump was impeached for a second time on January 1",
+      "gold": "D",
+      "pred": "A,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2060",
+      "event": "Trade controls forced Chinese researchers to use f",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2061",
+      "event": "Liz Truss fired Treasury chief Kwasi Kwarteng.",
+      "gold": "A,D",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2062",
+      "event": "Doctors at several hospitals pledged to go on stri",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2063",
+      "event": "Coinbase introduced its Coinbase Payments platform",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2064",
+      "event": "Putin delivered a televised address accusing Prigo",
+      "gold": "C,D",
+      "pred": "C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2065",
+      "event": "DeepSeek-R1\u2019s application became the most download",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2066",
+      "event": "The Iraqi parliament voted to expel US troops from",
+      "gold": "C,D",
+      "pred": "C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2067",
+      "event": "Global markets plunged following the Brexit vote.",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2068",
+      "event": "On August 15, 2021, the Taliban seized the preside",
+      "gold": "A,D",
+      "pred": "A,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2069",
+      "event": "A woman was shot inside the Capitol and died.",
+      "gold": "B,D",
+      "pred": "B,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2070",
+      "event": "A TEPCO staff member activated a seawater pump and",
+      "gold": "C,D",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2071",
+      "event": "On September 10, 2020, a mobile home park was dest",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2072",
+      "event": "Andrew Bosworth announced the retirement of the Oc",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2073",
+      "event": "The district officially unveiled Black Lives Matte",
+      "gold": "B,C",
+      "pred": "B",
+      "score": 0.5
+    },
+    {
+      "id": "q-2074",
+      "event": "Security arrested the suspected gunman, Tetsuya Ya",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2075",
+      "event": "Goldman Sachs estimated that AI systems like ChatG",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2076",
+      "event": "Taliban fighters spread across Kabul streets, ridi",
+      "gold": "D",
+      "pred": "C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2077",
+      "event": "On January 20, 2025, President Donald Trump sought",
+      "gold": "A,B",
+      "pred": "A,B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2078",
+      "event": "Mr. Musk stated DOGE participants will not be paid",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2079",
+      "event": "Myanmar\u2019s military imposed a nationwide 8pm to 6am",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2080",
+      "event": "Over four million customers were without power in ",
+      "gold": "B,C",
+      "pred": "B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2081",
+      "event": "On June 17, 2025, the U.S. Senate passed the GENIU",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2082",
+      "event": "President Yoon Suk Yeol was immediately suspended ",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2083",
+      "event": "Ontario placed a 25% tax on electricity exports to",
+      "gold": "C,D",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2084",
+      "event": "Lawmakers voted down the martial law decree.",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2085",
+      "event": "The Chinese government criticized Japan\u2019s plan to ",
+      "gold": "A,B",
+      "pred": "B",
+      "score": 0.5
+    },
+    {
+      "id": "q-2086",
+      "event": "Taliban fighters celebrated following the U.S. dep",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2087",
+      "event": "Protesters rallied in Tokyo on August 24, 2023, ag",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2088",
+      "event": "Over 2 million Texas residents were left without e",
+      "gold": "B,D",
+      "pred": "B,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2089",
+      "event": "Nvidia's market cap briefly reached $1 trillion on",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2090",
+      "event": "Sinn Fein called for a referendum on Irish unity.",
+      "gold": "C,D",
+      "pred": "D",
+      "score": 0.5
+    },
+    {
+      "id": "q-2091",
+      "event": "Over 2 million Texas residents were left without e",
+      "gold": "A,B",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2092",
+      "event": "Donald Trump hailed a $500 billion plan by OpenAI,",
+      "gold": "A,B",
+      "pred": "A,B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2093",
+      "event": "Wagner forces advanced towards Moscow with a colum",
+      "gold": "B,D",
+      "pred": "B,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2094",
+      "event": "Protesters clashed with police and breached securi",
+      "gold": "A,B,C",
+      "pred": "A,B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2095",
+      "event": "Prime Minister Han Duck-soo became acting presiden",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2096",
+      "event": "The Los Angeles Mayor agreed to increase the LAPD ",
+      "gold": "A",
+      "pred": "A,B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2097",
+      "event": "Nvidia set a new company revenue record.",
+      "gold": "A,D",
+      "pred": "B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2098",
+      "event": "Widespread protests erupted across the nation, inc",
+      "gold": "B,C",
+      "pred": "B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2099",
+      "event": "On August 15, 2021, Afghan President Ashraf Ghani ",
+      "gold": "A,B,D",
+      "pred": "A,B,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2100",
+      "event": "Wagner troops withdrew from Rostov, the Lipetsk re",
+      "gold": "A,D",
+      "pred": "A,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2101",
+      "event": "On July 9, 2021, Interior Minister Mohammad Fehmi ",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2102",
+      "event": "ERCOT initiated rolling outages, leaving millions ",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2103",
+      "event": "Nvidia shares surged 24% to a record high, trigger",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2104",
+      "event": "On July 28-29, 2021, the Beirut and Tripoli Bar As",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2105",
+      "event": "The D.C. National Guard was activated, and a cityw",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2106",
+      "event": "The Lidia fire ignited in Angeles National Forest.",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2107",
+      "event": "World leaders expressed shock and condemned the mu",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2108",
+      "event": "Lawmakers voted down the martial law decree.",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2109",
+      "event": "Credit Suisse shareholders will receive one UBS sh",
+      "gold": "A,B",
+      "pred": "A,B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2110",
+      "event": "Iraqi caretaker Prime Minister Adel Abdul Mahdi co",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2111",
+      "event": "A TEPCO staff member activated a seawater pump and",
+      "gold": "A,B",
+      "pred": "A,B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2112",
+      "event": "Emergency workers from around the country were dep",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2113",
+      "event": "Huawei ensured HarmonyOS supports applications dev",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2114",
+      "event": "Officials confirmed on Monday that the death toll ",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2115",
+      "event": "Huawei\u2019s smartphone sales suffered in internationa",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2116",
+      "event": "Arizona\u2019s constitutional right to abortion amendme",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2117",
+      "event": "On December 31, pro-Iranian protesters attacked th",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2118",
+      "event": "Austin and San Antonio issued boil-water notices.",
+      "gold": "A,B,D",
+      "pred": "A,B,C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2119",
+      "event": "Credit Suisse shareholders will receive one UBS sh",
+      "gold": "A,D",
+      "pred": "A,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2120",
+      "event": "The Time\u2019s Up initiative was announced on January ",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2121",
+      "event": "The S&P 500 fell below its 200-day moving average ",
+      "gold": "A,C",
+      "pred": "A,C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2122",
+      "event": "The army announced power was handed to commander-i",
+      "gold": "A,B,D",
+      "pred": "A,B,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2123",
+      "event": "A Myanmar court convicted Aung San Suu Kyi and Sea",
+      "gold": "A",
+      "pred": "B",
+      "score": 0.0
+    },
+    {
+      "id": "q-2124",
+      "event": "Jeremy Hunt reversed most mini-budget policies thr",
+      "gold": "B,D",
+      "pred": "D",
+      "score": 0.5
+    },
+    {
+      "id": "q-2125",
+      "event": "The Iraqi parliament voted to expel US troops from",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2126",
+      "event": "Huawei stated HarmonyOS will debut first on the Ho",
+      "gold": "B,D",
+      "pred": "B,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2127",
+      "event": "On August 15, 2021, Afghan President Ashraf Ghani ",
+      "gold": "A,B,C",
+      "pred": "A,B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2128",
+      "event": "Quebec planes and B.C. helicopters are battling th",
+      "gold": "B",
+      "pred": "A,B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2129",
+      "event": "Widespread disruption occurred in internet and new",
+      "gold": "A,B,D",
+      "pred": "A,B,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2130",
+      "event": "Protesters clashed with police and breached securi",
+      "gold": "A,B,D",
+      "pred": "A,B",
+      "score": 0.5
+    },
+    {
+      "id": "q-2131",
+      "event": "Taliban fighters celebrated following the U.S. dep",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2132",
+      "event": "DeepSeek-R1 achieved a Pass@1 score of 97.3% on MA",
+      "gold": "D",
+      "pred": "C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2133",
+      "event": "Regulators expedited the merger process between Cr",
+      "gold": "B,C",
+      "pred": "B",
+      "score": 0.5
+    },
+    {
+      "id": "q-2134",
+      "event": "On August 15, 2021, the Taliban seized the preside",
+      "gold": "C",
+      "pred": "B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2135",
+      "event": "Opposition legislators filed an impeachment motion",
+      "gold": "A,C,D",
+      "pred": "A,C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2136",
+      "event": "DeepSeek released its large language model, DeepSe",
+      "gold": "A",
+      "pred": "C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2137",
+      "event": "The Pentagon suspended operations against ISIS in ",
+      "gold": "A,D",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2138",
+      "event": "David Lebryk departed his position at the Treasury",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2139",
+      "event": "Prime Minister Edouard Philippe announced nearly 5",
+      "gold": "A,D",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2140",
+      "event": "The FBI and ATF cleared the Capitol.",
+      "gold": "B,D",
+      "pred": "D",
+      "score": 0.5
+    },
+    {
+      "id": "q-2141",
+      "event": "Facebook replaced its corporate sign outside its C",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2142",
+      "event": "On December 10, 2020, Judge Sawan charged Caretake",
+      "gold": "B,C",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2143",
+      "event": "Taliban fighters celebrated following the U.S. dep",
+      "gold": "A",
+      "pred": "A,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2144",
+      "event": "Trump authorized federal disaster aid for Californ",
+      "gold": "A",
+      "pred": "B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2145",
+      "event": "Goldman Sachs estimated that AI systems like ChatG",
+      "gold": "B",
+      "pred": "B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2146",
+      "event": "Prigozhin went into exile in Belarus.",
+      "gold": "C,D",
+      "pred": "C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2147",
+      "event": "Trump was impeached for a second time on January 1",
+      "gold": "A",
+      "pred": "A,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2148",
+      "event": "130 people were arrested across France, including ",
+      "gold": "A,C,D",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2149",
+      "event": "Fire hotspots in indigenous territories increased ",
+      "gold": "C",
+      "pred": "A,B",
+      "score": 0.0
+    },
+    {
+      "id": "q-2150",
+      "event": "Huawei stated it will first lay the foundation for",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2151",
+      "event": "President Bolsonaro announced a 60-day ban on sett",
+      "gold": "B,C,D",
+      "pred": "A,B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2152",
+      "event": "Fire hotspots in indigenous territories increased ",
+      "gold": "C",
+      "pred": "B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2153",
+      "event": "President Donald Trump proposed tariffs on steel a",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2154",
+      "event": "Up to six ERCOT board members resigned on February",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2155",
+      "event": "Germany and Norway withheld tens of millions of do",
+      "gold": "B",
+      "pred": "A,B",
+      "score": 0.0
+    },
+    {
+      "id": "q-2156",
+      "event": "Protesters rallied in Tokyo on August 24, 2023, ag",
+      "gold": "B,D",
+      "pred": "B,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2157",
+      "event": "Huawei\u2019s smartphone sales suffered in internationa",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2158",
+      "event": "Seoul Mayor Oh Se-Hoon cut short a trip to Europe ",
+      "gold": "C,D",
+      "pred": "D",
+      "score": 0.5
+    },
+    {
+      "id": "q-2159",
+      "event": "On January 20, 2025, President Donald Trump sought",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2160",
+      "event": "Authorities in Myanmar and Thailand declared a sta",
+      "gold": "A",
+      "pred": "A,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2161",
+      "event": "Regional power generators spontaneously shut down,",
+      "gold": "C,D",
+      "pred": "C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2162",
+      "event": "Seoul Mayor Oh Se-Hoon cut short a trip to Europe ",
+      "gold": "D",
+      "pred": "B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2163",
+      "event": "Donald Trump hailed a $500 billion plan by OpenAI,",
+      "gold": "C",
+      "pred": "A,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2164",
+      "event": "Jeremy Hunt reversed most mini-budget policies thr",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2165",
+      "event": "Security arrested the suspected gunman, Tetsuya Ya",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2166",
+      "event": "OpenAI released ChatGPT Plus on February 1, 2023, ",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2167",
+      "event": "Three former Minneapolis police officers were crim",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2168",
+      "event": "130 people were arrested across France, including ",
+      "gold": "A,B",
+      "pred": "A,B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2169",
+      "event": "The reinforcement learning algorithm trained the f",
+      "gold": "B,C",
+      "pred": "B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2170",
+      "event": "Credit Suisse shareholders will receive one UBS sh",
+      "gold": "A,D",
+      "pred": "A,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2171",
+      "event": "Myanmar\u2019s military seized power on February 1, beg",
+      "gold": "A,B,C",
+      "pred": "A,B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2172",
+      "event": "The British pound plunged in value.",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2173",
+      "event": "The New York Times published an investigation into",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2174",
+      "event": "The Japanese government allocated $200 million to ",
+      "gold": "A,D",
+      "pred": "A,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2175",
+      "event": "Jeremy Hunt reversed most mini-budget policies thr",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2176",
+      "event": "French President Emmanuel Macron announced France\u2019",
+      "gold": "D",
+      "pred": "A,C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2177",
+      "event": "The British pound plunged in value.",
+      "gold": "A",
+      "pred": "A,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2178",
+      "event": "The Iranian government issued an intercity travel ",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2179",
+      "event": "Huawei announced a deployment timeline for Harmony",
+      "gold": "A,C,D",
+      "pred": "A,C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2180",
+      "event": "Belarusian President Alexander Lukashenko brokered",
+      "gold": "A,B,C",
+      "pred": "A,B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2181",
+      "event": "The Chinese government criticized Japan\u2019s plan to ",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2182",
+      "event": "Taliban fighters spread across Kabul streets, ridi",
+      "gold": "C",
+      "pred": "C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2183",
+      "event": "A TEPCO staff member activated a seawater pump and",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2184",
+      "event": "The Swiss National Bank pledged a loan of up to 10",
+      "gold": "A,B,C",
+      "pred": "A,B",
+      "score": 0.5
+    },
+    {
+      "id": "q-2185",
+      "event": "President Donald Trump proposed tariffs on steel a",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2186",
+      "event": "Prime Minister Fumio Kishida announced Japan would",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2187",
+      "event": "Millions of people started using ChatGPT immediate",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2188",
+      "event": "By April 3, 2025, the death toll from the earthqua",
+      "gold": "B,D",
+      "pred": "A",
+      "score": 0.0
+    },
+    {
+      "id": "q-2189",
+      "event": "The NOAA National Centers for Environmental Inform",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2190",
+      "event": "DeepSeek-R1\u2019s application became the most download",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2191",
+      "event": "The coronavirus pandemic halted the global economy",
+      "gold": "D",
+      "pred": "A,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2192",
+      "event": "The U.S. government mandated port and border closu",
+      "gold": "A",
+      "pred": "A,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2193",
+      "event": "Over three million Brits called for a do-over.",
+      "gold": "C,D",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2194",
+      "event": "President Bolsonaro announced a 60-day ban on sett",
+      "gold": "B,D",
+      "pred": "B,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2195",
+      "event": "Huawei released a TV running HarmonyOS.",
+      "gold": "B,C",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2196",
+      "event": "International leaders and organizations condemned ",
+      "gold": "B,C",
+      "pred": "B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2197",
+      "event": "The Italian government called in the military to e",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2198",
+      "event": "Women in media created an anonymously editable Goo",
+      "gold": "A",
+      "pred": "A,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2199",
+      "event": "A woman was shot inside the Capitol and died.",
+      "gold": "B,C",
+      "pred": "B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2200",
+      "event": "International leaders and organizations condemned ",
+      "gold": "B",
+      "pred": "B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2201",
+      "event": "DeepSeek's app reached the top of U.S. free app ch",
+      "gold": "A,B",
+      "pred": "C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2202",
+      "event": "Nvidia set a new company revenue record.",
+      "gold": "B",
+      "pred": "C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2203",
+      "event": "The Secret Service rushed President Trump and his ",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2204",
+      "event": "The US Senate will likely vote on Wednesday on a b",
+      "gold": "B,D",
+      "pred": "B,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2205",
+      "event": "Taliban fighters spread across Kabul streets, ridi",
+      "gold": "A,D",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2206",
+      "event": "On July 2, 2021, Judge Bitar requested parliament ",
+      "gold": "B,C",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2207",
+      "event": "President Yoon Suk-yeol declared a period of natio",
+      "gold": "C",
+      "pred": "B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2208",
+      "event": "On December 29, US forces conducted airstrikes at ",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2209",
+      "event": "Widespread disruption occurred in internet and new",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2210",
+      "event": "Global markets plunged following the Brexit vote.",
+      "gold": "B,D",
+      "pred": "B,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2211",
+      "event": "By April 3, 2025, the death toll from the earthqua",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2212",
+      "event": "DeepSeek released its large language model, DeepSe",
+      "gold": "D",
+      "pred": "B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2213",
+      "event": "The U.S. State Department confirmed at least two U",
+      "gold": "C,D",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2214",
+      "event": "The IAEA will maintain an on-site presence for the",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2215",
+      "event": "The military detained Aung San Suu Kyi and other t",
+      "gold": "A,C,D",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2216",
+      "event": "The Iraqi parliament voted to expel US troops from",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2217",
+      "event": "Bushfire smoke created smog in Sydney, causing air",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2218",
+      "event": "Women used social media to share sexual harassment",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2219",
+      "event": "The district officially unveiled Black Lives Matte",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2220",
+      "event": "President Yoon Suk Yeol was immediately suspended ",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2221",
+      "event": "Time Magazine named 'the Silence Breakers' Person ",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2222",
+      "event": "Wagner troops withdrew from Rostov, the Lipetsk re",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2223",
+      "event": "On December 10, 2020, Judge Sawan charged Caretake",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2224",
+      "event": "The U.S. Congress defined legal requirements for s",
+      "gold": "C,D",
+      "pred": "C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2225",
+      "event": "Prigozhin negotiated his exit and called off his m",
+      "gold": "C",
+      "pred": "A,B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2226",
+      "event": "Prime Minister Hassan Diab and his government resi",
+      "gold": "C,D",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2227",
+      "event": "Local governments established public mourning site",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2228",
+      "event": "On July 2, 2021, Judge Bitar requested parliament ",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2229",
+      "event": "Over three million Brits called for a do-over.",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2230",
+      "event": "Donald Trump hailed a $500 billion plan by OpenAI,",
+      "gold": "A,D",
+      "pred": "A,B,C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2231",
+      "event": "The FBI and ATF cleared the Capitol.",
+      "gold": "A,C",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2232",
+      "event": "Facebook replaced its corporate sign outside its C",
+      "gold": "B,C,D",
+      "pred": "B,C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2233",
+      "event": "Over three million Brits called for a do-over.",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2234",
+      "event": "Huawei stated it will first lay the foundation for",
+      "gold": "D",
+      "pred": "B,C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2235",
+      "event": "The House and Senate recessed, and the Capitol was",
+      "gold": "A,C,D",
+      "pred": "A,C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2236",
+      "event": "On December 20, Musk confirmed he will step down a",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2237",
+      "event": "Officials confirmed on Monday that the death toll ",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2238",
+      "event": "Wagner troops withdrew from Rostov, the Lipetsk re",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2239",
+      "event": "Myanmar's ruling junta chief reported at least 144",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2240",
+      "event": "The Pentagon suspended operations against ISIS in ",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2241",
+      "event": "Regional power generators spontaneously shut down,",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2242",
+      "event": "Taliban fighters celebrated following the U.S. dep",
+      "gold": "C",
+      "pred": "B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2243",
+      "event": "General Motors announced it would suspend its adve",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2244",
+      "event": "Iran launched ballistic missile attacks against Al",
+      "gold": "C,D",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2245",
+      "event": "The Almeda Fire burned hundreds of homes and busin",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2246",
+      "event": "Videos of the assassination circulated on social m",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2247",
+      "event": "Derek Chauvin was arrested and charged with murder",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2248",
+      "event": "The IAEA will maintain an on-site presence for the",
+      "gold": "A,C",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2249",
+      "event": "Trump was impeached for a second time on January 1",
+      "gold": "B,C",
+      "pred": "B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2250",
+      "event": "Local governments established public mourning site",
+      "gold": "B,C",
+      "pred": "B",
+      "score": 0.5
+    },
+    {
+      "id": "q-2251",
+      "event": "Widespread disruption occurred in internet and new",
+      "gold": "B,C",
+      "pred": "B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2252",
+      "event": "The congressional certification of Joe Biden\u2019s vic",
+      "gold": "A,C",
+      "pred": "A,B",
+      "score": 0.0
+    },
+    {
+      "id": "q-2253",
+      "event": "India sent approximately 15 tonnes of relief mater",
+      "gold": "B,D",
+      "pred": "B",
+      "score": 0.5
+    },
+    {
+      "id": "q-2254",
+      "event": "Facebook changed its corporate name to Meta on Oct",
+      "gold": "A,B,D",
+      "pred": "A,B",
+      "score": 0.5
+    },
+    {
+      "id": "q-2255",
+      "event": "Nvidia set a new company revenue record.",
+      "gold": "B,D",
+      "pred": "A",
+      "score": 0.0
+    },
+    {
+      "id": "q-2256",
+      "event": "Fire hotspots in indigenous territories increased ",
+      "gold": "D",
+      "pred": "A,B",
+      "score": 0.0
+    },
+    {
+      "id": "q-2257",
+      "event": "Up to six ERCOT board members resigned on February",
+      "gold": "A,C",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2258",
+      "event": "President Yoon Suk-yeol declared a period of natio",
+      "gold": "A,B",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2259",
+      "event": "Prime Minister Edouard Philippe announced nearly 5",
+      "gold": "B",
+      "pred": "B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2260",
+      "event": "Police attacked protesters using stun hand grenade",
+      "gold": "B",
+      "pred": "D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2261",
+      "event": "Taliban fighters spread across Kabul streets, ridi",
+      "gold": "A,C",
+      "pred": "A,C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2262",
+      "event": "Credit Suisse's board rebuffed the proposal from U",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2263",
+      "event": "Three former Minneapolis police officers were crim",
+      "gold": "A,B,C",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2264",
+      "event": "The US Senate will likely vote on Wednesday on a b",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2265",
+      "event": "A U.S. drone strike killed Iranian Maj. Gen. Qasse",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2266",
+      "event": "Three former Minneapolis police officers were crim",
+      "gold": "A,C,D",
+      "pred": "D",
+      "score": 0.5
+    },
+    {
+      "id": "q-2267",
+      "event": "Amazonas state in Brazil declared a state of emerg",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2268",
+      "event": "In 2014, Harvey Weinstein invited Emily Nestor to ",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2269",
+      "event": "Wagner forces advanced towards Moscow with a colum",
+      "gold": "A,D",
+      "pred": "A,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2270",
+      "event": "Austin and San Antonio issued boil-water notices.",
+      "gold": "C",
+      "pred": "B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2271",
+      "event": "On August 15, 2021, the Taliban seized the preside",
+      "gold": "A,C",
+      "pred": "A,C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2272",
+      "event": "Vice President Myint Swe was installed as acting P",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2273",
+      "event": "Andrew Bosworth announced the retirement of the Oc",
+      "gold": "A,B",
+      "pred": "A,B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2274",
+      "event": "Burst pipes led to widespread water disruptions, a",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2275",
+      "event": "Women used social media to share sexual harassment",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2276",
+      "event": "Global markets plunged following the Brexit vote.",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2277",
+      "event": "The country's currency plummeted in value and gove",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2278",
+      "event": "President Yoon Suk Yeol vowed to carry out a thoro",
+      "gold": "A,C",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2279",
+      "event": "Ontario placed a 25% tax on electricity exports to",
+      "gold": "A,D",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2280",
+      "event": "Myanmar's ruling junta chief reported at least 144",
+      "gold": "B,D",
+      "pred": "B",
+      "score": 0.5
+    },
+    {
+      "id": "q-2281",
+      "event": "Clinical trials began to test potential treatments",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2282",
+      "event": "Prigozhin went into exile in Belarus.",
+      "gold": "A",
+      "pred": "A,B",
+      "score": 0.0
+    },
+    {
+      "id": "q-2283",
+      "event": "Prigozhin negotiated his exit and called off his m",
+      "gold": "D",
+      "pred": "B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2284",
+      "event": "Prigozhin went into exile in Belarus.",
+      "gold": "C",
+      "pred": "B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2285",
+      "event": "Air quality along the West Coast deteriorated to h",
+      "gold": "B,D",
+      "pred": "A,B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2286",
+      "event": "The British pound plunged in value.",
+      "gold": "B,D",
+      "pred": "D",
+      "score": 0.5
+    },
+    {
+      "id": "q-2287",
+      "event": "The US Senate will likely vote on Wednesday on a b",
+      "gold": "A,C,D",
+      "pred": "A,C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2288",
+      "event": "The U.S. State Department confirmed at least two U",
+      "gold": "B",
+      "pred": "A",
+      "score": 0.0
+    },
+    {
+      "id": "q-2289",
+      "event": "The Taliban began a massive offensive in early May",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2290",
+      "event": "Time Magazine named 'the Silence Breakers' Person ",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2291",
+      "event": "Prime Minister Han Duck-soo became acting presiden",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2292",
+      "event": "On December 10, 2020, Judge Sawan charged Caretake",
+      "gold": "B",
+      "pred": "A,B",
+      "score": 0.0
+    },
+    {
+      "id": "q-2293",
+      "event": "A temporary medical center was established in Itae",
+      "gold": "A,C",
+      "pred": "D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2294",
+      "event": "Amazonas state in Brazil declared a state of emerg",
+      "gold": "B,C,D",
+      "pred": "B,D",
+      "score": 0.5
+    },
+    {
+      "id": "q-2295",
+      "event": "General Sergei Surovikin was detained on charges o",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2296",
+      "event": "Air quality along the West Coast deteriorated to h",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2297",
+      "event": "Shinzo Abe was pronounced dead at 5:03 p.m.",
+      "gold": "C,D",
+      "pred": "C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2298",
+      "event": "President Donald Trump pardoned Ross Ulbricht.",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2299",
+      "event": "The D.C. National Guard was activated, and a cityw",
+      "gold": "A,C,D",
+      "pred": "A,C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2300",
+      "event": "Austin and San Antonio issued boil-water notices.",
+      "gold": "A,D",
+      "pred": "A,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2301",
+      "event": "Facebook introduced a new infinity-shaped corporat",
+      "gold": "B,C",
+      "pred": "B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2302",
+      "event": "US Treasury Secretary Janet Yellen called financia",
+      "gold": "D",
+      "pred": "A,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2303",
+      "event": "President Yoon Suk Yeol vowed to carry out a thoro",
+      "gold": "B,D",
+      "pred": "B",
+      "score": 0.5
+    },
+    {
+      "id": "q-2304",
+      "event": "Austin and San Antonio issued boil-water notices.",
+      "gold": "B,C,D",
+      "pred": "A,B",
+      "score": 0.0
+    },
+    {
+      "id": "q-2305",
+      "event": "The U.S. government mandated port and border closu",
+      "gold": "D",
+      "pred": "C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2306",
+      "event": "On August 15, 2021, the Taliban seized the preside",
+      "gold": "B,C,D",
+      "pred": "A,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2307",
+      "event": "President Joe Biden approved a major disaster decl",
+      "gold": "A,D",
+      "pred": "A,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2308",
+      "event": "Widespread protests erupted across the nation, inc",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2309",
+      "event": "Fire crews contained several fires, including the ",
+      "gold": "B",
+      "pred": "A,B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2310",
+      "event": "Police, parliament, prosecutors, and the anti-corr",
+      "gold": "B",
+      "pred": "D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2311",
+      "event": "Putin delivered a televised address accusing Prigo",
+      "gold": "A,B",
+      "pred": "A,B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2312",
+      "event": "French President Emmanuel Macron announced Harvey ",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2313",
+      "event": "Musk confirmed charging $8/month for Twitter Blue ",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2314",
+      "event": "Finma wiped out $17 billion worth of Credit Suisse",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2315",
+      "event": "The last U.S. military planes departed Afghanistan",
+      "gold": "C,D",
+      "pred": "C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2316",
+      "event": "On December 10, 2020, Judge Sawan charged Caretake",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2317",
+      "event": "TEPCO began releasing the first batch of treated r",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2318",
+      "event": "Musk reinstated former President Donald Trump's Tw",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2319",
+      "event": "Prime Minister Han Duck-soo became acting presiden",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2320",
+      "event": "The district officially unveiled Black Lives Matte",
+      "gold": "A,B,C",
+      "pred": "A,B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2321",
+      "event": "Taliban fighters spread across Kabul streets, ridi",
+      "gold": "A",
+      "pred": "C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2322",
+      "event": "Over three million Brits called for a do-over.",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2323",
+      "event": "Germany and Norway withheld tens of millions of do",
+      "gold": "A",
+      "pred": "A,B",
+      "score": 0.0
+    },
+    {
+      "id": "q-2324",
+      "event": "The U.S. government mandated port and border closu",
+      "gold": "B",
+      "pred": "B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2325",
+      "event": "The Swiss government ordered Credit Suisse to temp",
+      "gold": "C",
+      "pred": "A",
+      "score": 0.0
+    },
+    {
+      "id": "q-2326",
+      "event": "Protesters overtook and destroyed the Minneapolis ",
+      "gold": "A,B,C",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2327",
+      "event": "The Swiss government ordered Credit Suisse to temp",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2328",
+      "event": "The Iraqi parliament voted to expel US troops from",
+      "gold": "A",
+      "pred": "A,B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2329",
+      "event": "President Joe Biden approved a major disaster decl",
+      "gold": "B,C,D",
+      "pred": "B,C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2330",
+      "event": "Taliban militants captured several provincial capi",
+      "gold": "D",
+      "pred": "A",
+      "score": 0.0
+    },
+    {
+      "id": "q-2331",
+      "event": "President Bolsonaro announced a 60-day ban on sett",
+      "gold": "A,D",
+      "pred": "A,C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2332",
+      "event": "World leaders expressed shock and condemned the mu",
+      "gold": "A,B",
+      "pred": "A,B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2333",
+      "event": "On January 20, 2025, President Donald Trump sought",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2334",
+      "event": "Huawei announced a deployment timeline for Harmony",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2335",
+      "event": "Over 2 million Texas residents were left without e",
+      "gold": "A,B,D",
+      "pred": "A,D",
+      "score": 0.5
+    },
+    {
+      "id": "q-2336",
+      "event": "The Swiss government ordered Credit Suisse to temp",
+      "gold": "C",
+      "pred": "B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2337",
+      "event": "The city fires all four officers.",
+      "gold": "A,D",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2338",
+      "event": "Credit Suisse's board rebuffed the proposal from U",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2339",
+      "event": "Andrew Bosworth announced the retirement of the Oc",
+      "gold": "A,C",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2340",
+      "event": "The S&P 500 fell below its 200-day moving average ",
+      "gold": "C,D",
+      "pred": "C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2341",
+      "event": "Taliban fighters spread across Kabul streets, ridi",
+      "gold": "B,C,D",
+      "pred": "A,B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2342",
+      "event": "Visa and Mastercard stock dropped approximately 5%",
+      "gold": "A,B",
+      "pred": "A,B,C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2343",
+      "event": "Credit Suisse's board rebuffed the proposal from U",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2344",
+      "event": "Women used social media to share sexual harassment",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2345",
+      "event": "The Pentagon suspended operations against ISIS in ",
+      "gold": "B,D",
+      "pred": "C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2346",
+      "event": "Taliban militants captured several provincial capi",
+      "gold": "A,B,D",
+      "pred": "A,B,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2347",
+      "event": "India sent approximately 15 tonnes of relief mater",
+      "gold": "A,C",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2348",
+      "event": "International leaders and organizations condemned ",
+      "gold": "A,C,D",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2349",
+      "event": "Three former Minneapolis police officers were crim",
+      "gold": "B,C",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2350",
+      "event": "Burst pipes led to widespread water disruptions, a",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2351",
+      "event": "World leaders, including Fumio Kishida, Joe Biden,",
+      "gold": "A,D",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2352",
+      "event": "Widespread disruption occurred in internet and new",
+      "gold": "B,C,D",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2353",
+      "event": "Myanmar\u2019s military government removed 24 ministers",
+      "gold": "A,C",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2354",
+      "event": "Police, parliament, prosecutors, and the anti-corr",
+      "gold": "A",
+      "pred": "A,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2355",
+      "event": "A TEPCO staff member activated a seawater pump and",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2356",
+      "event": "DeepSeek's app reached the top of U.S. free app ch",
+      "gold": "D",
+      "pred": "A,C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2357",
+      "event": "The last U.S. military planes departed Afghanistan",
+      "gold": "A,B",
+      "pred": "A,B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2358",
+      "event": "Trump was permanently banned from Twitter on Janua",
+      "gold": "D",
+      "pred": "B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2359",
+      "event": "U.S. troops left Bagram Airfield.",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2360",
+      "event": "A TEPCO staff member activated a seawater pump and",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2361",
+      "event": "OPM offered federal workers the option to resign w",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2362",
+      "event": "Authorities in Myanmar and Thailand declared a sta",
+      "gold": "A,B",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2363",
+      "event": "International leaders and organizations condemned ",
+      "gold": "B,C,D",
+      "pred": "C,D",
+      "score": 0.5
+    },
+    {
+      "id": "q-2364",
+      "event": "On July 2, 2021, Judge Bitar requested parliament ",
+      "gold": "C,D",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2365",
+      "event": "On July 2, 2021, Judge Bitar requested parliament ",
+      "gold": "A,B",
+      "pred": "A,B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2366",
+      "event": "Goldman Sachs estimated that AI systems like ChatG",
+      "gold": "A",
+      "pred": "A,B",
+      "score": 0.0
+    },
+    {
+      "id": "q-2367",
+      "event": "Facebook changed its corporate name to Meta on Oct",
+      "gold": "A,B,D",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2368",
+      "event": "Prime Minister Fumio Kishida announced Japan would",
+      "gold": "B,C",
+      "pred": "B",
+      "score": 0.5
+    },
+    {
+      "id": "q-2369",
+      "event": "DeepSeek's app reached the top of U.S. free app ch",
+      "gold": "C,D",
+      "pred": "A,B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2370",
+      "event": "Scientific journals, including Springer Nature and",
+      "gold": "A,B,D",
+      "pred": "A,D",
+      "score": 0.5
+    },
+    {
+      "id": "q-2371",
+      "event": "More than a dozen news outlets published stories b",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2372",
+      "event": "U.S. government regulators announced they would fu",
+      "gold": "B,C",
+      "pred": "B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2373",
+      "event": "Many therapists cease in-person client sessions.",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2374",
+      "event": "Over four million customers were without power in ",
+      "gold": "B,C,D",
+      "pred": "B,C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2375",
+      "event": "Governor Newsom declared a state of emergency in N",
+      "gold": "C",
+      "pred": "C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2376",
+      "event": "Trump was impeached for a second time on January 1",
+      "gold": "A,C,D",
+      "pred": "A,C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2377",
+      "event": "Musk laid off thousands of Twitter employees and c",
+      "gold": "B",
+      "pred": "B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2378",
+      "event": "Lebanon declared a two-week state of emergency in ",
+      "gold": "B,C",
+      "pred": "A,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2379",
+      "event": "On December 20, Musk confirmed he will step down a",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2380",
+      "event": "Videos of the assassination circulated on social m",
+      "gold": "C",
+      "pred": "C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2381",
+      "event": "French President Emmanuel Macron announced France\u2019",
+      "gold": "B,C",
+      "pred": "A,B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2382",
+      "event": "French President Emmanuel Macron announced France\u2019",
+      "gold": "C",
+      "pred": "C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2383",
+      "event": "Seoul Mayor Oh Se-Hoon cut short a trip to Europe ",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2384",
+      "event": "The fires destroyed more than 1,400 homes.",
+      "gold": "B,C",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2385",
+      "event": "Yoon's senior aides and defense minister offered t",
+      "gold": "A,B,C",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2386",
+      "event": "South Korea\u2019s parliament voted to impeach Presiden",
+      "gold": "C,D",
+      "pred": "A,B",
+      "score": 0.0
+    },
+    {
+      "id": "q-2387",
+      "event": "Prime Minister Hassan Diab and his government resi",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2388",
+      "event": "On August 15, 2021, the Taliban seized the preside",
+      "gold": "B,C",
+      "pred": "A,B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-2389",
+      "event": "A U.S. drone strike killed Iranian Maj. Gen. Qasse",
+      "gold": "A,D",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2390",
+      "event": "On June 17, 2025, the U.S. Senate passed the GENIU",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2391",
+      "event": "President Bolsonaro announced a 60-day ban on sett",
+      "gold": "A,D",
+      "pred": "A,B,C,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2392",
+      "event": "Iraqi caretaker Prime Minister Adel Abdul Mahdi co",
+      "gold": "A,C",
+      "pred": "A,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2393",
+      "event": "Trade controls forced Chinese researchers to use f",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2394",
+      "event": "French women launched the #BalanceTonPorc social m",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2395",
+      "event": "The district officially unveiled Black Lives Matte",
+      "gold": "A,B,D",
+      "pred": "A,D",
+      "score": 0.5
+    },
+    {
+      "id": "q-2396",
+      "event": "Myanmar\u2019s military imposed a nationwide 8pm to 6am",
+      "gold": "A,B,C",
+      "pred": "A,B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2397",
+      "event": "Wagner troops withdrew from Rostov, the Lipetsk re",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2398",
+      "event": "A Myanmar court convicted Aung San Suu Kyi and Sea",
+      "gold": "B",
+      "pred": "A",
+      "score": 0.0
+    },
+    {
+      "id": "q-2399",
+      "event": "The Capitol was secured, and lawmakers reconvened ",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2400",
+      "event": "Emergency workers from around the country were dep",
+      "gold": "C,D",
+      "pred": "B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2401",
+      "event": "Women used social media to share sexual harassment",
+      "gold": "D",
+      "pred": "B",
+      "score": 0.0
+    },
+    {
+      "id": "q-2402",
+      "event": "World leaders, including Fumio Kishida, Joe Biden,",
+      "gold": "B,C",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2403",
+      "event": "President Yoon Suk-yeol declared a period of natio",
+      "gold": "B,D",
+      "pred": "D",
+      "score": 0.5
+    },
+    {
+      "id": "q-2404",
+      "event": "On January 20, 2025, President Donald Trump sought",
+      "gold": "A,D",
+      "pred": "A",
+      "score": 0.5
+    },
+    {
+      "id": "q-2405",
+      "event": "Australia's military deployed ships and aircraft t",
+      "gold": "A",
+      "pred": "A,B",
+      "score": 0.0
+    },
+    {
+      "id": "q-2406",
+      "event": "TEPCO began releasing the first batch of treated r",
+      "gold": "B,D",
+      "pred": "B,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2407",
+      "event": "Thousands of volunteers from Lebanon and its diasp",
+      "gold": "B,C",
+      "pred": "B",
+      "score": 0.5
+    },
+    {
+      "id": "q-2408",
+      "event": "General Sergei Surovikin was detained on charges o",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2409",
+      "event": "The Japanese government allocated $200 million to ",
+      "gold": "A,B",
+      "pred": "A,B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2410",
+      "event": "On November 26, 2018, the first trials for those a",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2411",
+      "event": "Elon Musk gained full command of the federal cost-",
+      "gold": "A",
+      "pred": "B",
+      "score": 0.0
+    },
+    {
+      "id": "q-2412",
+      "event": "Nvidia announced it is significantly increasing ch",
+      "gold": "B",
+      "pred": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-2413",
+      "event": "Myanmar\u2019s military seized power on February 1, beg",
+      "gold": "B,C,D",
+      "pred": "C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2414",
+      "event": "The chairmen of Credit Suisse and UBS announced a ",
+      "gold": "A,B,C",
+      "pred": "A,C",
+      "score": 0.5
+    },
+    {
+      "id": "q-2415",
+      "event": "Over 2 million Texas residents were left without e",
+      "gold": "C",
+      "pred": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-2416",
+      "event": "The country's currency plummeted in value and gove",
+      "gold": "D",
+      "pred": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-2417",
+      "event": "Iran announced it would suspend compliance with th",
+      "gold": "A",
+      "pred": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-2418",
+      "event": "Huawei ensured HarmonyOS supports applications dev",
+      "gold": "D",
+      "pred": "A,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2419",
+      "event": "Liz Truss announced her resignation as Prime Minis",
+      "gold": "B,D",
+      "pred": "B,D",
+      "score": 1.0
+    }
+  ]
+}

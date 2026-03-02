@@ -1,0 +1,16 @@
+\begin{table}[h]
+\centering
+\caption{Baseline Results on SemEval 2026 Task 12}
+\label{tab:baseline_results}
+\begin{tabular}{llcccccc}
+\toprule
+Model & Prompt & Docs & Split & Full & Partial & Incorrect & Score \\
+\midrule
+gpt-4o & zero shot & Yes & dev & 60.0% & 20.0% & 20.0% & 0.700 \\
+gpt-4o & zero shot & No & dev & 59.8% & 17.0% & 23.2% & 0.682 \\
+gpt-4o & zero shot & Yes & sample & 52.0% & 20.0% & 28.0% & 0.620 \\
+gpt-4o & chain of thought & No & sample & 56.0% & 18.0% & 26.0% & 0.650 \\
+gpt-4o-mini & zero shot & No & sample & 40.0% & 5.0% & 55.0% & 0.425 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,543 @@
+{
+  "summary": {
+    "correct": 239,
+    "partial": 68,
+    "over_predict": 37,
+    "wrong": 56
+  },
+  "recommendations": [
+    "Multi-answer questions have ~50% error rate - need targeted prompt",
+    "Single-answer questions have ~30% error rate - baseline works ok",
+    "Model tends to under-predict more than over-predict",
+    "Domain-specific routing may not help much (similar error rates)"
+  ],
+  "partial_errors": [
+    {
+      "id": "q-2027",
+      "gold": "A,B",
+      "pred": "A"
+    },
+    {
+      "id": "q-2029",
+      "gold": "A,C,D",
+      "pred": "A,C"
+    },
+    {
+      "id": "q-2031",
+      "gold": "B,C",
+      "pred": "C"
+    },
+    {
+      "id": "q-2033",
+      "gold": "A,C,D",
+      "pred": "A,D"
+    },
+    {
+      "id": "q-2035",
+      "gold": "A,C,D",
+      "pred": "A,C"
+    },
+    {
+      "id": "q-2049",
+      "gold": "A,B,C",
+      "pred": "A,C"
+    },
+    {
+      "id": "q-2077",
+      "gold": "A,B",
+      "pred": "A"
+    },
+    {
+      "id": "q-2085",
+      "gold": "A,B",
+      "pred": "B"
+    },
+    {
+      "id": "q-2090",
+      "gold": "C,D",
+      "pred": "D"
+    },
+    {
+      "id": "q-2091",
+      "gold": "A,B",
+      "pred": "A"
+    },
+    {
+      "id": "q-2094",
+      "gold": "A,B,C",
+      "pred": "A"
+    },
+    {
+      "id": "q-2097",
+      "gold": "A,D",
+      "pred": "D"
+    },
+    {
+      "id": "q-2099",
+      "gold": "A,B,D",
+      "pred": "A,B"
+    },
+    {
+      "id": "q-2118",
+      "gold": "A,B,D",
+      "pred": "A"
+    },
+    {
+      "id": "q-2126",
+      "gold": "B,D",
+      "pred": "D"
+    },
+    {
+      "id": "q-2129",
+      "gold": "A,B,D",
+      "pred": "A"
+    },
+    {
+      "id": "q-2130",
+      "gold": "A,B,D",
+      "pred": "A,B"
+    },
+    {
+      "id": "q-2135",
+      "gold": "A,C,D",
+      "pred": "A"
+    },
+    {
+      "id": "q-2142",
+      "gold": "B,C",
+      "pred": "C"
+    },
+    {
+      "id": "q-2148",
+      "gold": "A,C,D",
+      "pred": "A"
+    },
+    {
+      "id": "q-2151",
+      "gold": "B,C,D",
+      "pred": "B,D"
+    },
+    {
+      "id": "q-2156",
+      "gold": "B,D",
+      "pred": "B"
+    },
+    {
+      "id": "q-2158",
+      "gold": "C,D",
+      "pred": "D"
+    },
+    {
+      "id": "q-2167",
+      "gold": "A,C",
+      "pred": "A"
+    },
+    {
+      "id": "q-2171",
+      "gold": "A,B,C",
+      "pred": "A"
+    },
+    {
+      "id": "q-2179",
+      "gold": "A,C,D",
+      "pred": "D"
+    },
+    {
+      "id": "q-2180",
+      "gold": "A,B,C",
+      "pred": "A,B"
+    },
+    {
+      "id": "q-2184",
+      "gold": "A,B,C",
+      "pred": "A"
+    },
+    {
+      "id": "q-2190",
+      "gold": "A,C",
+      "pred": "A"
+    },
+    {
+      "id": "q-2195",
+      "gold": "B,C",
+      "pred": "C"
+    },
+    {
+      "id": "q-2210",
+      "gold": "B,D",
+      "pred": "B"
+    },
+    {
+      "id": "q-2215",
+      "gold": "A,C,D",
+      "pred": "A,C"
+    },
+    {
+      "id": "q-2226",
+      "gold": "C,D",
+      "pred": "C"
+    },
+    {
+      "id": "q-2231",
+      "gold": "A,C",
+      "pred": "C"
+    },
+    {
+      "id": "q-2232",
+      "gold": "B,C,D",
+      "pred": "B,C"
+    },
+    {
+      "id": "q-2248",
+      "gold": "A,C",
+      "pred": "A"
+    },
+    {
+      "id": "q-2252",
+      "gold": "A,C",
+      "pred": "A"
+    },
+    {
+      "id": "q-2254",
+      "gold": "A,B,D",
+      "pred": "B"
+    },
+    {
+      "id": "q-2263",
+      "gold": "A,B,C",
+      "pred": "A"
+    },
+    {
+      "id": "q-2269",
+      "gold": "A,D",
+      "pred": "A"
+    },
+    {
+      "id": "q-2279",
+      "gold": "A,D",
+      "pred": "A"
+    },
+    {
+      "id": "q-2286",
+      "gold": "B,D",
+      "pred": "D"
+    },
+    {
+      "id": "q-2287",
+      "gold": "A,C,D",
+      "pred": "C"
+    },
+    {
+      "id": "q-2293",
+      "gold": "A,C",
+      "pred": "A"
+    },
+    {
+      "id": "q-2294",
+      "gold": "B,C,D",
+      "pred": "D"
+    },
+    {
+      "id": "q-2299",
+      "gold": "A,C,D",
+      "pred": "A"
+    },
+    {
+      "id": "q-2300",
+      "gold": "A,D",
+      "pred": "D"
+    },
+    {
+      "id": "q-2320",
+      "gold": "A,B,C",
+      "pred": "A,B"
+    },
+    {
+      "id": "q-2322",
+      "gold": "A,C",
+      "pred": "C"
+    },
+    {
+      "id": "q-2326",
+      "gold": "A,B,C",
+      "pred": "A"
+    },
+    {
+      "id": "q-2329",
+      "gold": "B,C,D",
+      "pred": "B,D"
+    },
+    {
+      "id": "q-2335",
+      "gold": "A,B,D",
+      "pred": "A,D"
+    },
+    {
+      "id": "q-2342",
+      "gold": "A,B",
+      "pred": "A"
+    },
+    {
+      "id": "q-2346",
+      "gold": "A,B,D",
+      "pred": "A,D"
+    },
+    {
+      "id": "q-2347",
+      "gold": "A,C",
+      "pred": "C"
+    },
+    {
+      "id": "q-2357",
+      "gold": "A,B",
+      "pred": "A"
+    },
+    {
+      "id": "q-2362",
+      "gold": "A,B",
+      "pred": "A"
+    },
+    {
+      "id": "q-2365",
+      "gold": "A,B",
+      "pred": "B"
+    },
+    {
+      "id": "q-2367",
+      "gold": "A,B,D",
+      "pred": "A"
+    },
+    {
+      "id": "q-2370",
+      "gold": "A,B,D",
+      "pred": "A,D"
+    },
+    {
+      "id": "q-2376",
+      "gold": "A,C,D",
+      "pred": "A,C"
+    },
+    {
+      "id": "q-2385",
+      "gold": "A,B,C",
+      "pred": "A"
+    },
+    {
+      "id": "q-2395",
+      "gold": "A,B,D",
+      "pred": "A,D"
+    },
+    {
+      "id": "q-2400",
+      "gold": "C,D",
+      "pred": "D"
+    },
+    {
+      "id": "q-2404",
+      "gold": "A,D",
+      "pred": "A"
+    },
+    {
+      "id": "q-2407",
+      "gold": "B,C",
+      "pred": "B"
+    },
+    {
+      "id": "q-2413",
+      "gold": "B,C,D",
+      "pred": "C,D"
+    },
+    {
+      "id": "q-2414",
+      "gold": "A,B,C",
+      "pred": "A,C"
+    }
+  ],
+  "over_predict_errors": [
+    {
+      "id": "q-2028",
+      "gold": "A",
+      "pred": "A,D"
+    },
+    {
+      "id": "q-2032",
+      "gold": "B,C",
+      "pred": "A,B,C"
+    },
+    {
+      "id": "q-2066",
+      "gold": "C,D",
+      "pred": "B,C,D"
+    },
+    {
+      "id": "q-2074",
+      "gold": "D",
+      "pred": "C,D"
+    },
+    {
+      "id": "q-2076",
+      "gold": "D",
+      "pred": "C,D"
+    },
+    {
+      "id": "q-2093",
+      "gold": "B,D",
+      "pred": "A,B,D"
+    },
+    {
+      "id": "q-2108",
+      "gold": "B",
+      "pred": "A,B"
+    },
+    {
+      "id": "q-2110",
+      "gold": "C",
+      "pred": "C,D"
+    },
+    {
+      "id": "q-2131",
+      "gold": "D",
+      "pred": "C,D"
+    },
+    {
+      "id": "q-2134",
+      "gold": "C",
+      "pred": "B,C"
+    },
+    {
+      "id": "q-2145",
+      "gold": "B",
+      "pred": "B,C"
+    },
+    {
+      "id": "q-2147",
+      "gold": "A",
+      "pred": "A,C"
+    },
+    {
+      "id": "q-2182",
+      "gold": "C",
+      "pred": "C,D"
+    },
+    {
+      "id": "q-2192",
+      "gold": "A",
+      "pred": "A,C"
+    },
+    {
+      "id": "q-2200",
+      "gold": "B",
+      "pred": "B,D"
+    },
+    {
+      "id": "q-2202",
+      "gold": "B",
+      "pred": "B,C"
+    },
+    {
+      "id": "q-2212",
+      "gold": "D",
+      "pred": "B,D"
+    },
+    {
+      "id": "q-2225",
+      "gold": "C",
+      "pred": "A,B,C"
+    },
+    {
+      "id": "q-2242",
+      "gold": "C",
+      "pred": "B,C"
+    },
+    {
+      "id": "q-2259",
+      "gold": "B",
+      "pred": "B,D"
+    },
+    {
+      "id": "q-2264",
+      "gold": "A",
+      "pred": "A,C"
+    },
+    {
+      "id": "q-2282",
+      "gold": "A",
+      "pred": "A,B"
+    },
+    {
+      "id": "q-2305",
+      "gold": "D",
+      "pred": "C,D"
+    },
+    {
+      "id": "q-2314",
+      "gold": "D",
+      "pred": "A,D"
+    },
+    {
+      "id": "q-2324",
+      "gold": "B",
+      "pred": "B,D"
+    },
+    {
+      "id": "q-2328",
+      "gold": "A",
+      "pred": "A,B"
+    },
+    {
+      "id": "q-2334",
+      "gold": "B",
+      "pred": "B,C"
+    },
+    {
+      "id": "q-2336",
+      "gold": "C",
+      "pred": "B,C"
+    },
+    {
+      "id": "q-2349",
+      "gold": "B,C",
+      "pred": "B,C,D"
+    },
+    {
+      "id": "q-2356",
+      "gold": "D",
+      "pred": "C,D"
+    },
+    {
+      "id": "q-2358",
+      "gold": "D",
+      "pred": "B,D"
+    },
+    {
+      "id": "q-2366",
+      "gold": "A",
+      "pred": "A,B"
+    },
+    {
+      "id": "q-2375",
+      "gold": "C",
+      "pred": "C,D"
+    },
+    {
+      "id": "q-2380",
+      "gold": "C",
+      "pred": "C,D"
+    },
+    {
+      "id": "q-2381",
+      "gold": "B,C",
+      "pred": "A,B,C,D"
+    },
+    {
+      "id": "q-2382",
+      "gold": "C",
+      "pred": "C,D"
+    },
+    {
+      "id": "q-2405",
+      "gold": "A",
+      "pred": "A,B"
+    }
+  ]
+}

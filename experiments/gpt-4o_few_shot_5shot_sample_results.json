@@ -1,0 +1,231 @@
+{
+  "config": {
+    "model": "gpt-4o",
+    "prompt_type": "few_shot",
+    "n_examples": 5,
+    "split": "sample",
+    "num_samples": 30
+  },
+  "metrics": {
+    "average_score": 0.6666666666666666,
+    "full_match": 18,
+    "partial_match": 4,
+    "incorrect": 8,
+    "total": 30,
+    "full_match_rate": 0.6,
+    "partial_match_rate": 0.13333333333333333,
+    "incorrect_rate": 0.26666666666666666
+  },
+  "predictions": [
+    {
+      "id": "q-1",
+      "target_event": "Videos of the assassination circulated on social media.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-2",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "prediction": "B,D",
+      "gold": "C",
+      "response": "B,D"
+    },
+    {
+      "id": "q-3",
+      "target_event": "The impeachment motion against President Yoon failed.",
+      "prediction": "A",
+      "gold": "B",
+      "response": "A"
+    },
+    {
+      "id": "q-4",
+      "target_event": "Social media companies removed harmful content.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-5",
+      "target_event": "On November 10, Musk stated bankruptcy was possible for Twitter if it didn't increase revenue.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-6",
+      "target_event": "President Trump announced a plan to impose additional 25% tariffs on Canadian steel and aluminum imports.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-7",
+      "target_event": "South Korea\u2019s parliament voted to impeach President Yoon Suk Yeol.",
+      "prediction": "D",
+      "gold": "B,D",
+      "response": "D"
+    },
+    {
+      "id": "q-8",
+      "target_event": "Ontario placed a 25% tax on electricity exports to the U.S.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-9",
+      "target_event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-10",
+      "target_event": "Capitol Police Chief Steven Sund, House Sergeant at Arms Paul Irving, and Senate Sergeant at Arms Michael Stenger resigned.",
+      "prediction": "B",
+      "gold": "A,C",
+      "response": "B"
+    },
+    {
+      "id": "q-11",
+      "target_event": "Authorities in Myanmar and Thailand declared a state of emergency.",
+      "prediction": "A,B",
+      "gold": "A,D",
+      "response": "A,B"
+    },
+    {
+      "id": "q-12",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "prediction": "A,C",
+      "gold": "A",
+      "response": "A,C"
+    },
+    {
+      "id": "q-13",
+      "target_event": "Elon Musk gained full command of the federal cost-cutting effort.",
+      "prediction": "A,C",
+      "gold": "A",
+      "response": "A,C"
+    },
+    {
+      "id": "q-14",
+      "target_event": "Northern Ireland and Scotland voted to remain in the EU.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-15",
+      "target_event": "The US Senate will likely vote on Wednesday on a bill to halt Trump\u2019s tariffs on Canadian imports.",
+      "prediction": "A,C,D",
+      "gold": "A,C,D",
+      "response": "A,C,D"
+    },
+    {
+      "id": "q-16",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-17",
+      "target_event": "Musk allies took top positions in federal agencies.",
+      "prediction": "C",
+      "gold": "D",
+      "response": "C"
+    },
+    {
+      "id": "q-18",
+      "target_event": "Mr. Musk stated DOGE participants will not be paid and requested they work 80-hour weeks.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-19",
+      "target_event": "The coronavirus pandemic halted the global economy.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    },
+    {
+      "id": "q-20",
+      "target_event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "prediction": "A,B",
+      "gold": "A,B,C",
+      "response": "A,B"
+    },
+    {
+      "id": "q-21",
+      "target_event": "David Cameron announced his resignation as Prime Minister.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-22",
+      "target_event": "Lockdowns obstructed agricultural flow, resulting in hiked food prices, food shortages, malnutrition, and deaths.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A,C"
+    },
+    {
+      "id": "q-23",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "A,D"
+    },
+    {
+      "id": "q-24",
+      "target_event": "The FBI and ATF cleared the Capitol.",
+      "prediction": "B,C",
+      "gold": "A",
+      "response": "B,C"
+    },
+    {
+      "id": "q-25",
+      "target_event": "Democrats won statewide offices in Arizona, North Carolina, Wisconsin, and Michigan.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-26",
+      "target_event": "By April 3, 2025, the death toll from the earthquake reached 4,390 in Myanmar, with over 5,490 injured.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-27",
+      "target_event": "The British pound plunged in value.",
+      "prediction": "B",
+      "gold": "B,D",
+      "response": "B"
+    },
+    {
+      "id": "q-28",
+      "target_event": "The Capitol was secured, and lawmakers reconvened to continue certification.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-29",
+      "target_event": "The British pound plunged in value.",
+      "prediction": "B",
+      "gold": "B,C",
+      "response": "B"
+    },
+    {
+      "id": "q-30",
+      "target_event": "Northern Ireland and Scotland voted to remain in the EU.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    }
+  ]
+}

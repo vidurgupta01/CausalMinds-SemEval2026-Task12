@@ -1,0 +1,85 @@
+{
+  "config": {
+    "model": "o1",
+    "split": "sample",
+    "num_samples": 10
+  },
+  "metrics": {
+    "average_score": 0.15,
+    "full_match": 1,
+    "partial_match": 1,
+    "incorrect": 8
+  },
+  "predictions": [
+    {
+      "id": "q-1",
+      "pred": "A",
+      "gold": "D",
+      "response": "",
+      "score": 0.0
+    },
+    {
+      "id": "q-2",
+      "pred": "A",
+      "gold": "C",
+      "response": "",
+      "score": 0.0
+    },
+    {
+      "id": "q-3",
+      "pred": "A",
+      "gold": "B",
+      "response": "",
+      "score": 0.0
+    },
+    {
+      "id": "q-4",
+      "pred": "A",
+      "gold": "D",
+      "response": "",
+      "score": 0.0
+    },
+    {
+      "id": "q-5",
+      "pred": "A",
+      "gold": "C",
+      "response": "",
+      "score": 0.0
+    },
+    {
+      "id": "q-6",
+      "pred": "A",
+      "gold": "C",
+      "response": "",
+      "score": 0.0
+    },
+    {
+      "id": "q-7",
+      "pred": "A",
+      "gold": "B,D",
+      "response": "",
+      "score": 0.0
+    },
+    {
+      "id": "q-8",
+      "pred": "A",
+      "gold": "A",
+      "response": "",
+      "score": 1.0
+    },
+    {
+      "id": "q-9",
+      "pred": "A",
+      "gold": "D",
+      "response": "",
+      "score": 0.0
+    },
+    {
+      "id": "q-10",
+      "pred": "A",
+      "gold": "A,C",
+      "response": "",
+      "score": 0.5
+    }
+  ]
+}

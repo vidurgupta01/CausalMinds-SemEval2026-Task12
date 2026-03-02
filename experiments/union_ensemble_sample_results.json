@@ -1,0 +1,507 @@
+{
+  "avg_baseline": 0.59,
+  "avg_rag": 0.67,
+  "avg_union": 0.57,
+  "results": [
+    {
+      "id": "q-1",
+      "baseline": "D",
+      "rag": "D",
+      "union": "D",
+      "gold": "D",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-2",
+      "baseline": "C",
+      "rag": "C",
+      "union": "C",
+      "gold": "C",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-3",
+      "baseline": "B",
+      "rag": "B",
+      "union": "B",
+      "gold": "B",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-4",
+      "baseline": "D",
+      "rag": "D",
+      "union": "D",
+      "gold": "D",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-5",
+      "baseline": "C",
+      "rag": "C",
+      "union": "C",
+      "gold": "C",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-6",
+      "baseline": "C",
+      "rag": "C",
+      "union": "C",
+      "gold": "C",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-7",
+      "baseline": "D",
+      "rag": "D",
+      "union": "D",
+      "gold": "B,D",
+      "score_baseline": 0.5,
+      "score_rag": 0.5,
+      "score_union": 0.5
+    },
+    {
+      "id": "q-8",
+      "baseline": "A",
+      "rag": "A",
+      "union": "A",
+      "gold": "A",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-9",
+      "baseline": "D",
+      "rag": "D",
+      "union": "D",
+      "gold": "D",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-10",
+      "baseline": "B",
+      "rag": "B",
+      "union": "B",
+      "gold": "A,C",
+      "score_baseline": 0.0,
+      "score_rag": 0.0,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-11",
+      "baseline": "A",
+      "rag": "A",
+      "union": "A",
+      "gold": "A,D",
+      "score_baseline": 0.5,
+      "score_rag": 0.5,
+      "score_union": 0.5
+    },
+    {
+      "id": "q-12",
+      "baseline": "A",
+      "rag": "D",
+      "union": "A,D",
+      "gold": "A",
+      "score_baseline": 1.0,
+      "score_rag": 0.0,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-13",
+      "baseline": "A,C",
+      "rag": "B",
+      "union": "A,B,C",
+      "gold": "A",
+      "score_baseline": 0.0,
+      "score_rag": 0.0,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-14",
+      "baseline": "C,D",
+      "rag": "C",
+      "union": "C,D",
+      "gold": "C",
+      "score_baseline": 0.0,
+      "score_rag": 1.0,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-15",
+      "baseline": "A,D",
+      "rag": "A,D",
+      "union": "A,D",
+      "gold": "A,C,D",
+      "score_baseline": 0.5,
+      "score_rag": 0.5,
+      "score_union": 0.5
+    },
+    {
+      "id": "q-16",
+      "baseline": "B",
+      "rag": "B",
+      "union": "B",
+      "gold": "B",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-17",
+      "baseline": "C",
+      "rag": "C",
+      "union": "C",
+      "gold": "D",
+      "score_baseline": 0.0,
+      "score_rag": 0.0,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-18",
+      "baseline": "B,D",
+      "rag": "B",
+      "union": "B,D",
+      "gold": "B",
+      "score_baseline": 0.0,
+      "score_rag": 1.0,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-19",
+      "baseline": "A,B",
+      "rag": "A",
+      "union": "A,B",
+      "gold": "A",
+      "score_baseline": 0.0,
+      "score_rag": 1.0,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-20",
+      "baseline": "A",
+      "rag": "A",
+      "union": "A",
+      "gold": "A,B,C",
+      "score_baseline": 0.5,
+      "score_rag": 0.5,
+      "score_union": 0.5
+    },
+    {
+      "id": "q-21",
+      "baseline": "B",
+      "rag": "B",
+      "union": "B",
+      "gold": "B",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-22",
+      "baseline": "D",
+      "rag": "D",
+      "union": "D",
+      "gold": "A,C",
+      "score_baseline": 0.0,
+      "score_rag": 0.0,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-23",
+      "baseline": "A,D",
+      "rag": "D",
+      "union": "A,D",
+      "gold": "A,D",
+      "score_baseline": 1.0,
+      "score_rag": 0.5,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-24",
+      "baseline": "B,C",
+      "rag": "A",
+      "union": "A,B,C",
+      "gold": "A",
+      "score_baseline": 0.0,
+      "score_rag": 1.0,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-25",
+      "baseline": "B",
+      "rag": "B",
+      "union": "B",
+      "gold": "B",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-26",
+      "baseline": "C",
+      "rag": "C",
+      "union": "C",
+      "gold": "C",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-27",
+      "baseline": "D",
+      "rag": "B,D",
+      "union": "B,D",
+      "gold": "B,D",
+      "score_baseline": 0.5,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-28",
+      "baseline": "D",
+      "rag": "D",
+      "union": "D",
+      "gold": "D",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-29",
+      "baseline": "B",
+      "rag": "B",
+      "union": "B",
+      "gold": "B,C",
+      "score_baseline": 0.5,
+      "score_rag": 0.5,
+      "score_union": 0.5
+    },
+    {
+      "id": "q-30",
+      "baseline": "A,B,C",
+      "rag": "D",
+      "union": "A,B,C,D",
+      "gold": "A",
+      "score_baseline": 0.0,
+      "score_rag": 0.0,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-31",
+      "baseline": "C",
+      "rag": "D",
+      "union": "C,D",
+      "gold": "A",
+      "score_baseline": 0.0,
+      "score_rag": 0.0,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-32",
+      "baseline": "D",
+      "rag": "B",
+      "union": "B,D",
+      "gold": "D",
+      "score_baseline": 1.0,
+      "score_rag": 0.0,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-33",
+      "baseline": "A,C,D",
+      "rag": "A",
+      "union": "A,C,D",
+      "gold": "A,C",
+      "score_baseline": 0.0,
+      "score_rag": 0.5,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-34",
+      "baseline": "C",
+      "rag": "C",
+      "union": "C",
+      "gold": "C",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-35",
+      "baseline": "B",
+      "rag": "B",
+      "union": "B",
+      "gold": "B",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-36",
+      "baseline": "B",
+      "rag": "B",
+      "union": "B",
+      "gold": "B",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-37",
+      "baseline": "B",
+      "rag": "B",
+      "union": "B",
+      "gold": "B",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-38",
+      "baseline": "D",
+      "rag": "D",
+      "union": "D",
+      "gold": "B,D",
+      "score_baseline": 0.5,
+      "score_rag": 0.5,
+      "score_union": 0.5
+    },
+    {
+      "id": "q-39",
+      "baseline": "A,B",
+      "rag": "A",
+      "union": "A,B",
+      "gold": "A,B,C",
+      "score_baseline": 0.5,
+      "score_rag": 0.5,
+      "score_union": 0.5
+    },
+    {
+      "id": "q-40",
+      "baseline": "D",
+      "rag": "A,D",
+      "union": "A,D",
+      "gold": "A,B",
+      "score_baseline": 0.0,
+      "score_rag": 0.0,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-41",
+      "baseline": "B",
+      "rag": "B",
+      "union": "B",
+      "gold": "A,B,C",
+      "score_baseline": 0.5,
+      "score_rag": 0.5,
+      "score_union": 0.5
+    },
+    {
+      "id": "q-42",
+      "baseline": "C",
+      "rag": "C",
+      "union": "C",
+      "gold": "C",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-43",
+      "baseline": "A",
+      "rag": "A",
+      "union": "A",
+      "gold": "A",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-44",
+      "baseline": "D",
+      "rag": "D",
+      "union": "D",
+      "gold": "D",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-45",
+      "baseline": "C",
+      "rag": "B",
+      "union": "B,C",
+      "gold": "B,C",
+      "score_baseline": 0.5,
+      "score_rag": 0.5,
+      "score_union": 1.0
+    },
+    {
+      "id": "q-46",
+      "baseline": "B",
+      "rag": "B",
+      "union": "B",
+      "gold": "A,B,C",
+      "score_baseline": 0.5,
+      "score_rag": 0.5,
+      "score_union": 0.5
+    },
+    {
+      "id": "q-47",
+      "baseline": "C,D",
+      "rag": "C",
+      "union": "C,D",
+      "gold": "C",
+      "score_baseline": 0.0,
+      "score_rag": 1.0,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-48",
+      "baseline": "C,D",
+      "rag": "C",
+      "union": "C,D",
+      "gold": "B,C",
+      "score_baseline": 0.0,
+      "score_rag": 0.5,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-49",
+      "baseline": "A",
+      "rag": "A",
+      "union": "A",
+      "gold": "B",
+      "score_baseline": 0.0,
+      "score_rag": 0.0,
+      "score_union": 0.0
+    },
+    {
+      "id": "q-50",
+      "baseline": "A",
+      "rag": "A",
+      "union": "A",
+      "gold": "A",
+      "score_baseline": 1.0,
+      "score_rag": 1.0,
+      "score_union": 1.0
+    }
+  ]
+}

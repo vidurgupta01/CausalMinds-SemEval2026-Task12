@@ -1,0 +1,5611 @@
+{
+  "models": [
+    "original_ft",
+    "augmented_ft",
+    "combined3ep_ft"
+  ],
+  "split": "dev",
+  "avg_score": 0.9925,
+  "results": [
+    {
+      "id": "q-2020",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2021",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2022",
+      "ensemble_pred": "B",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2023",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2024",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2025",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2026",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2027",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2028",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2029",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D",
+      "gold": "A,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2030",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D",
+      "gold": "A,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2031",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 0.5
+      }
+    },
+    {
+      "id": "q-2032",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2033",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D",
+      "gold": "A,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2034",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2035",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D",
+      "gold": "A,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2036",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2037",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2038",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2039",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2040",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2041",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2042",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2043",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2044",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2045",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2046",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2047",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2048",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2049",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2050",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2051",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2052",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2053",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2054",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2055",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2056",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2057",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2058",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2059",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2060",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2061",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2062",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2063",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2064",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2065",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2066",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2067",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2068",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2069",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2070",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2071",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2072",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2073",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2074",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2075",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2076",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2077",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2078",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2079",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2080",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2081",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2082",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2083",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2084",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2085",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2086",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2087",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2088",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2089",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2090",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 0.5
+      }
+    },
+    {
+      "id": "q-2091",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2092",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2093",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2094",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2095",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2096",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2097",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2098",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2099",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D",
+      "gold": "A,B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2100",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2101",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2102",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2103",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2104",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2105",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2106",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2107",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2108",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2109",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2110",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2111",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2112",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2113",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2114",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2115",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2116",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2117",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2118",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D",
+      "gold": "A,B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2119",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2120",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2121",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2122",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D",
+      "gold": "A,B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2123",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2124",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2125",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2126",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2127",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2128",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2129",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D",
+      "gold": "A,B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2130",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D",
+      "gold": "A,B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2131",
+      "ensemble_pred": "D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2132",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2133",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2134",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2135",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D",
+      "gold": "A,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2136",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2137",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2138",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2139",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2140",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 0.5
+      }
+    },
+    {
+      "id": "q-2141",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2142",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "B,C",
+      "score": 0.5,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 0.5,
+        "combined3ep_ft": 0.5
+      }
+    },
+    {
+      "id": "q-2143",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2144",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2145",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2146",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2147",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2148",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D",
+      "gold": "A,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2149",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2150",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2151",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "B,C,D",
+      "pred_augmented_ft": "B,C,D",
+      "pred_combined3ep_ft": "B,C,D",
+      "gold": "B,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2152",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2153",
+      "ensemble_pred": "D",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2154",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2155",
+      "ensemble_pred": "B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2156",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2157",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2158",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2159",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2160",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2161",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2162",
+      "ensemble_pred": "D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2163",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "A",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 0.0
+      }
+    },
+    {
+      "id": "q-2164",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2165",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2166",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2167",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2168",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2169",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2170",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2171",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2172",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2173",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2174",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2175",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2176",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2177",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2178",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2179",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D",
+      "gold": "A,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2180",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2181",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2182",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2183",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2184",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2185",
+      "ensemble_pred": "A",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2186",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2187",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2188",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2189",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2190",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2191",
+      "ensemble_pred": "D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2192",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2193",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2194",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 0.5
+      }
+    },
+    {
+      "id": "q-2195",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2196",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2197",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2198",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2199",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2200",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2201",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2202",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2203",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2204",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B",
+      "gold": "B,D",
+      "score": 0.5,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 0.5
+      }
+    },
+    {
+      "id": "q-2205",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2206",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2207",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2208",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2209",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2210",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 0.5,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2211",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2212",
+      "ensemble_pred": "D",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2213",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2214",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2215",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D",
+      "gold": "A,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2216",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2217",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2218",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2219",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2220",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2221",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2222",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2223",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2224",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2225",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2226",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2227",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2228",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2229",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2230",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "A,D",
+      "score": 0.0,
+      "individual_scores": {
+        "original_ft": 0.0,
+        "augmented_ft": 0.0,
+        "combined3ep_ft": 0.0
+      }
+    },
+    {
+      "id": "q-2231",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2232",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "B,C,D",
+      "pred_augmented_ft": "B,C,D",
+      "pred_combined3ep_ft": "B,C,D",
+      "gold": "B,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2233",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 0.5,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2234",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2235",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D",
+      "gold": "A,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2236",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2237",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2238",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2239",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2240",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2241",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2242",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2243",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2244",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2245",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2246",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2247",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2248",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2249",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C,D",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2250",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2251",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2252",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2253",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2254",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D",
+      "gold": "A,B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2255",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2256",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2257",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2258",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2259",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2260",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2261",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2262",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2263",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2264",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2265",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2266",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D",
+      "gold": "A,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2267",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2268",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2269",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2270",
+      "ensemble_pred": "C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2271",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2272",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2273",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2274",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2275",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2276",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2277",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2278",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2279",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2280",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2281",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2282",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2283",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2284",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2285",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2286",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "B,D",
+      "score": 0.5,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 0.5,
+        "combined3ep_ft": 0.5
+      }
+    },
+    {
+      "id": "q-2287",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 0.5
+      }
+    },
+    {
+      "id": "q-2288",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2289",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2290",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2291",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2292",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2293",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2294",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "B,C,D",
+      "pred_augmented_ft": "B,C,D",
+      "pred_combined3ep_ft": "B,C,D",
+      "gold": "B,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2295",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2296",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2297",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2298",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2299",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D",
+      "gold": "A,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2300",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2301",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2302",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2303",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2304",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "A,B,C,D",
+      "pred_augmented_ft": "B,C,D",
+      "pred_combined3ep_ft": "B,C,D",
+      "gold": "B,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2305",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2306",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "B,C,D",
+      "pred_augmented_ft": "B,C,D",
+      "pred_combined3ep_ft": "B,C,D",
+      "gold": "B,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2307",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2308",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2309",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2310",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2311",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2312",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2313",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2314",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2315",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2316",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2317",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2318",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2319",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2320",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2321",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2322",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 0.5,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2323",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2324",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2325",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2326",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2327",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 0.5
+      }
+    },
+    {
+      "id": "q-2328",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2329",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "B,C,D",
+      "pred_augmented_ft": "B,C,D",
+      "pred_combined3ep_ft": "B,C,D",
+      "gold": "B,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2330",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2331",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 0.5
+      }
+    },
+    {
+      "id": "q-2332",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2333",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2334",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2335",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D",
+      "gold": "A,B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2336",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2337",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2338",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2339",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2340",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2341",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "B,C,D",
+      "pred_augmented_ft": "B,C,D",
+      "pred_combined3ep_ft": "B,C,D",
+      "gold": "B,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2342",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2343",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2344",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2345",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2346",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D",
+      "gold": "A,B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2347",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2348",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D",
+      "gold": "A,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2349",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2350",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2351",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2352",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "B,C,D",
+      "pred_augmented_ft": "B,C,D",
+      "pred_combined3ep_ft": "B,C,D",
+      "gold": "B,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2353",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2354",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2355",
+      "ensemble_pred": "D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2356",
+      "ensemble_pred": "D",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2357",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2358",
+      "ensemble_pred": "D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2359",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2360",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2361",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2362",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2363",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "B,C,D",
+      "pred_augmented_ft": "B,C,D",
+      "pred_combined3ep_ft": "B,C,D",
+      "gold": "B,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2364",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2365",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2366",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 0.5
+      }
+    },
+    {
+      "id": "q-2367",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D",
+      "gold": "A,B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2368",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2369",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2370",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D",
+      "gold": "A,B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2371",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2372",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2373",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2374",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "B,C,D",
+      "pred_augmented_ft": "B,C,D",
+      "pred_combined3ep_ft": "B,C,D",
+      "gold": "B,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2375",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2376",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,B,C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "A,C,D",
+      "gold": "A,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 0.5,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2377",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2378",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2379",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2380",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2381",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2382",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2383",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2384",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2385",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2386",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2387",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2388",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2389",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2390",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2391",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2392",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C",
+      "gold": "A,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2393",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2394",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2395",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D",
+      "gold": "A,B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2396",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2397",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2398",
+      "ensemble_pred": "B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2399",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2400",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D",
+      "gold": "C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2401",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2402",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2403",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2404",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D",
+      "gold": "A,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2405",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2406",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2407",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C",
+      "gold": "B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2408",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2409",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B",
+      "gold": "A,B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.5,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2410",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2411",
+      "ensemble_pred": "A",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2412",
+      "ensemble_pred": "B",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B",
+      "gold": "B",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 0.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2413",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "B,C,D",
+      "pred_augmented_ft": "B,C,D",
+      "pred_combined3ep_ft": "B,C,D",
+      "gold": "B,C,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2414",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2415",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C",
+      "gold": "C",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2416",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2417",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A",
+      "gold": "A",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2418",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D",
+      "gold": "D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    },
+    {
+      "id": "q-2419",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D",
+      "gold": "B,D",
+      "score": 1.0,
+      "individual_scores": {
+        "original_ft": 1.0,
+        "augmented_ft": 1.0,
+        "combined3ep_ft": 1.0
+      }
+    }
+  ]
+}

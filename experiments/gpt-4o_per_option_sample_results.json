@@ -1,0 +1,740 @@
+{
+  "config": {
+    "model": "gpt-4o",
+    "method": "per_option",
+    "split": "sample",
+    "num_samples": 30
+  },
+  "metrics": {
+    "average_score": 0.5833333333333334,
+    "full_match": 16,
+    "partial_match": 3,
+    "incorrect": 11,
+    "total": 30,
+    "full_match_rate": 0.5333333333333333,
+    "partial_match_rate": 0.1,
+    "incorrect_rate": 0.36666666666666664
+  },
+  "predictions": [
+    {
+      "id": "q-1",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "A",
+      "gold": "D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "A",
+      "gold": "C",
+      "score": 0.0
+    },
+    {
+      "id": "q-3",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "A",
+      "gold": "B",
+      "score": 0.0
+    },
+    {
+      "id": "q-4",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "YES",
+          "is_cause": true
+        }
+      },
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-5",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "A",
+      "gold": "C",
+      "score": 0.0
+    },
+    {
+      "id": "q-6",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-7",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "YES",
+          "is_cause": true
+        }
+      },
+      "pred": "D",
+      "gold": "B,D",
+      "score": 0.5
+    },
+    {
+      "id": "q-8",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-9",
+      "option_responses": {
+        "A": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "D": {
+          "response": "YES",
+          "is_cause": true
+        }
+      },
+      "pred": "A,C,D",
+      "gold": "D",
+      "score": 0.0
+    },
+    {
+      "id": "q-10",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "A",
+      "gold": "A,C",
+      "score": 0.5
+    },
+    {
+      "id": "q-11",
+      "option_responses": {
+        "A": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "A",
+      "gold": "A,D",
+      "score": 0.5
+    },
+    {
+      "id": "q-12",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-13",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-14",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-15",
+      "option_responses": {
+        "A": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "D": {
+          "response": "YES",
+          "is_cause": true
+        }
+      },
+      "pred": "A,C,D",
+      "gold": "A,C,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-16",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "B",
+      "gold": "B",
+      "score": 1.0
+    },
+    {
+      "id": "q-17",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "A",
+      "gold": "D",
+      "score": 0.0
+    },
+    {
+      "id": "q-18",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "A",
+      "gold": "B",
+      "score": 0.0
+    },
+    {
+      "id": "q-19",
+      "option_responses": {
+        "A": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-20",
+      "option_responses": {
+        "A": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "B": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "C": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "A,B,C",
+      "gold": "A,B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-21",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "C": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "B,C",
+      "gold": "B",
+      "score": 0.0
+    },
+    {
+      "id": "q-22",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "YES",
+          "is_cause": true
+        }
+      },
+      "pred": "D",
+      "gold": "A,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-23",
+      "option_responses": {
+        "A": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "YES",
+          "is_cause": true
+        }
+      },
+      "pred": "A,D",
+      "gold": "A,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-24",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "C": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "B,C",
+      "gold": "A",
+      "score": 0.0
+    },
+    {
+      "id": "q-25",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "A",
+      "gold": "B",
+      "score": 0.0
+    },
+    {
+      "id": "q-26",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "C",
+      "gold": "C",
+      "score": 1.0
+    },
+    {
+      "id": "q-27",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "YES",
+          "is_cause": true
+        }
+      },
+      "pred": "B,D",
+      "gold": "B,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-28",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "YES",
+          "is_cause": true
+        }
+      },
+      "pred": "D",
+      "gold": "D",
+      "score": 1.0
+    },
+    {
+      "id": "q-29",
+      "option_responses": {
+        "A": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "B": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "C": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "B,C",
+      "gold": "B,C",
+      "score": 1.0
+    },
+    {
+      "id": "q-30",
+      "option_responses": {
+        "A": {
+          "response": "YES",
+          "is_cause": true
+        },
+        "B": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "C": {
+          "response": "NO",
+          "is_cause": false
+        },
+        "D": {
+          "response": "NO",
+          "is_cause": false
+        }
+      },
+      "pred": "A",
+      "gold": "A",
+      "score": 1.0
+    }
+  ]
+}

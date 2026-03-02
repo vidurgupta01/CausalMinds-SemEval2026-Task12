@@ -1,0 +1,812 @@
+{
+  "persona": {
+    "metrics": {
+      "avg": 0.7166666666666667,
+      "full": 19,
+      "partial": 5,
+      "wrong": 6
+    },
+    "results": [
+      {
+        "id": "q-1",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-3",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-4",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-5",
+        "domain": "economist",
+        "gold": "C",
+        "pred": "D",
+        "score": 0.0
+      },
+      {
+        "id": "q-6",
+        "domain": "economist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-7",
+        "domain": "political_analyst",
+        "gold": "B,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-8",
+        "domain": "economist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-9",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-10",
+        "domain": "political_analyst",
+        "gold": "A,C",
+        "pred": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-11",
+        "domain": "crisis_expert",
+        "gold": "A,D",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-12",
+        "domain": "political_analyst",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-13",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-14",
+        "domain": "political_analyst",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-15",
+        "domain": "political_analyst",
+        "gold": "A,C,D",
+        "pred": "A,C,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-16",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-17",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "C",
+        "score": 0.0
+      },
+      {
+        "id": "q-18",
+        "domain": "journalist",
+        "gold": "B",
+        "pred": "B,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-19",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-20",
+        "domain": "crisis_expert",
+        "gold": "A,B,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-21",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-22",
+        "domain": "economist",
+        "gold": "A,C",
+        "pred": "A,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-23",
+        "domain": "political_analyst",
+        "gold": "A,D",
+        "pred": "A,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-24",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-25",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-26",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-27",
+        "domain": "journalist",
+        "gold": "B,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-28",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-29",
+        "domain": "political_analyst",
+        "gold": "B,C",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-30",
+        "domain": "political_analyst",
+        "gold": "A",
+        "pred": "A,B,C",
+        "score": 0.0
+      }
+    ]
+  },
+  "ensemble": {
+    "metrics": {
+      "avg": 0.48333333333333334,
+      "full": 13,
+      "partial": 3,
+      "wrong": 14
+    },
+    "results": [
+      {
+        "id": "q-1",
+        "individual_preds": [
+          "D",
+          "D",
+          "D",
+          "D"
+        ],
+        "final_pred": "D",
+        "gold": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2",
+        "individual_preds": [
+          "B,D",
+          "C",
+          "C",
+          "D"
+        ],
+        "final_pred": "C,D",
+        "gold": "C",
+        "score": 0.0
+      },
+      {
+        "id": "q-3",
+        "individual_preds": [
+          "A,C",
+          "B",
+          "A",
+          "A,D"
+        ],
+        "final_pred": "A",
+        "gold": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-4",
+        "individual_preds": [
+          "D",
+          "D",
+          "D",
+          "D"
+        ],
+        "final_pred": "D",
+        "gold": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-5",
+        "individual_preds": [
+          "A",
+          "C",
+          "C",
+          "D"
+        ],
+        "final_pred": "C",
+        "gold": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-6",
+        "individual_preds": [
+          "C,D",
+          "C",
+          "C",
+          "C"
+        ],
+        "final_pred": "C",
+        "gold": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-7",
+        "individual_preds": [
+          "A",
+          "D",
+          "C",
+          "C,D"
+        ],
+        "final_pred": "C,D",
+        "gold": "B,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-8",
+        "individual_preds": [
+          "A",
+          "A",
+          "A",
+          "A"
+        ],
+        "final_pred": "A",
+        "gold": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-9",
+        "individual_preds": [
+          "B,D",
+          "D",
+          "D",
+          "D"
+        ],
+        "final_pred": "D",
+        "gold": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-10",
+        "individual_preds": [
+          "B",
+          "B",
+          "B",
+          "B"
+        ],
+        "final_pred": "B",
+        "gold": "A,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-11",
+        "individual_preds": [
+          "A,B",
+          "A,B",
+          "A,B",
+          "A,B,D"
+        ],
+        "final_pred": "A,B",
+        "gold": "A,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-12",
+        "individual_preds": [
+          "A,C,D",
+          "D",
+          "C,D",
+          "A,C"
+        ],
+        "final_pred": "A,C,D",
+        "gold": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-13",
+        "individual_preds": [
+          "A,B,C",
+          "A",
+          "A,B",
+          "A,B"
+        ],
+        "final_pred": "A,B",
+        "gold": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-14",
+        "individual_preds": [
+          "C,D",
+          "C",
+          "C,D",
+          "C,D"
+        ],
+        "final_pred": "C,D",
+        "gold": "C",
+        "score": 0.0
+      },
+      {
+        "id": "q-15",
+        "individual_preds": [
+          "A,C,D",
+          "A,C,D",
+          "A,C,D",
+          "A,C,D"
+        ],
+        "final_pred": "A,C,D",
+        "gold": "A,C,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-16",
+        "individual_preds": [
+          "B",
+          "B",
+          "B",
+          "B"
+        ],
+        "final_pred": "B",
+        "gold": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-17",
+        "individual_preds": [
+          "C",
+          "C",
+          "C",
+          "C"
+        ],
+        "final_pred": "C",
+        "gold": "D",
+        "score": 0.0
+      },
+      {
+        "id": "q-18",
+        "individual_preds": [
+          "B,D",
+          "B",
+          "B,D",
+          "B"
+        ],
+        "final_pred": "B,D",
+        "gold": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-19",
+        "individual_preds": [
+          "B",
+          "A,C,D",
+          "A,B",
+          "A"
+        ],
+        "final_pred": "A,B",
+        "gold": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-20",
+        "individual_preds": [
+          "A,B,C",
+          "A",
+          "A",
+          "A,D"
+        ],
+        "final_pred": "A",
+        "gold": "A,B,C",
+        "score": 0.5
+      },
+      {
+        "id": "q-21",
+        "individual_preds": [
+          "B,C",
+          "B",
+          "B",
+          "B"
+        ],
+        "final_pred": "B",
+        "gold": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-22",
+        "individual_preds": [
+          "A,C,D",
+          "A,C",
+          "A,C",
+          "A,C,D"
+        ],
+        "final_pred": "A,C,D",
+        "gold": "A,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-23",
+        "individual_preds": [
+          "A,D",
+          "A,D",
+          "A,D",
+          "A,D"
+        ],
+        "final_pred": "A,D",
+        "gold": "A,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-24",
+        "individual_preds": [
+          "B,C",
+          "B",
+          "B,C",
+          "B,C"
+        ],
+        "final_pred": "B,C",
+        "gold": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-25",
+        "individual_preds": [
+          "C",
+          "B",
+          "B",
+          "A"
+        ],
+        "final_pred": "B",
+        "gold": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-26",
+        "individual_preds": [
+          "C",
+          "C",
+          "C",
+          "C"
+        ],
+        "final_pred": "C",
+        "gold": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-27",
+        "individual_preds": [
+          "A,B,C",
+          "B",
+          "B",
+          "B,D"
+        ],
+        "final_pred": "B",
+        "gold": "B,D",
+        "score": 0.5
+      },
+      {
+        "id": "q-28",
+        "individual_preds": [
+          "C",
+          "D",
+          "D",
+          "D"
+        ],
+        "final_pred": "D",
+        "gold": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-29",
+        "individual_preds": [
+          "A,B,C,D",
+          "B",
+          "B",
+          "B"
+        ],
+        "final_pred": "B",
+        "gold": "B,C",
+        "score": 0.5
+      },
+      {
+        "id": "q-30",
+        "individual_preds": [
+          "A,B,C",
+          "A",
+          "A,C",
+          "A,D"
+        ],
+        "final_pred": "A,C",
+        "gold": "A",
+        "score": 0.0
+      }
+    ]
+  },
+  "routed": {
+    "metrics": {
+      "avg": 0.6666666666666666,
+      "full": 18,
+      "partial": 4,
+      "wrong": 8
+    },
+    "results": [
+      {
+        "id": "q-1",
+        "strategy": "persona:journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2",
+        "strategy": "elimination",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-3",
+        "strategy": "ensemble",
+        "gold": "B",
+        "pred": "A,C,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-4",
+        "strategy": "persona:journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-5",
+        "strategy": "ensemble",
+        "gold": "C",
+        "pred": "D",
+        "score": 0.0
+      },
+      {
+        "id": "q-6",
+        "strategy": "ensemble",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-7",
+        "strategy": "ensemble",
+        "gold": "B,D",
+        "pred": "C,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-8",
+        "strategy": "persona:economist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-9",
+        "strategy": "persona:journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-10",
+        "strategy": "persona:political_analyst",
+        "gold": "A,C",
+        "pred": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-11",
+        "strategy": "persona:crisis_expert",
+        "gold": "A,D",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-12",
+        "strategy": "persona:political_analyst",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-13",
+        "strategy": "persona:journalist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-14",
+        "strategy": "persona:political_analyst",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-15",
+        "strategy": "persona:political_analyst",
+        "gold": "A,C,D",
+        "pred": "A,C,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-16",
+        "strategy": "persona:political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-17",
+        "strategy": "elimination",
+        "gold": "D",
+        "pred": "C",
+        "score": 0.0
+      },
+      {
+        "id": "q-18",
+        "strategy": "persona:journalist",
+        "gold": "B",
+        "pred": "B,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-19",
+        "strategy": "persona:journalist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-20",
+        "strategy": "persona:crisis_expert",
+        "gold": "A,B,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-21",
+        "strategy": "persona:political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-22",
+        "strategy": "persona:economist",
+        "gold": "A,C",
+        "pred": "A,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-23",
+        "strategy": "persona:political_analyst",
+        "gold": "A,D",
+        "pred": "A,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-24",
+        "strategy": "elimination",
+        "gold": "A",
+        "pred": "B,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-25",
+        "strategy": "elimination",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-26",
+        "strategy": "persona:crisis_expert",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-27",
+        "strategy": "persona:journalist",
+        "gold": "B,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-28",
+        "strategy": "persona:journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-29",
+        "strategy": "persona:political_analyst",
+        "gold": "B,C",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-30",
+        "strategy": "persona:political_analyst",
+        "gold": "A",
+        "pred": "A,B",
+        "score": 0.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "generated": "2026-01-26T03:43:31.476604",
+  "experiments": [
+    {
+      "filename": "gpt-4o_zero_shot_with_docs_dev_results.json",
+      "config": {
+        "model": "gpt-4o",
+        "prompt_type": "zero_shot",
+        "include_docs": true,
+        "split": "dev",
+        "num_samples": 5
+      },
+      "metrics": {
+        "average_score": 0.7,
+        "full_match": 3,
+        "partial_match": 1,
+        "incorrect": 1,
+        "total": 5,
+        "full_match_rate": 0.6,
+        "partial_match_rate": 0.2,
+        "incorrect_rate": 0.2
+      }
+    },
+    {
+      "filename": "gpt-4o_zero_shot_no_docs_dev_results.json",
+      "config": {
+        "model": "gpt-4o",
+        "prompt_type": "zero_shot",
+        "include_docs": false,
+        "split": "dev",
+        "num_samples": 400
+      },
+      "metrics": {
+        "average_score": 0.6825,
+        "full_match": 239,
+        "partial_match": 68,
+        "incorrect": 93,
+        "total": 400,
+        "full_match_rate": 0.5975,
+        "partial_match_rate": 0.17,
+        "incorrect_rate": 0.2325
+      }
+    },
+    {
+      "filename": "gpt-4o_zero_shot_with_docs_sample_results.json",
+      "config": {
+        "model": "gpt-4o",
+        "prompt_type": "zero_shot",
+        "include_docs": true,
+        "split": "sample",
+        "num_samples": 50
+      },
+      "metrics": {
+        "average_score": 0.62,
+        "full_match": 26,
+        "partial_match": 10,
+        "incorrect": 14,
+        "total": 50,
+        "full_match_rate": 0.52,
+        "partial_match_rate": 0.2,
+        "incorrect_rate": 0.28
+      }
+    },
+    {
+      "filename": "gpt-4o_chain_of_thought_no_docs_sample_results.json",
+      "config": {
+        "model": "gpt-4o",
+        "prompt_type": "chain_of_thought",
+        "include_docs": false,
+        "split": "sample",
+        "num_samples": 50
+      },
+      "metrics": {
+        "average_score": 0.65,
+        "full_match": 28,
+        "partial_match": 9,
+        "incorrect": 13,
+        "total": 50,
+        "full_match_rate": 0.56,
+        "partial_match_rate": 0.18,
+        "incorrect_rate": 0.26
+      }
+    },
+    {
+      "filename": "gpt-4o-mini_zero_shot_no_docs_sample_results.json",
+      "config": {
+        "model": "gpt-4o-mini",
+        "prompt_type": "zero_shot",
+        "include_docs": false,
+        "split": "sample",
+        "num_samples": 20
+      },
+      "metrics": {
+        "average_score": 0.425,
+        "full_match": 8,
+        "partial_match": 1,
+        "incorrect": 11,
+        "total": 20,
+        "full_match_rate": 0.4,
+        "partial_match_rate": 0.05,
+        "incorrect_rate": 0.55
+      }
+    }
+  ]
+}

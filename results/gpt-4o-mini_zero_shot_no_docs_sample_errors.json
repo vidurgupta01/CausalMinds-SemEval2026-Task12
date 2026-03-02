@@ -1,0 +1,141 @@
+{
+  "incorrect_examples": [
+    {
+      "id": "q-2",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "prediction": "B,D",
+      "gold": "C",
+      "response": "B,D"
+    },
+    {
+      "id": "q-5",
+      "target_event": "On November 10, Musk stated bankruptcy was possible for Twitter if it didn't increase revenue.",
+      "prediction": "C,D",
+      "gold": "C",
+      "response": "C,D"
+    },
+    {
+      "id": "q-7",
+      "target_event": "South Korea\u2019s parliament voted to impeach President Yoon Suk Yeol.",
+      "prediction": "C",
+      "gold": "B,D",
+      "response": "C"
+    },
+    {
+      "id": "q-9",
+      "target_event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "prediction": "B,C,D",
+      "gold": "D",
+      "response": "B, C, D"
+    },
+    {
+      "id": "q-10",
+      "target_event": "Capitol Police Chief Steven Sund, House Sergeant at Arms Paul Irving, and Senate Sergeant at Arms Michael Stenger resigned.",
+      "prediction": "B",
+      "gold": "A,C",
+      "response": "B"
+    },
+    {
+      "id": "q-11",
+      "target_event": "Authorities in Myanmar and Thailand declared a state of emergency.",
+      "prediction": "B,D",
+      "gold": "A,D",
+      "response": "B,D"
+    },
+    {
+      "id": "q-12",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "prediction": "C,D",
+      "gold": "A",
+      "response": "C, D"
+    },
+    {
+      "id": "q-13",
+      "target_event": "Elon Musk gained full command of the federal cost-cutting effort.",
+      "prediction": "A,D",
+      "gold": "A",
+      "response": "A,D"
+    },
+    {
+      "id": "q-17",
+      "target_event": "Musk allies took top positions in federal agencies.",
+      "prediction": "C",
+      "gold": "D",
+      "response": "C"
+    },
+    {
+      "id": "q-18",
+      "target_event": "Mr. Musk stated DOGE participants will not be paid and requested they work 80-hour weeks.",
+      "prediction": "B,D",
+      "gold": "B",
+      "response": "B,D"
+    }
+  ],
+  "partial_examples": [
+    {
+      "id": "q-15",
+      "target_event": "The US Senate will likely vote on Wednesday on a bill to halt Trump\u2019s tariffs on Canadian imports.",
+      "prediction": "A,D",
+      "gold": "A,C,D",
+      "response": "A,D"
+    }
+  ],
+  "correct_examples": [
+    {
+      "id": "q-1",
+      "target_event": "Videos of the assassination circulated on social media.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-3",
+      "target_event": "The impeachment motion against President Yoon failed.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-4",
+      "target_event": "Social media companies removed harmful content.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "D"
+    },
+    {
+      "id": "q-6",
+      "target_event": "President Trump announced a plan to impose additional 25% tariffs on Canadian steel and aluminum imports.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-8",
+      "target_event": "Ontario placed a 25% tax on electricity exports to the U.S.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "None of the options provided are plausible direct causes for Ontario placing a 25% tax on electricity exports to the U.S. Therefore, the answer is:"
+    },
+    {
+      "id": "q-14",
+      "target_event": "Northern Ireland and Scotland voted to remain in the EU.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-16",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-19",
+      "target_event": "The coronavirus pandemic halted the global economy.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "A"
+    }
+  ]
+}

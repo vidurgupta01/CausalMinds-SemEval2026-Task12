@@ -1,0 +1,40 @@
+# Core ML/NLP
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+accelerate>=0.24.0
+
+# LLM APIs
+openai>=1.0.0
+anthropic>=0.18.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Evaluation
+evaluate>=0.4.0
+rouge-score>=0.1.2
+
+# Retrieval (for RAG approaches)
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.0
+
+# Utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.0  # Load .env file for API keys
+pyyaml>=6.0.0
+jsonlines>=4.0.0
+
+# Experiment tracking
+wandb>=0.16.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Development
+black>=23.0.0
+isort>=5.12.0
+pytest>=7.4.0

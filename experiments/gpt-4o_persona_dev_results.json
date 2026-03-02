@@ -1,0 +1,2812 @@
+{
+  "persona": {
+    "metrics": {
+      "avg": 0.63625,
+      "full": 196,
+      "partial": 117,
+      "wrong": 87
+    },
+    "results": [
+      {
+        "id": "q-2020",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2021",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2022",
+        "domain": "economist",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2023",
+        "domain": "crisis_expert",
+        "gold": "A,B,C",
+        "pred": "A,B,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2024",
+        "domain": "crisis_expert",
+        "gold": "A,C",
+        "pred": "D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2025",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2026",
+        "domain": "economist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2027",
+        "domain": "journalist",
+        "gold": "A,B",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2028",
+        "domain": "economist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2029",
+        "domain": "journalist",
+        "gold": "A,C,D",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2030",
+        "domain": "journalist",
+        "gold": "A,C,D",
+        "pred": "A,D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2031",
+        "domain": "journalist",
+        "gold": "B,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2032",
+        "domain": "economist",
+        "gold": "B,C",
+        "pred": "B,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2033",
+        "domain": "crisis_expert",
+        "gold": "A,C,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2034",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2035",
+        "domain": "historian",
+        "gold": "A,C,D",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2036",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2037",
+        "domain": "crisis_expert",
+        "gold": "C,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2038",
+        "domain": "historian",
+        "gold": "B,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2039",
+        "domain": "crisis_expert",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2040",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2041",
+        "domain": "crisis_expert",
+        "gold": "B,C",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2042",
+        "domain": "economist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2043",
+        "domain": "political_analyst",
+        "gold": "A,D",
+        "pred": "C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2044",
+        "domain": "journalist",
+        "gold": "A,B,C",
+        "pred": "A,B,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2045",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2046",
+        "domain": "economist",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2047",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-2048",
+        "domain": "economist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2049",
+        "domain": "journalist",
+        "gold": "A,B,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2050",
+        "domain": "economist",
+        "gold": "A,C",
+        "pred": "A,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2051",
+        "domain": "political_analyst",
+        "gold": "A,D",
+        "pred": "A,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2052",
+        "domain": "historian",
+        "gold": "D",
+        "pred": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-2053",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2054",
+        "domain": "crisis_expert",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2055",
+        "domain": "economist",
+        "gold": "C,D",
+        "pred": "A,B,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2056",
+        "domain": "political_analyst",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2057",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2058",
+        "domain": "historian",
+        "gold": "C,D",
+        "pred": "C,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2059",
+        "domain": "political_analyst",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2060",
+        "domain": "economist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2061",
+        "domain": "historian",
+        "gold": "A,D",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2062",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2063",
+        "domain": "economist",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2064",
+        "domain": "historian",
+        "gold": "C,D",
+        "pred": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-2065",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2066",
+        "domain": "political_analyst",
+        "gold": "C,D",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2067",
+        "domain": "economist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2068",
+        "domain": "historian",
+        "gold": "A,D",
+        "pred": "A,C,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2069",
+        "domain": "journalist",
+        "gold": "B,D",
+        "pred": "B,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2070",
+        "domain": "journalist",
+        "gold": "C,D",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2071",
+        "domain": "crisis_expert",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2072",
+        "domain": "economist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2073",
+        "domain": "crisis_expert",
+        "gold": "B,C",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2074",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2075",
+        "domain": "journalist",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2076",
+        "domain": "historian",
+        "gold": "D",
+        "pred": "C,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2077",
+        "domain": "political_analyst",
+        "gold": "A,B",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2078",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "A,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2079",
+        "domain": "political_analyst",
+        "gold": "A,C",
+        "pred": "A,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2080",
+        "domain": "crisis_expert",
+        "gold": "B,C",
+        "pred": "B,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2081",
+        "domain": "economist",
+        "gold": "A",
+        "pred": "C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2082",
+        "domain": "political_analyst",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2083",
+        "domain": "economist",
+        "gold": "C,D",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2084",
+        "domain": "political_analyst",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2085",
+        "domain": "journalist",
+        "gold": "A,B",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2086",
+        "domain": "crisis_expert",
+        "gold": "A,C",
+        "pred": "A,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2087",
+        "domain": "crisis_expert",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2088",
+        "domain": "crisis_expert",
+        "gold": "B,D",
+        "pred": "B,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2089",
+        "domain": "economist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2090",
+        "domain": "political_analyst",
+        "gold": "C,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2091",
+        "domain": "crisis_expert",
+        "gold": "A,B",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2092",
+        "domain": "economist",
+        "gold": "A,B",
+        "pred": "C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2093",
+        "domain": "historian",
+        "gold": "B,D",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2094",
+        "domain": "journalist",
+        "gold": "A,B,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2095",
+        "domain": "political_analyst",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2096",
+        "domain": "crisis_expert",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2097",
+        "domain": "journalist",
+        "gold": "A,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2098",
+        "domain": "crisis_expert",
+        "gold": "B,C",
+        "pred": "B,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2099",
+        "domain": "political_analyst",
+        "gold": "A,B,D",
+        "pred": "A,B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2100",
+        "domain": "political_analyst",
+        "gold": "A,D",
+        "pred": "A,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2101",
+        "domain": "political_analyst",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2102",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2103",
+        "domain": "economist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2104",
+        "domain": "political_analyst",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2105",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2106",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2107",
+        "domain": "journalist",
+        "gold": "A,C",
+        "pred": "A,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2108",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2109",
+        "domain": "economist",
+        "gold": "A,B",
+        "pred": "A,B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2110",
+        "domain": "historian",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2111",
+        "domain": "journalist",
+        "gold": "A,B",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2112",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2113",
+        "domain": "economist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2114",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2115",
+        "domain": "economist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2116",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2117",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2118",
+        "domain": "journalist",
+        "gold": "A,B,D",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2119",
+        "domain": "economist",
+        "gold": "A,D",
+        "pred": "A,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2120",
+        "domain": "political_analyst",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2121",
+        "domain": "economist",
+        "gold": "A,C",
+        "pred": "D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2122",
+        "domain": "crisis_expert",
+        "gold": "A,B,D",
+        "pred": "A,B,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2123",
+        "domain": "economist",
+        "gold": "A",
+        "pred": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2124",
+        "domain": "historian",
+        "gold": "B,D",
+        "pred": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-2125",
+        "domain": "political_analyst",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2126",
+        "domain": "journalist",
+        "gold": "B,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2127",
+        "domain": "political_analyst",
+        "gold": "A,B,C",
+        "pred": "A,B,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2128",
+        "domain": "journalist",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2129",
+        "domain": "economist",
+        "gold": "A,B,D",
+        "pred": "A,B,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2130",
+        "domain": "journalist",
+        "gold": "A,B,D",
+        "pred": "B,D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2131",
+        "domain": "crisis_expert",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2132",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2133",
+        "domain": "economist",
+        "gold": "B,C",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2134",
+        "domain": "historian",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2135",
+        "domain": "political_analyst",
+        "gold": "A,C,D",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2136",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2137",
+        "domain": "historian",
+        "gold": "A,D",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2138",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2139",
+        "domain": "crisis_expert",
+        "gold": "A,D",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2140",
+        "domain": "crisis_expert",
+        "gold": "B,D",
+        "pred": "A,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2141",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2142",
+        "domain": "historian",
+        "gold": "B,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2143",
+        "domain": "political_analyst",
+        "gold": "A",
+        "pred": "A,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2144",
+        "domain": "crisis_expert",
+        "gold": "A",
+        "pred": "B,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2145",
+        "domain": "journalist",
+        "gold": "B",
+        "pred": "B,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2146",
+        "domain": "political_analyst",
+        "gold": "C,D",
+        "pred": "C,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2147",
+        "domain": "political_analyst",
+        "gold": "A",
+        "pred": "A,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2148",
+        "domain": "crisis_expert",
+        "gold": "A,C,D",
+        "pred": "C,D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2149",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2150",
+        "domain": "economist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2151",
+        "domain": "political_analyst",
+        "gold": "B,C,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2152",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "B,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2153",
+        "domain": "economist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2154",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2155",
+        "domain": "journalist",
+        "gold": "B",
+        "pred": "A,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2156",
+        "domain": "crisis_expert",
+        "gold": "B,D",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2157",
+        "domain": "economist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2158",
+        "domain": "crisis_expert",
+        "gold": "C,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2159",
+        "domain": "political_analyst",
+        "gold": "D",
+        "pred": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-2160",
+        "domain": "crisis_expert",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2161",
+        "domain": "journalist",
+        "gold": "C,D",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2162",
+        "domain": "crisis_expert",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2163",
+        "domain": "economist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2164",
+        "domain": "historian",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2165",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2166",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2167",
+        "domain": "crisis_expert",
+        "gold": "A,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2168",
+        "domain": "crisis_expert",
+        "gold": "A,B",
+        "pred": "A,B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2169",
+        "domain": "journalist",
+        "gold": "B,C",
+        "pred": "B,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2170",
+        "domain": "economist",
+        "gold": "A,D",
+        "pred": "A,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2171",
+        "domain": "political_analyst",
+        "gold": "A,B,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2172",
+        "domain": "political_analyst",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2173",
+        "domain": "crisis_expert",
+        "gold": "B",
+        "pred": "C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2174",
+        "domain": "economist",
+        "gold": "A,D",
+        "pred": "A,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2175",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2176",
+        "domain": "economist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2177",
+        "domain": "political_analyst",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2178",
+        "domain": "journalist",
+        "gold": "A,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2179",
+        "domain": "journalist",
+        "gold": "A,C,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2180",
+        "domain": "historian",
+        "gold": "A,B,C",
+        "pred": "A,B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2181",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2182",
+        "domain": "political_analyst",
+        "gold": "C",
+        "pred": "D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2183",
+        "domain": "journalist",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2184",
+        "domain": "economist",
+        "gold": "A,B,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2185",
+        "domain": "economist",
+        "gold": "A",
+        "pred": "A,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2186",
+        "domain": "crisis_expert",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2187",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2188",
+        "domain": "crisis_expert",
+        "gold": "B,D",
+        "pred": "B,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2189",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2190",
+        "domain": "journalist",
+        "gold": "A,C",
+        "pred": "A,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2191",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2192",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "A,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2193",
+        "domain": "political_analyst",
+        "gold": "C,D",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2194",
+        "domain": "economist",
+        "gold": "B,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2195",
+        "domain": "journalist",
+        "gold": "B,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2196",
+        "domain": "political_analyst",
+        "gold": "B,C",
+        "pred": "B,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2197",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2198",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2199",
+        "domain": "journalist",
+        "gold": "B,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2200",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "B,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2201",
+        "domain": "journalist",
+        "gold": "A,B",
+        "pred": "B,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2202",
+        "domain": "journalist",
+        "gold": "B",
+        "pred": "B,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2203",
+        "domain": "crisis_expert",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2204",
+        "domain": "political_analyst",
+        "gold": "B,D",
+        "pred": "B,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2205",
+        "domain": "historian",
+        "gold": "A,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2206",
+        "domain": "historian",
+        "gold": "B,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2207",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2208",
+        "domain": "historian",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2209",
+        "domain": "political_analyst",
+        "gold": "A,C",
+        "pred": "A,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2210",
+        "domain": "economist",
+        "gold": "B,D",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2211",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2212",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2213",
+        "domain": "crisis_expert",
+        "gold": "C,D",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2214",
+        "domain": "journalist",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2215",
+        "domain": "political_analyst",
+        "gold": "A,C,D",
+        "pred": "A,C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2216",
+        "domain": "political_analyst",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2217",
+        "domain": "crisis_expert",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2218",
+        "domain": "crisis_expert",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2219",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2220",
+        "domain": "political_analyst",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2221",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2222",
+        "domain": "political_analyst",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2223",
+        "domain": "historian",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2224",
+        "domain": "political_analyst",
+        "gold": "C,D",
+        "pred": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2225",
+        "domain": "historian",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2226",
+        "domain": "historian",
+        "gold": "C,D",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2227",
+        "domain": "political_analyst",
+        "gold": "A,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2228",
+        "domain": "historian",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2229",
+        "domain": "economist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2230",
+        "domain": "economist",
+        "gold": "A,D",
+        "pred": "C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2231",
+        "domain": "journalist",
+        "gold": "A,C",
+        "pred": "B,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2232",
+        "domain": "journalist",
+        "gold": "B,C,D",
+        "pred": "B,C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2233",
+        "domain": "political_analyst",
+        "gold": "A,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2234",
+        "domain": "economist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2235",
+        "domain": "journalist",
+        "gold": "A,C,D",
+        "pred": "A,C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2236",
+        "domain": "historian",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2237",
+        "domain": "crisis_expert",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2238",
+        "domain": "political_analyst",
+        "gold": "A,C",
+        "pred": "A,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2239",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2240",
+        "domain": "historian",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2241",
+        "domain": "crisis_expert",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2242",
+        "domain": "political_analyst",
+        "gold": "C",
+        "pred": "B,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2243",
+        "domain": "political_analyst",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2244",
+        "domain": "political_analyst",
+        "gold": "C,D",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2245",
+        "domain": "crisis_expert",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2246",
+        "domain": "journalist",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2247",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "A,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2248",
+        "domain": "journalist",
+        "gold": "A,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2249",
+        "domain": "political_analyst",
+        "gold": "B,C",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2250",
+        "domain": "political_analyst",
+        "gold": "B,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2251",
+        "domain": "political_analyst",
+        "gold": "B,C",
+        "pred": "B,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2252",
+        "domain": "journalist",
+        "gold": "A,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2253",
+        "domain": "journalist",
+        "gold": "B,D",
+        "pred": "B,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2254",
+        "domain": "journalist",
+        "gold": "A,B,D",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2255",
+        "domain": "economist",
+        "gold": "B,D",
+        "pred": "B,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2256",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2257",
+        "domain": "crisis_expert",
+        "gold": "A,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2258",
+        "domain": "crisis_expert",
+        "gold": "A,B",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2259",
+        "domain": "crisis_expert",
+        "gold": "B",
+        "pred": "D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2260",
+        "domain": "crisis_expert",
+        "gold": "B",
+        "pred": "D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2261",
+        "domain": "political_analyst",
+        "gold": "A,C",
+        "pred": "A,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2262",
+        "domain": "economist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2263",
+        "domain": "crisis_expert",
+        "gold": "A,B,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2264",
+        "domain": "economist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2265",
+        "domain": "historian",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2266",
+        "domain": "crisis_expert",
+        "gold": "A,C,D",
+        "pred": "B,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2267",
+        "domain": "political_analyst",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2268",
+        "domain": "crisis_expert",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2269",
+        "domain": "historian",
+        "gold": "A,D",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2270",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2271",
+        "domain": "historian",
+        "gold": "A,C",
+        "pred": "A,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2272",
+        "domain": "political_analyst",
+        "gold": "A,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2273",
+        "domain": "political_analyst",
+        "gold": "A,B",
+        "pred": "A,B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2274",
+        "domain": "crisis_expert",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2275",
+        "domain": "crisis_expert",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2276",
+        "domain": "economist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2277",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2278",
+        "domain": "political_analyst",
+        "gold": "A,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2279",
+        "domain": "economist",
+        "gold": "A,D",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2280",
+        "domain": "journalist",
+        "gold": "B,D",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2281",
+        "domain": "economist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2282",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2283",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2284",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2285",
+        "domain": "journalist",
+        "gold": "B,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2286",
+        "domain": "political_analyst",
+        "gold": "B,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2287",
+        "domain": "political_analyst",
+        "gold": "A,C,D",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2288",
+        "domain": "crisis_expert",
+        "gold": "B",
+        "pred": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-2289",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "A,B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2290",
+        "domain": "political_analyst",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2291",
+        "domain": "political_analyst",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2292",
+        "domain": "journalist",
+        "gold": "B",
+        "pred": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-2293",
+        "domain": "crisis_expert",
+        "gold": "A,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2294",
+        "domain": "crisis_expert",
+        "gold": "B,C,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2295",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2296",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2297",
+        "domain": "journalist",
+        "gold": "C,D",
+        "pred": "A,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2298",
+        "domain": "political_analyst",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2299",
+        "domain": "crisis_expert",
+        "gold": "A,C,D",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2300",
+        "domain": "crisis_expert",
+        "gold": "A,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2301",
+        "domain": "political_analyst",
+        "gold": "B,C",
+        "pred": "B,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2302",
+        "domain": "economist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2303",
+        "domain": "political_analyst",
+        "gold": "B,D",
+        "pred": "B,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2304",
+        "domain": "journalist",
+        "gold": "B,C,D",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2305",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "C,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2306",
+        "domain": "historian",
+        "gold": "B,C,D",
+        "pred": "B,C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2307",
+        "domain": "crisis_expert",
+        "gold": "A,D",
+        "pred": "A,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2308",
+        "domain": "crisis_expert",
+        "gold": "A,C",
+        "pred": "A,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2309",
+        "domain": "crisis_expert",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2310",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2311",
+        "domain": "historian",
+        "gold": "A,B",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2312",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2313",
+        "domain": "political_analyst",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2314",
+        "domain": "political_analyst",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2315",
+        "domain": "journalist",
+        "gold": "C,D",
+        "pred": "C,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2316",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2317",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2318",
+        "domain": "political_analyst",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2319",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-2320",
+        "domain": "crisis_expert",
+        "gold": "A,B,C",
+        "pred": "A,B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2321",
+        "domain": "political_analyst",
+        "gold": "A",
+        "pred": "C,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2322",
+        "domain": "political_analyst",
+        "gold": "A,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2323",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "B,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2324",
+        "domain": "journalist",
+        "gold": "B",
+        "pred": "B,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2325",
+        "domain": "economist",
+        "gold": "C",
+        "pred": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-2326",
+        "domain": "political_analyst",
+        "gold": "A,B,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2327",
+        "domain": "economist",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2328",
+        "domain": "political_analyst",
+        "gold": "A",
+        "pred": "A,B,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2329",
+        "domain": "political_analyst",
+        "gold": "B,C,D",
+        "pred": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-2330",
+        "domain": "crisis_expert",
+        "gold": "D",
+        "pred": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-2331",
+        "domain": "political_analyst",
+        "gold": "A,D",
+        "pred": "A,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2332",
+        "domain": "journalist",
+        "gold": "A,B",
+        "pred": "A,B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2333",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2334",
+        "domain": "journalist",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2335",
+        "domain": "crisis_expert",
+        "gold": "A,B,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2336",
+        "domain": "political_analyst",
+        "gold": "C",
+        "pred": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2337",
+        "domain": "political_analyst",
+        "gold": "A,D",
+        "pred": "A,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2338",
+        "domain": "economist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2339",
+        "domain": "journalist",
+        "gold": "A,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2340",
+        "domain": "economist",
+        "gold": "C,D",
+        "pred": "C,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2341",
+        "domain": "political_analyst",
+        "gold": "B,C,D",
+        "pred": "A,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2342",
+        "domain": "economist",
+        "gold": "A,B",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2343",
+        "domain": "economist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2344",
+        "domain": "crisis_expert",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2345",
+        "domain": "political_analyst",
+        "gold": "B,D",
+        "pred": "B,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2346",
+        "domain": "journalist",
+        "gold": "A,B,D",
+        "pred": "A,B,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2347",
+        "domain": "crisis_expert",
+        "gold": "A,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2348",
+        "domain": "political_analyst",
+        "gold": "A,C,D",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2349",
+        "domain": "crisis_expert",
+        "gold": "B,C",
+        "pred": "C,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2350",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2351",
+        "domain": "political_analyst",
+        "gold": "A,D",
+        "pred": "A,D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2352",
+        "domain": "economist",
+        "gold": "B,C,D",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2353",
+        "domain": "journalist",
+        "gold": "A,C",
+        "pred": "A,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2354",
+        "domain": "political_analyst",
+        "gold": "A",
+        "pred": "D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2355",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2356",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "C,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2357",
+        "domain": "crisis_expert",
+        "gold": "A,B",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2358",
+        "domain": "political_analyst",
+        "gold": "D",
+        "pred": "B,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2359",
+        "domain": "crisis_expert",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2360",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2361",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "C,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2362",
+        "domain": "crisis_expert",
+        "gold": "A,B",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2363",
+        "domain": "historian",
+        "gold": "B,C,D",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2364",
+        "domain": "historian",
+        "gold": "C,D",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2365",
+        "domain": "political_analyst",
+        "gold": "A,B",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2366",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "A,B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2367",
+        "domain": "political_analyst",
+        "gold": "A,B,D",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2368",
+        "domain": "journalist",
+        "gold": "B,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2369",
+        "domain": "journalist",
+        "gold": "C,D",
+        "pred": "B,C",
+        "score": 0.0
+      },
+      {
+        "id": "q-2370",
+        "domain": "journalist",
+        "gold": "A,B,D",
+        "pred": "A,D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2371",
+        "domain": "political_analyst",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2372",
+        "domain": "economist",
+        "gold": "B,C",
+        "pred": "A,B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2373",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2374",
+        "domain": "crisis_expert",
+        "gold": "B,C,D",
+        "pred": "C,D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2375",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2376",
+        "domain": "political_analyst",
+        "gold": "A,C,D",
+        "pred": "A,C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2377",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "A",
+        "score": 0.0
+      },
+      {
+        "id": "q-2378",
+        "domain": "historian",
+        "gold": "B,C",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2379",
+        "domain": "historian",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2380",
+        "domain": "historian",
+        "gold": "C",
+        "pred": "C,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2381",
+        "domain": "economist",
+        "gold": "B,C",
+        "pred": "B,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2382",
+        "domain": "economist",
+        "gold": "C",
+        "pred": "C,D",
+        "score": 0.0
+      },
+      {
+        "id": "q-2383",
+        "domain": "journalist",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2384",
+        "domain": "crisis_expert",
+        "gold": "B,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2385",
+        "domain": "political_analyst",
+        "gold": "A,B,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2386",
+        "domain": "political_analyst",
+        "gold": "C,D",
+        "pred": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2387",
+        "domain": "historian",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2388",
+        "domain": "historian",
+        "gold": "B,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2389",
+        "domain": "crisis_expert",
+        "gold": "A,D",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2390",
+        "domain": "economist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2391",
+        "domain": "economist",
+        "gold": "A,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2392",
+        "domain": "historian",
+        "gold": "A,C",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2393",
+        "domain": "economist",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2394",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2395",
+        "domain": "political_analyst",
+        "gold": "A,B,D",
+        "pred": "A,D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2396",
+        "domain": "crisis_expert",
+        "gold": "A,B,C",
+        "pred": "A,B,C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2397",
+        "domain": "journalist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2398",
+        "domain": "political_analyst",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2399",
+        "domain": "journalist",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2400",
+        "domain": "crisis_expert",
+        "gold": "C,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2401",
+        "domain": "crisis_expert",
+        "gold": "D",
+        "pred": "B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2402",
+        "domain": "crisis_expert",
+        "gold": "B,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2403",
+        "domain": "crisis_expert",
+        "gold": "B,D",
+        "pred": "D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2404",
+        "domain": "political_analyst",
+        "gold": "A,D",
+        "pred": "A",
+        "score": 0.5
+      },
+      {
+        "id": "q-2405",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "A,B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2406",
+        "domain": "journalist",
+        "gold": "B,D",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2407",
+        "domain": "historian",
+        "gold": "B,C",
+        "pred": "B",
+        "score": 0.5
+      },
+      {
+        "id": "q-2408",
+        "domain": "political_analyst",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2409",
+        "domain": "economist",
+        "gold": "A,B",
+        "pred": "A,B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2410",
+        "domain": "crisis_expert",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2411",
+        "domain": "journalist",
+        "gold": "A",
+        "pred": "A,B",
+        "score": 0.0
+      },
+      {
+        "id": "q-2412",
+        "domain": "economist",
+        "gold": "B",
+        "pred": "B",
+        "score": 1.0
+      },
+      {
+        "id": "q-2413",
+        "domain": "political_analyst",
+        "gold": "B,C,D",
+        "pred": "C,D",
+        "score": 0.5
+      },
+      {
+        "id": "q-2414",
+        "domain": "economist",
+        "gold": "A,B,C",
+        "pred": "C",
+        "score": 0.5
+      },
+      {
+        "id": "q-2415",
+        "domain": "crisis_expert",
+        "gold": "C",
+        "pred": "C",
+        "score": 1.0
+      },
+      {
+        "id": "q-2416",
+        "domain": "historian",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2417",
+        "domain": "historian",
+        "gold": "A",
+        "pred": "A",
+        "score": 1.0
+      },
+      {
+        "id": "q-2418",
+        "domain": "economist",
+        "gold": "D",
+        "pred": "D",
+        "score": 1.0
+      },
+      {
+        "id": "q-2419",
+        "domain": "journalist",
+        "gold": "B,D",
+        "pred": "D",
+        "score": 0.5
+      }
+    ]
+  }
+}

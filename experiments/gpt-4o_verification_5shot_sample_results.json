@@ -1,0 +1,231 @@
+{
+  "config": {
+    "model": "gpt-4o",
+    "prompt_type": "verification",
+    "n_examples": 5,
+    "split": "sample",
+    "num_samples": 30
+  },
+  "metrics": {
+    "average_score": 0.6666666666666666,
+    "full_match": 18,
+    "partial_match": 4,
+    "incorrect": 8,
+    "total": 30,
+    "full_match_rate": 0.6,
+    "partial_match_rate": 0.13333333333333333,
+    "incorrect_rate": 0.26666666666666666
+  },
+  "predictions": [
+    {
+      "id": "q-1",
+      "target_event": "Videos of the assassination circulated on social media.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No, the shooter using a handmade gun is related to the assassination but does not directly cause videos of the assassination to circulate on social media.\n- B: No, the arrest of the suspected gunman is a consequence of the assassination but does not directly cause videos to circulate.\n- C: No, Shinzo Abe becoming the deputy chief cabinet secretary in the early 2000s is unrelated to the event of videos circulating on social media.\n- D: Yes, a man firing twice at Shinzo Abe is directly related to the assassination event, which would lead to videos of the event circulating on social media.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: D"
+    },
+    {
+      "id": "q-2",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "Step 1 - For each option, determine if it could be a direct cause:\n\n- A: No, the report of pipe bombs at the RNC and DNC buildings is related to the events of January 6th but is not a direct cause of Trump's impeachment.\n- B: No, Trump addressing the crowd is related to the events of January 6th but is not a direct cause of his impeachment.\n- C: Yes, if none of the other options are direct causes, this would be the correct choice.\n- D: No, Trump supporters protesting in Washington, D.C. is related to the events of January 6th but is not a direct cause of his impeachment.\n\nStep 2 - Check for \"None\" option:\n\n- Since none of the other options are valid direct causes of Trump's second impeachment, the \"None of the others are correct\" option is valid.\n\nStep 3 - Final answer (letter(s) only, comma-separated if multiple):\n\nAnswer: C"
+    },
+    {
+      "id": "q-3",
+      "target_event": "The impeachment motion against President Yoon failed.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No, filing an impeachment motion is a prerequisite for the process but does not directly cause the motion to fail. The failure would depend on the voting outcome or other political dynamics.\n- B: No, this is a placeholder option and not a direct cause.\n- C: No, a protest anthem performance is not directly related to the legislative process or the outcome of an impeachment motion.\n- D: No, declaring martial law and sending soldiers to parliament is a significant political action but does not directly cause the failure of an impeachment motion. It might influence the political climate, but it is not a direct cause of the motion's failure.\n\nSTEP 2 - Check for \"None\" option:\n- Since none of the options A, C, or D are valid direct causes of the impeachment motion's failure, option B (\"None of the others are correct causes\") is valid.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: B"
+    },
+    {
+      "id": "q-4",
+      "target_event": "Social media companies removed harmful content.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n- A: No, Shinzo Abe becoming the deputy chief cabinet secretary in the early 2000s is not directly related to social media companies removing harmful content.\n- B: No, Yoshihide Suga succeeding Shinzo Abe in September 2020 does not have a direct causal link to social media companies removing harmful content.\n- C: No, Shinzo Abe offering to host a peace summit in 2017 is not directly related to the removal of harmful content by social media companies.\n- D: Yes, videos of the assassination circulating on social media could directly cause social media companies to remove harmful content due to the nature of the content being harmful.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: D"
+    },
+    {
+      "id": "q-5",
+      "target_event": "On November 10, Musk stated bankruptcy was possible for Twitter if it didn't increase revenue.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No, Twitter suing Elon Musk to force the acquisition is related to the acquisition process but does not directly cause Musk's statement about potential bankruptcy due to revenue issues.\n- B: No, Elon Musk changing his profile to \u2018Chief Twit\u2019 is a personal branding decision and does not directly relate to the financial status or revenue concerns of Twitter.\n- C: Yes, if none of the other options are correct causes, this would be the correct choice.\n- D: No, Elon Musk signing a deal to acquire Twitter in April is related to the acquisition process but does not directly cause the statement about potential bankruptcy due to revenue concerns.\n\nSTEP 2 - Check for \"None\" option:\n- Since none of the other options are valid direct causes for Musk's statement about potential bankruptcy, option C is correct.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: C"
+    },
+    {
+      "id": "q-6",
+      "target_event": "President Trump announced a plan to impose additional 25% tariffs on Canadian steel and aluminum imports.",
+      "prediction": "A",
+      "gold": "C",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No, the assassination of William McKinley in 1901 is not related to President Trump's announcement in a direct causal way. It is a historical event with no direct connection to trade policies in 2018.\n\n- B: No, the ratification of the 16th Amendment in 1913, which allows Congress to levy an income tax, is not directly related to tariffs on Canadian steel and aluminum.\n\n- C: No, this option describes the event itself rather than a cause of the event. It does not provide a reason for why President Trump announced the tariffs.\n\n- D: No, there is no direct causal link between Ontario placing a tax on electricity exports to the U.S. and President Trump imposing tariffs on Canadian steel and aluminum. These are separate trade issues.\n\nSTEP 2 - Check for \"None\" option:\n\n- There is no \"None of the others are correct\" option provided, but none of the options A, B, C, or D are valid direct causes of the event.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\n\nAnswer: None of the options provided are correct causes."
+    },
+    {
+      "id": "q-7",
+      "target_event": "South Korea\u2019s parliament voted to impeach President Yoon Suk Yeol.",
+      "prediction": "D",
+      "gold": "B,D",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No, the resignation of Yoon's senior aides and defense minister could be a consequence of political turmoil but not a direct cause of impeachment.\n- B: No, soldiers storming the National Assembly is an extreme action that could be related to political unrest but does not directly cause an impeachment vote.\n- C: No, while protests can influence political decisions, they do not directly cause a parliamentary vote to impeach a president.\n- D: Yes, declaring martial law and sending soldiers to parliament is a significant action that could directly lead to an impeachment vote as it represents a severe overreach of power.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: D"
+    },
+    {
+      "id": "q-8",
+      "target_event": "Ontario placed a 25% tax on electricity exports to the U.S.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No. President Trump placing 25% tariffs on imports from Canada could be a retaliatory measure that might lead Ontario to impose a tax on electricity exports to the U.S. However, the direct causal link is not clear without additional context.\n- B: No. The assassination of William McKinley in 1901 is unrelated to Ontario's decision to place a tax on electricity exports to the U.S. in the present day.\n- C: No. The ratification of the 16th Amendment in 1913, which allowed the federal government to levy an income tax, is not directly related to Ontario's tax on electricity exports.\n- D: No. William McKinley's death in 1901 is not related to the event in question.\n\nSTEP 2 - Check for \"None\" option:\n- Since none of the options are valid direct causes of the event, the \"None of the others are correct\" option would be appropriate.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: None of the others are correct causes."
+    },
+    {
+      "id": "q-9",
+      "target_event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "prediction": "B,D",
+      "gold": "D",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No. The halting of the congressional certification of Joe Biden\u2019s victory is a significant event but does not directly cause the activation of the National Guard or the imposition of a curfew. It is more of a consequence of the unrest rather than a direct cause of the response.\n\n- B: Yes. The report of pipe bombs at the Republican National Committee building and the Democratic National Committee headquarters represents a direct threat to public safety, which could directly cause the activation of the National Guard and the imposition of a curfew to ensure security and public safety.\n\n- C: No. While the shooting and death of a woman inside the Capitol is a serious incident, it is more of a consequence of the unrest rather than a direct cause for the activation of the National Guard and the imposition of a curfew.\n\n- D: Yes. Protesters clashing with police and breaching security barriers at the Capitol is a direct cause for the activation of the National Guard and the imposition of a curfew, as it represents a significant breach of security and public order.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: B,D"
+    },
+    {
+      "id": "q-10",
+      "target_event": "Capitol Police Chief Steven Sund, House Sergeant at Arms Paul Irving, and Senate Sergeant at Arms Michael Stenger resigned.",
+      "prediction": "A",
+      "gold": "A,C",
+      "response": "A. No, the securing of the Capitol and reconvening of lawmakers to continue certification is not a direct cause of the resignations. It is a subsequent action taken after the event that led to the resignations.\n\nB. No, the halting of the congressional certification of Joe Biden\u2019s victory is not a direct cause of the resignations. It is a consequence of the events that led to the resignations, not a direct cause.\n\nC. No, this is a repeat of option A and does not directly cause the resignations.\n\nD. No, the clearing of the Capitol by the FBI and ATF is not a direct cause of the resignations. It is a response to the events that led to the resignations.\n\nSince none of the options directly cause the resignations, the correct answer is:\n\nAnswer: None of the others are correct causes."
+    },
+    {
+      "id": "q-11",
+      "target_event": "Authorities in Myanmar and Thailand declared a state of emergency.",
+      "prediction": "A,B",
+      "gold": "A,D",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: Yes, the earthquake causing significant damage and displacement across Myanmar could directly lead to authorities declaring a state of emergency due to the need for immediate response and resources.\n- B: Yes, a high-rise under construction collapsing in Bangkok, Thailand, causing casualties could directly lead to a state of emergency being declared to manage the crisis and provide aid.\n- C: No, Mandalay General Hospital becoming full and losing power and water is likely a consequence of the earthquake or other events, not a direct cause for declaring a state of emergency.\n- D: No, the report of casualties and injuries by Myanmar's ruling junta chief is a consequence of the events that would lead to a state of emergency, not a direct cause.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: A,B"
+    },
+    {
+      "id": "q-12",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "prediction": "A,C",
+      "gold": "A",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: Yes, hundreds of soldiers storming the National Assembly could directly cause investigations into Yoon on treason allegations, as such an action could be perceived as an attempted coup or a significant breach of national security, prompting investigations.\n\n- B: No, the Prime Minister becoming acting president does not directly cause investigations into Yoon on treason allegations. This could be a consequence of the investigations or related political turmoil, but not a direct cause.\n\n- C: Yes, tens of thousands of protesters gathering outside the National Assembly in Seoul could directly cause investigations into Yoon on treason allegations, as large-scale protests might indicate significant public unrest and pressure, prompting authorities to investigate potential causes, including treason.\n\n- D: No, Yoon's senior aides and defense minister offering to resign does not directly cause investigations into Yoon on treason allegations. This could be a reaction to the investigations or related events, but not a direct cause.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: A,C"
+    },
+    {
+      "id": "q-13",
+      "target_event": "Elon Musk gained full command of the federal cost-cutting effort.",
+      "prediction": "C",
+      "gold": "A",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No. While contributing to political campaigns might influence political decisions, it does not directly cause Elon Musk to gain full command of the federal cost-cutting effort.\n- B: No. Speaking with staff at federal agencies does not directly result in Elon Musk gaining full command of the effort. It might be part of the process, but it is not a direct cause.\n- C: Yes. Vivek Ramaswamy withdrawing from the project could directly lead to Elon Musk gaining full command, as it removes a co-leader from the effort.\n- D: No. Rescinding the order to halt federal grants does not directly cause Elon Musk to gain full command of the cost-cutting effort.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: C"
+    },
+    {
+      "id": "q-14",
+      "target_event": "Northern Ireland and Scotland voted to remain in the EU.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No, the Conservative Party winning the election is not a direct cause of Northern Ireland and Scotland voting to remain in the EU. The election result does not directly influence the voting behavior in the referendum.\n\n- B: No, the nation dividing into 'remain' and 'leave' camps is a description of the situation rather than a direct cause of the voting outcome in Northern Ireland and Scotland.\n\n- C: Yes, the United Kingdom holding a referendum on June 23 is a direct cause of Northern Ireland and Scotland voting to remain in the EU, as the referendum provided the opportunity for them to vote.\n\n- D: No, the referendum date being set in February is not a direct cause of the voting outcome. It is a procedural step leading up to the event but does not directly cause the voting behavior.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: C"
+    },
+    {
+      "id": "q-15",
+      "target_event": "The US Senate will likely vote on Wednesday on a bill to halt Trump\u2019s tariffs on Canadian imports.",
+      "prediction": "A,C,D",
+      "gold": "A,C,D",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: Yes, President Trump placing 25% tariffs on imports from Canada could directly cause the US Senate to vote on a bill to halt those tariffs, as the tariffs are the subject of the bill.\n- B: No, the 16th Amendment being ratified in 1913 is not directly related to the event of the US Senate voting on a bill regarding tariffs on Canadian imports.\n- C: Yes, this is the same as option A, and it could directly cause the event for the same reason.\n- D: Yes, Trump applying a 25% tariff on many exports from Canada and Mexico could directly cause the Senate to vote on a bill to halt those tariffs, as it is related to the tariffs in question.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: A,C,D"
+    },
+    {
+      "id": "q-16",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No. The failure of an impeachment motion against President Yoon does not directly cause investigations into treason allegations. It is more of a political outcome rather than a direct cause for investigations.\n\n- B: Yes. President Yoon Suk Yeol declaring martial law and sending soldiers to parliament could directly lead to investigations into treason allegations, as such actions could be perceived as an overreach of power or an attempt to undermine democratic institutions.\n\n- C: No. Baek Jae Gil performing a protest anthem is a form of protest and expression but does not directly cause investigations into treason allegations against Yoon.\n\n- D: No. Prime Minister Han Duck-soo becoming acting president is a consequence of a political situation but does not directly cause investigations into treason allegations against Yoon.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: B"
+    },
+    {
+      "id": "q-17",
+      "target_event": "Musk allies took top positions in federal agencies.",
+      "prediction": "C",
+      "gold": "D",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No. Increasing hiring for DOGE does not directly cause Musk allies to take top positions in federal agencies. It might be related but does not establish a direct causal link to the event.\n\n- B: No. Stating that DOGE participants will not be paid and requesting they work 80-hour weeks does not directly cause Musk allies to take top positions in federal agencies. This is more about working conditions rather than appointments to positions.\n\n- C: Yes. DOGE representatives speaking with staff at over a dozen federal agencies could directly lead to Musk allies taking top positions, as it suggests active engagement and influence within these agencies.\n\n- D: No. Since option C is a valid cause, this option is not applicable.\n\nSTEP 2 - Check for \"None\" option:\n\n- The \"None of the others are correct\" option is not applicable because option C is a valid cause.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\n\nAnswer: C"
+    },
+    {
+      "id": "q-18",
+      "target_event": "Mr. Musk stated DOGE participants will not be paid and requested they work 80-hour weeks.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No. Increasing hiring for DOGE does not directly cause Mr. Musk to state that participants will not be paid and must work 80-hour weeks. Hiring is related but not a direct cause of the specific conditions set by Mr. Musk.\n\n- B: Yes. Trump appointing Elon Musk and Vivek Ramaswamy as co-leaders of DOGE could directly cause Mr. Musk to make statements about the working conditions, as his leadership position would give him the authority to set such terms.\n\n- C: No. Speaking with staff at federal agencies does not directly cause Mr. Musk to make statements about payment and work hours. This is more about gathering information or collaboration rather than setting employment terms.\n\n- D: No. Mr. Trump stating DOGE's purpose is to advise on cutting wasteful spending does not directly cause Mr. Musk to make statements about the working conditions. The purpose of the department is related but not a direct cause of the specific employment terms.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: B"
+    },
+    {
+      "id": "q-19",
+      "target_event": "The coronavirus pandemic halted the global economy.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: Yes, COVID-19 forcing countries into lockdown could directly cause the global economy to halt, as lockdowns restrict economic activities and movement.\n- B: No, the WHO declaring the situation a pandemic is an acknowledgment of the situation rather than a direct cause of the economic halt.\n- C: No, while the U.S. government's actions contributed to the economic impact, they are specific measures rather than direct causes of the global economic halt.\n- D: No, the Iranian government's actions are specific to Iran and do not directly cause the global economy to halt.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: A"
+    },
+    {
+      "id": "q-20",
+      "target_event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "prediction": "A",
+      "gold": "A,B,C",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: Yes, protesters clashing with police and breaching security barriers at the Capitol could directly cause the activation of the D.C. National Guard and the imposition of a citywide curfew due to the immediate threat to security and order.\n- B: No, Trump supporters protesting in Washington, D.C., by itself, does not directly cause the activation of the National Guard or a curfew unless it escalates to a breach or violence.\n- C: No, this is a repeat of option B and does not directly cause the event.\n- D: No, while the shooting of a woman inside the Capitol is a serious incident, it is more likely a consequence of the breach rather than a direct cause for the activation of the National Guard and curfew.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: A"
+    },
+    {
+      "id": "q-21",
+      "target_event": "David Cameron announced his resignation as Prime Minister.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No. Setting the referendum date in February is a procedural step and does not directly cause Cameron's resignation.\n- B: Yes. The UK voting to leave the EU in the June 23 referendum is a direct cause of David Cameron's resignation, as he had campaigned for the UK to remain in the EU and stated he would resign if the vote was to leave.\n- C: No. Pledging a referendum in 2013 is a precursor to the event but not a direct cause of his resignation.\n- D: No. Northern Ireland and Scotland voting to remain in the EU is a result of the referendum but does not directly cause Cameron's resignation.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: B"
+    },
+    {
+      "id": "q-22",
+      "target_event": "Lockdowns obstructed agricultural flow, resulting in hiked food prices, food shortages, malnutrition, and deaths.",
+      "prediction": "A,C,D",
+      "gold": "A,C",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: Yes, the U.S. government mandating port and border closures could directly cause disruptions in agricultural flow, leading to hiked food prices, food shortages, malnutrition, and deaths due to the obstruction of trade and movement of goods.\n\n- B: No, while the healthcare system's shift in focus to COVID-19 patients is related to the pandemic, it does not directly cause the obstruction of agricultural flow or the resulting food-related issues.\n\n- C: Yes, the Italian government's enforcement of lockdowns and closure of non-essential businesses could directly cause disruptions in agricultural flow within Italy, contributing to food shortages and price hikes.\n\n- D: Yes, the coronavirus pandemic halting the global economy could directly cause disruptions in agricultural flow on a global scale, leading to the described consequences.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: A,C,D"
+    },
+    {
+      "id": "q-23",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "prediction": "A,D",
+      "gold": "A,D",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: Yes, protesters clashing with police and breaching security barriers at the Capitol was a direct cause of the impeachment, as it was part of the events that led to the charge of incitement of insurrection against Trump.\n- B: No, the Capitol being secured and lawmakers reconvening to continue certification is not a direct cause of the impeachment; it is a subsequent event.\n- C: No, Congress confirming Biden as president is not a direct cause of the impeachment; it is a related but separate event.\n- D: Yes, Trump urging supporters to march to the Capitol is a direct cause of the impeachment, as it was part of the actions that led to the charge of incitement of insurrection.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: A,D"
+    },
+    {
+      "id": "q-24",
+      "target_event": "The FBI and ATF cleared the Capitol.",
+      "prediction": "B",
+      "gold": "A",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No, \"None of the others are correct causes\" is not applicable here as there are valid causes among the options.\n- B: Yes, the report of pipe bombs at the Republican National Committee building and the Democratic National Committee headquarters could directly cause the FBI and ATF to clear the Capitol due to the immediate threat to safety.\n- C: No, Trump urging supporters to march to the Capitol is related to the events of the day but does not directly cause the FBI and ATF to clear the Capitol.\n- D: No, the deaths during the riots are a consequence of the events but do not directly cause the FBI and ATF to clear the Capitol.\n\nSTEP 2 - Check for \"None\" option:\n- The \"None of the others are correct\" option is not applicable as option B is a valid cause.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: B"
+    },
+    {
+      "id": "q-25",
+      "target_event": "Democrats won statewide offices in Arizona, North Carolina, Wisconsin, and Michigan.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No. While Trump receiving more votes from Latino residents than any other Republican presidential candidate in history is an interesting fact, it does not directly cause Democrats to win statewide offices in Arizona, North Carolina, Wisconsin, and Michigan. It is more of a demographic observation rather than a causal factor for the election outcomes in those states.\n\n- B: Yes. If none of the other options are correct causes, then this option would be valid. We need to evaluate the other options to determine this.\n\n- C: No. The impeachment and acquittal of Trump by the U.S. House and Senate, respectively, are significant political events, but they do not directly cause Democrats to win statewide offices in the mentioned states. These events are more related to Trump's presidency rather than the specific election outcomes in those states.\n\n- D: No. Donald Trump being elected the 47th president of the United States is not a direct cause of Democrats winning statewide offices in Arizona, North Carolina, Wisconsin, and Michigan. This event is more about Trump's political career rather than the specific election results in those states.\n\nSTEP 2 - Check for \"None\" option:\n\n- Since none of the other options are valid direct causes for the event, option B (\"None of the others are correct causes\") is the correct choice.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\n\nAnswer: B"
+    },
+    {
+      "id": "q-26",
+      "target_event": "By April 3, 2025, the death toll from the earthquake reached 4,390 in Myanmar, with over 5,490 injured.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No, Mandalay General Hospital becoming full and losing power and water is a consequence of the earthquake and its aftermath, not a direct cause of the death toll reaching 4,390.\n- B: No, the declaration of a state of emergency is a response to the earthquake and its effects, not a direct cause of the death toll.\n- C: Yes, the earthquake causing significant damage and displacement is a direct cause of the death toll reaching 4,390, as it directly results in casualties and injuries.\n- D: No, the United Nations mobilizing help is a response to the earthquake and its effects, not a direct cause of the death toll.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option, and option C is a valid cause.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: C"
+    },
+    {
+      "id": "q-27",
+      "target_event": "The British pound plunged in value.",
+      "prediction": "B,D",
+      "gold": "B,D",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No. The division into 'remain' and 'leave' camps is related to the broader context of the Brexit referendum but does not directly cause the pound to plunge in value.\n- B: Yes. The United Kingdom holding a referendum on June 23, which resulted in the decision to leave the EU, directly caused uncertainty and market reactions leading to the pound's plunge.\n- C: No. Prime Minister David Cameron pledging a referendum in 2013 set the stage for the event but did not directly cause the pound to plunge in value.\n- D: Yes. This is the same as option B, and the referendum directly led to the pound's plunge due to the outcome.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: B,D"
+    },
+    {
+      "id": "q-28",
+      "target_event": "The Capitol was secured, and lawmakers reconvened to continue certification.",
+      "prediction": "D",
+      "gold": "D",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No. While the shooting of a woman inside the Capitol is a significant event, it does not directly cause the Capitol to be secured or lawmakers to reconvene. It is more of a consequence of the chaos rather than a direct cause of the resolution.\n\n- B: No. The report of pipe bombs at the Republican National Committee building and the Democratic National Committee headquarters is a related security threat but does not directly cause the Capitol to be secured or lawmakers to reconvene.\n\n- C: No. Trump's address to the crowd is related to the events of the day but does not directly cause the Capitol to be secured or lawmakers to reconvene.\n\n- D: Yes. The FBI and ATF clearing the Capitol is a direct action that would lead to the Capitol being secured, allowing lawmakers to reconvene and continue certification.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: D"
+    },
+    {
+      "id": "q-29",
+      "target_event": "The British pound plunged in value.",
+      "prediction": "B",
+      "gold": "B,C",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: No. While the nation dividing into 'remain' and 'leave' camps is related to the event, it is not a direct cause of the pound plunging in value. The division itself does not directly impact the currency's value.\n\n- B: Yes. The UK voting to leave the EU in a June 23 referendum is a direct cause of the British pound plunging in value. The decision to leave the EU created economic uncertainty, leading to a loss of confidence in the currency.\n\n- C: No. Holding a referendum on June 23 is not a direct cause of the pound's value plunging. The act of holding a referendum does not directly affect the currency; it is the outcome of the referendum that has the impact.\n\n- D: No. Northern Ireland and Scotland voting to remain in the EU is not a direct cause of the pound plunging in value. While it is related to the broader context of the referendum, it does not directly cause the currency's decline.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: B"
+    },
+    {
+      "id": "q-30",
+      "target_event": "Northern Ireland and Scotland voted to remain in the EU.",
+      "prediction": "A",
+      "gold": "A",
+      "response": "STEP 1 - For each option, determine if it could be a direct cause:\n\n- A: Could this directly cause the event? Yes, the United Kingdom holding a referendum on June 23 is a direct cause of Northern Ireland and Scotland voting to remain in the EU, as it provided the opportunity for them to express their preference.\n\n- B: Could this directly cause the event? No, while Prime Minister David Cameron's pledge in 2013 set the stage for the referendum, it is not a direct cause of the specific voting outcome in Northern Ireland and Scotland.\n\n- C: Could this directly cause the event? No, Cameron's failed renegotiation attempt is related to the broader context of the referendum but does not directly cause the voting outcome in Northern Ireland and Scotland.\n\n- D: Could this directly cause the event? No, the UK voting to leave the EU is the result of the referendum, not a cause of Northern Ireland and Scotland's decision to vote to remain.\n\nSTEP 2 - Check for \"None\" option:\n- There is no \"None of the others are correct\" option provided.\n\nSTEP 3 - Final answer (letter(s) only, comma-separated if multiple):\nAnswer: A"
+    }
+  ]
+}

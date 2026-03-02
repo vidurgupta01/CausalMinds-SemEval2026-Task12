@@ -1,0 +1,531 @@
+{
+  "config": {
+    "models": [
+      "gpt-4o",
+      "claude-sonnet-4-20250514"
+    ],
+    "method": "simple_ensemble",
+    "threshold": 0.5,
+    "split": "sample",
+    "num_samples": 30
+  },
+  "metrics": {
+    "average_score": 0.2833333333333333,
+    "full_match": 7,
+    "partial_match": 3,
+    "incorrect": 20,
+    "total": 30
+  },
+  "predictions": [
+    {
+      "id": "q-1",
+      "event": "Videos of the assassination circulated on social media.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "D. A man fired twice at Shinzo Abe.",
+          "prediction": "A,D"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s) of \"Videos of the assassination circulated on social media,\" I need ",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A,D",
+      "gold": "D",
+      "score": 0.0
+    },
+    {
+      "id": "q-2",
+      "event": "Trump was impeached for a second time on January 13th.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "C. None of the others are correct causes.",
+          "prediction": "C"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s) of Trump's second impeachment on January 13th, I need to consider wh",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A,C",
+      "gold": "C",
+      "score": 0.0
+    },
+    {
+      "id": "q-3",
+      "event": "The impeachment motion against President Yoon failed.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "B. None of the others are correct causes.",
+          "prediction": "B"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s) of the impeachment motion failing, I need to analyze which option(s)",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A,B",
+      "gold": "B",
+      "score": 0.0
+    },
+    {
+      "id": "q-4",
+      "event": "Social media companies removed harmful content.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "D. Videos of the assassination circulated on social media.",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause of social media companies removing harmful content, I need to evaluate ",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "D",
+      "score": 0.0
+    },
+    {
+      "id": "q-5",
+      "event": "On November 10, Musk stated bankruptcy was possible for Twitter if it didn't inc",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "D. Elon Musk signed a deal to acquire Twitter in April.",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s), I need to analyze each option against the three criteria for a dire",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "C",
+      "score": 0.0
+    },
+    {
+      "id": "q-6",
+      "event": "President Trump announced a plan to impose additional 25% tariffs on Canadian st",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "C",
+          "prediction": "C"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "Looking at each option against the criteria for direct causation:\n\nA. William McKinley was shot by a",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A,C",
+      "gold": "C",
+      "score": 0.0
+    },
+    {
+      "id": "q-7",
+      "event": "South Korea\u2019s parliament voted to impeach President Yoon Suk Yeol.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "To determine the direct cause(s) of the event where South Korea\u2019s parliament voted to impeach Presid",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s), I need to analyze which option(s) directly led to the parliamentary",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-8",
+      "event": "Ontario placed a 25% tax on electricity exports to the U.S.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "A",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s), I need to analyze each option against the three criteria for a dire",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-9",
+      "event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "D",
+          "prediction": "D"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s), I need to determine which option(s) happened before the National Gu",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A,D",
+      "gold": "D",
+      "score": 0.0
+    },
+    {
+      "id": "q-10",
+      "event": "Capitol Police Chief Steven Sund, House Sergeant at Arms Paul Irving, and Senate",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "B. The congressional certification of Joe Biden\u2019s victory was halted.",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "Looking at this event, I need to identify what directly caused these three security officials to res",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "A,C",
+      "score": 0.5
+    },
+    {
+      "id": "q-11",
+      "event": "Authorities in Myanmar and Thailand declared a state of emergency.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "A,D",
+          "prediction": "A,D"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s) of authorities declaring a state of emergency in Myanmar and Thailan",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A,D",
+      "gold": "A,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-12",
+      "event": "Police, parliament, prosecutors, and the anti-corruption body launched separate ",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "C. Tens of thousands of protesters gathered outside the National Assembly in Seoul.",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s), I need to determine which option(s) would directly lead to treason ",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-13",
+      "event": "Elon Musk gained full command of the federal cost-cutting effort.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "A",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s), I need to determine which option(s) happened before Elon Musk gaine",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-14",
+      "event": "Northern Ireland and Scotland voted to remain in the EU.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "C. The United Kingdom held a referendum on June 23.",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s), I need to analyze which option(s) meet all three criteria for the e",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "C",
+      "score": 0.0
+    },
+    {
+      "id": "q-15",
+      "event": "The US Senate will likely vote on Wednesday on a bill to halt Trump\u2019s tariffs on",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "A, D",
+          "prediction": "A,D"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "Looking at this systematically:\n\nThe event is: \"The US Senate will likely vote on Wednesday on a bil",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A,D",
+      "gold": "A,C,D",
+      "score": 0.5
+    },
+    {
+      "id": "q-16",
+      "event": "Police, parliament, prosecutors, and the anti-corruption body launched separate ",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "B. President Yoon Suk Yeol declared martial law on December 3 and sent soldiers to parliament.",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s), I need to analyze which option(s) would logically and necessarily l",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "B",
+      "score": 0.0
+    },
+    {
+      "id": "q-17",
+      "event": "Musk allies took top positions in federal agencies.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "C. DOGE representatives spoke with staff at over a dozen federal agencies.",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "Looking at this systematically:\n\nThe event is \"Musk allies took top positions in federal agencies.\"\n",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "D",
+      "score": 0.0
+    },
+    {
+      "id": "q-18",
+      "event": "Mr. Musk stated DOGE participants will not be paid and requested they work 80-ho",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "B. Trump appointed Elon Musk and Vivek Ramaswamy as co-leaders of the Department of Government Effic",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s), I need to find what happened before Mr. Musk's statement about DOGE",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "B",
+      "score": 0.0
+    },
+    {
+      "id": "q-19",
+      "event": "The coronavirus pandemic halted the global economy.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "A. COVID-19 forced countries into lockdown.",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "Looking at this systematically:\n\n**Event**: The coronavirus pandemic halted the global economy.\n\nLet",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-20",
+      "event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "A",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "Looking at this systematically:\n\nThe event is: The D.C. National Guard was activated, and a citywide",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "A,B,C",
+      "score": 0.5
+    },
+    {
+      "id": "q-21",
+      "event": "David Cameron announced his resignation as Prime Minister.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "B. The UK voted to leave the EU in a June 23 referendum.",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "Looking at each option against the criteria for direct causation:\n\nA. The referendum date was set in",
+          "prediction": "B"
+        }
+      },
+      "final_pred": "A,B",
+      "gold": "B",
+      "score": 0.0
+    },
+    {
+      "id": "q-22",
+      "event": "Lockdowns obstructed agricultural flow, resulting in hiked food prices, food sho",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "A,D",
+          "prediction": "A,D"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "Looking at this systematically:\n\nThe event is: \"Lockdowns obstructed agricultural flow, resulting in",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A,D",
+      "gold": "A,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-23",
+      "event": "Trump was impeached for a second time on January 13th.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "A, D",
+          "prediction": "A,D"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s) of Trump's second impeachment on January 13th, I need to evaluate ea",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A,D",
+      "gold": "A,D",
+      "score": 1.0
+    },
+    {
+      "id": "q-24",
+      "event": "The FBI and ATF cleared the Capitol.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "B. Pipe bombs were reported at the Republican National Committee building and the Democratic Nationa",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s) of \"The FBI and ATF cleared the Capitol,\" I need to find what happen",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "A",
+      "score": 1.0
+    },
+    {
+      "id": "q-25",
+      "event": "Democrats won statewide offices in Arizona, North Carolina, Wisconsin, and Michi",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "B. None of the others are correct causes.",
+          "prediction": "B"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "Looking at this question, I need to identify what directly caused Democrats to win statewide offices",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A,B",
+      "gold": "B",
+      "score": 0.0
+    },
+    {
+      "id": "q-26",
+      "event": "By April 3, 2025, the death toll from the earthquake reached 4,390 in Myanmar, w",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "C",
+          "prediction": "C"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s), I need to find what directly led to the death toll and injuries by ",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A,C",
+      "gold": "C",
+      "score": 0.0
+    },
+    {
+      "id": "q-27",
+      "event": "The British pound plunged in value.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "B. The United Kingdom held a referendum on June 23.",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s) of the British pound plunging in value, I need to analyze each optio",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "B,D",
+      "score": 0.0
+    },
+    {
+      "id": "q-28",
+      "event": "The Capitol was secured, and lawmakers reconvened to continue certification.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "D",
+          "prediction": "D"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s), I need to determine which option(s) happened before the Capitol was",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A,D",
+      "gold": "D",
+      "score": 0.0
+    },
+    {
+      "id": "q-29",
+      "event": "The British pound plunged in value.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "B. The UK voted to leave the EU in a June 23 referendum.",
+          "prediction": "A"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s) of the British pound plunging in value, I need to evaluate each opti",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A",
+      "gold": "B,C",
+      "score": 0.0
+    },
+    {
+      "id": "q-30",
+      "event": "Northern Ireland and Scotland voted to remain in the EU.",
+      "model_responses": {
+        "gpt-4o": {
+          "response": "A, B, C",
+          "prediction": "A,B,C"
+        },
+        "claude-sonnet-4-20250514": {
+          "response": "To identify the direct cause(s), I need to analyze what directly led to Northern Ireland and Scotlan",
+          "prediction": "A"
+        }
+      },
+      "final_pred": "A,B,C",
+      "gold": "A",
+      "score": 0.0
+    }
+  ]
+}

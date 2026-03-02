@@ -1,0 +1,43 @@
+{
+  "incorrect_examples": [
+    {
+      "id": "q-2020",
+      "target_event": "President Yoon Suk Yeol vowed to carry out a thorough investigation.",
+      "prediction": "D",
+      "gold": "C",
+      "response": "D"
+    }
+  ],
+  "partial_examples": [
+    {
+      "id": "q-2023",
+      "target_event": "On November 24, 2018, \"yellow vest\" protestors blocked the Champs Elys\u00e9es in Paris, leading to confrontations.",
+      "prediction": "A",
+      "gold": "A,B,C",
+      "response": "A"
+    }
+  ],
+  "correct_examples": [
+    {
+      "id": "q-2021",
+      "target_event": "Twitter removed Trump's tweets and locked his account.",
+      "prediction": "C",
+      "gold": "C",
+      "response": "C"
+    },
+    {
+      "id": "q-2022",
+      "target_event": "President Donald Trump proposed tariffs on steel and aluminum.",
+      "prediction": "B",
+      "gold": "B",
+      "response": "B"
+    },
+    {
+      "id": "q-2024",
+      "target_event": "On November 26, 2018, the first trials for those arrested on November 24 took place.",
+      "prediction": "A,C",
+      "gold": "A,C",
+      "response": "A, C"
+    }
+  ]
+}

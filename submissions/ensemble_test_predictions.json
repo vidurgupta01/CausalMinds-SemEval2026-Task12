@@ -1,0 +1,4295 @@
+{
+  "models": [
+    "original_ft",
+    "augmented_ft",
+    "combined3ep_ft"
+  ],
+  "split": "test",
+  "avg_score": null,
+  "results": [
+    {
+      "id": "q-2420",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2421",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2422",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2423",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2424",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2425",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2426",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2427",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2428",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2429",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2430",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2431",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2432",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D"
+    },
+    {
+      "id": "q-2433",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2434",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2435",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2436",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2437",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D"
+    },
+    {
+      "id": "q-2438",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2439",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2440",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2441",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2442",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2443",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2444",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2445",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2446",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2447",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2448",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2449",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2450",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2451",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2452",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2453",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2454",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2455",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2456",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "B,C,D",
+      "pred_augmented_ft": "B,C,D",
+      "pred_combined3ep_ft": "B,C,D"
+    },
+    {
+      "id": "q-2457",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "B,C,D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "B,C,D"
+    },
+    {
+      "id": "q-2458",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2459",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2460",
+      "ensemble_pred": "A,B,C,D",
+      "pred_original_ft": "A,B,C,D",
+      "pred_augmented_ft": "A,B,C,D",
+      "pred_combined3ep_ft": "A,B,C,D"
+    },
+    {
+      "id": "q-2461",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2462",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2463",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2464",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2465",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2466",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2467",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2468",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2469",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2470",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2471",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2472",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2473",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2474",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2475",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2476",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2477",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2478",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2479",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2480",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2481",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2482",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2483",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2484",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2485",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2486",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2487",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2488",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2489",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2490",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2491",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "A,B,C,D"
+    },
+    {
+      "id": "q-2492",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2493",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2494",
+      "ensemble_pred": "C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2495",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2496",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2497",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2498",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2499",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2500",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2501",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2502",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C"
+    },
+    {
+      "id": "q-2503",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2504",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2505",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2506",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2507",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2508",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "B,C,D"
+    },
+    {
+      "id": "q-2509",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2510",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2511",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2512",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2513",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2514",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2515",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2516",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2517",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2518",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2519",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2520",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2521",
+      "ensemble_pred": "D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2522",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2523",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2524",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2525",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2526",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2527",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2528",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2529",
+      "ensemble_pred": "D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2530",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D"
+    },
+    {
+      "id": "q-2531",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2532",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2533",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2534",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2535",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2536",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2537",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2538",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2539",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2540",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2541",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2542",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2543",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2544",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2545",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2546",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2547",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2548",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2549",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2550",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2551",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D"
+    },
+    {
+      "id": "q-2552",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2553",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "A,B,D"
+    },
+    {
+      "id": "q-2554",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2555",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2556",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2557",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2558",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2559",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2560",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2561",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2562",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2563",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2564",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2565",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D"
+    },
+    {
+      "id": "q-2566",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2567",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2568",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2569",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D"
+    },
+    {
+      "id": "q-2570",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2571",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D"
+    },
+    {
+      "id": "q-2572",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2573",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D"
+    },
+    {
+      "id": "q-2574",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2575",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2576",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2577",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2578",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2579",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2580",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2581",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2582",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2583",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2584",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2585",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D"
+    },
+    {
+      "id": "q-2586",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2587",
+      "ensemble_pred": "A",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2588",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2589",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2590",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2591",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2592",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2593",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2594",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2595",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2596",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2597",
+      "ensemble_pred": "D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2598",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2599",
+      "ensemble_pred": "D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2600",
+      "ensemble_pred": "B",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2601",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2602",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2603",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2604",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C"
+    },
+    {
+      "id": "q-2605",
+      "ensemble_pred": "D",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2606",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2607",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2608",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2609",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2610",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,B,D"
+    },
+    {
+      "id": "q-2611",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2612",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D"
+    },
+    {
+      "id": "q-2613",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2614",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2615",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2616",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D"
+    },
+    {
+      "id": "q-2617",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2618",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2619",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2620",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2621",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2622",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "A,B,D"
+    },
+    {
+      "id": "q-2623",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2624",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2625",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2626",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2627",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2628",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2629",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2630",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D"
+    },
+    {
+      "id": "q-2631",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2632",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2633",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2634",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2635",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2636",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2637",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2638",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2639",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2640",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2641",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2642",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2643",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C,D",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2644",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2645",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2646",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2647",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2648",
+      "ensemble_pred": "D",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2649",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2650",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2651",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2652",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2653",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2654",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2655",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2656",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2657",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2658",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2659",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2660",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2661",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2662",
+      "ensemble_pred": "A",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2663",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2664",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2665",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2666",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2667",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2668",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2669",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2670",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2671",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2672",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2673",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "A,B,C,D"
+    },
+    {
+      "id": "q-2674",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2675",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2676",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2677",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2678",
+      "ensemble_pred": "D",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2679",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2680",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2681",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2682",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2683",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2684",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2685",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2686",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2687",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2688",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2689",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2690",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2691",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "A,B,C,D",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2692",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2693",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2694",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2695",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2696",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D"
+    },
+    {
+      "id": "q-2697",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2698",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2699",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2700",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2701",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2702",
+      "ensemble_pred": "D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2703",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2704",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2705",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2706",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2707",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2708",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2709",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2710",
+      "ensemble_pred": "D",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2711",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2712",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2713",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2714",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2715",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2716",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2717",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2718",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2719",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2720",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2721",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2722",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2723",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2724",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C,D"
+    },
+    {
+      "id": "q-2725",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2726",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2727",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2728",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2729",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2730",
+      "ensemble_pred": "D",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2731",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2732",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2733",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B,D"
+    },
+    {
+      "id": "q-2734",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2735",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2736",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2737",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2738",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2739",
+      "ensemble_pred": "D",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2740",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2741",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2742",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2743",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2744",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2745",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2746",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2747",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2748",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2749",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2750",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2751",
+      "ensemble_pred": "C",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2752",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2753",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2754",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2755",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2756",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2757",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2758",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C,D"
+    },
+    {
+      "id": "q-2759",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2760",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2761",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2762",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2763",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2764",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2765",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2766",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2767",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2768",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2769",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2770",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2771",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2772",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2773",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2774",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2775",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2776",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2777",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2778",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2779",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2780",
+      "ensemble_pred": "C,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2781",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2782",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2783",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2784",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2785",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2786",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2787",
+      "ensemble_pred": "D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2788",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2789",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2790",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2791",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "C,D"
+    },
+    {
+      "id": "q-2792",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2793",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "A,B,D"
+    },
+    {
+      "id": "q-2794",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2795",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "A,B,C,D",
+      "pred_augmented_ft": "B,C,D",
+      "pred_combined3ep_ft": "B,C,D"
+    },
+    {
+      "id": "q-2796",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2797",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2798",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2799",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2800",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2801",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2802",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2803",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2804",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2805",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2806",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2807",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2808",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2809",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2810",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2811",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2812",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2813",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2814",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2815",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2816",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2817",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2818",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2819",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2820",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2821",
+      "ensemble_pred": "B",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2822",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2823",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2824",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2825",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2826",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2827",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2828",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2829",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2830",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2831",
+      "ensemble_pred": "A,C,D",
+      "pred_original_ft": "A,C,D",
+      "pred_augmented_ft": "A,C,D",
+      "pred_combined3ep_ft": "A,C,D"
+    },
+    {
+      "id": "q-2832",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2833",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2834",
+      "ensemble_pred": "C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2835",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2836",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2837",
+      "ensemble_pred": "C",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2838",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2839",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2840",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2841",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2842",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2843",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2844",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2845",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "B,C,D",
+      "pred_augmented_ft": "B,C,D",
+      "pred_combined3ep_ft": "B,C,D"
+    },
+    {
+      "id": "q-2846",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2847",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,B,D"
+    },
+    {
+      "id": "q-2848",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2849",
+      "ensemble_pred": "D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2850",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2851",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2852",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2853",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2854",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2855",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2856",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2857",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2858",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2859",
+      "ensemble_pred": "D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2860",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2861",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2862",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2863",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2864",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2865",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2866",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2867",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2868",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2869",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2870",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2871",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2872",
+      "ensemble_pred": "D",
+      "pred_original_ft": "C,D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2873",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2874",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2875",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2876",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2877",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2878",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2879",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2880",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2881",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2882",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2883",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2884",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2885",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2886",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2887",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2888",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2889",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2890",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2891",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D"
+    },
+    {
+      "id": "q-2892",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C,D",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2893",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2894",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2895",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2896",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2897",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2898",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2899",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2900",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2901",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2902",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2903",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2904",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2905",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2906",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2907",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2908",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2909",
+      "ensemble_pred": "B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2910",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2911",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2912",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2913",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2914",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2915",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2916",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2917",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2918",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2919",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2920",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2921",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2922",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D"
+    },
+    {
+      "id": "q-2923",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2924",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2925",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-2926",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2927",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2928",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2929",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2930",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2931",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2932",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C,D"
+    },
+    {
+      "id": "q-2933",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2934",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2935",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B,D"
+    },
+    {
+      "id": "q-2936",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2937",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2938",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2939",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2940",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2941",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2942",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2943",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2944",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2945",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2946",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2947",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2948",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2949",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2950",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2951",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2952",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2953",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2954",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2955",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2956",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2957",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2958",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2959",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2960",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2961",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2962",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2963",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2964",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2965",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2966",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2967",
+      "ensemble_pred": "B,C,D",
+      "pred_original_ft": "A,B,C,D",
+      "pred_augmented_ft": "B,C,D",
+      "pred_combined3ep_ft": "B,C,D"
+    },
+    {
+      "id": "q-2968",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2969",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2970",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A,D"
+    },
+    {
+      "id": "q-2971",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2972",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-2973",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2974",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2975",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2976",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2977",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "B,C",
+      "pred_augmented_ft": "B,C",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-2978",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2979",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2980",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "A,B"
+    },
+    {
+      "id": "q-2981",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2982",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2983",
+      "ensemble_pred": "A,B,C",
+      "pred_original_ft": "A,B,C",
+      "pred_augmented_ft": "A,B,C",
+      "pred_combined3ep_ft": "A,B,C"
+    },
+    {
+      "id": "q-2984",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2985",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2986",
+      "ensemble_pred": "D",
+      "pred_original_ft": "A,B,D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2987",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2988",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2989",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2990",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2991",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2992",
+      "ensemble_pred": "C",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2993",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2994",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-2995",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-2996",
+      "ensemble_pred": "A,B,D",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B,D",
+      "pred_combined3ep_ft": "A,B,D"
+    },
+    {
+      "id": "q-2997",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-2998",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-2999",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-3000",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-3001",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-3002",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-3003",
+      "ensemble_pred": "C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-3004",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-3005",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-3006",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-3007",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-3008",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-3009",
+      "ensemble_pred": "B,C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-3010",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-3011",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-3012",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-3013",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B,D",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B,C"
+    },
+    {
+      "id": "q-3014",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-3015",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-3016",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-3017",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-3018",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-3019",
+      "ensemble_pred": "A,C",
+      "pred_original_ft": "A,C",
+      "pred_augmented_ft": "A,C",
+      "pred_combined3ep_ft": "A,C"
+    },
+    {
+      "id": "q-3020",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-3021",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-3022",
+      "ensemble_pred": "C",
+      "pred_original_ft": "C",
+      "pred_augmented_ft": "C",
+      "pred_combined3ep_ft": "C"
+    },
+    {
+      "id": "q-3023",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-3024",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-3025",
+      "ensemble_pred": "A",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-3026",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-3027",
+      "ensemble_pred": "A,B",
+      "pred_original_ft": "A,B",
+      "pred_augmented_ft": "A,B",
+      "pred_combined3ep_ft": "A"
+    },
+    {
+      "id": "q-3028",
+      "ensemble_pred": "B",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B",
+      "pred_combined3ep_ft": "B"
+    },
+    {
+      "id": "q-3029",
+      "ensemble_pred": "D",
+      "pred_original_ft": "D",
+      "pred_augmented_ft": "D",
+      "pred_combined3ep_ft": "D"
+    },
+    {
+      "id": "q-3030",
+      "ensemble_pred": "B,D",
+      "pred_original_ft": "B",
+      "pred_augmented_ft": "B,D",
+      "pred_combined3ep_ft": "B,D"
+    },
+    {
+      "id": "q-3031",
+      "ensemble_pred": "A,D",
+      "pred_original_ft": "A,D",
+      "pred_augmented_ft": "A,D",
+      "pred_combined3ep_ft": "A,D"
+    }
+  ]
+}

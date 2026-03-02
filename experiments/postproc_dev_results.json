@@ -1,0 +1,170 @@
+{
+  "baseline_avg": 0.97625,
+  "postproc_avg": 0.97,
+  "changes": [
+    {
+      "id": "q-2084",
+      "event": "Lawmakers voted down the martial law decree.",
+      "gold": [
+        "A"
+      ],
+      "baseline": [
+        "A"
+      ],
+      "postproc": [
+        "C",
+        "A"
+      ],
+      "baseline_score": 1.0,
+      "postproc_score": 0.5,
+      "improved": false
+    },
+    {
+      "id": "q-2108",
+      "event": "Lawmakers voted down the martial law decree.",
+      "gold": [
+        "B"
+      ],
+      "baseline": [
+        "B"
+      ],
+      "postproc": [
+        "B",
+        "A"
+      ],
+      "baseline_score": 1.0,
+      "postproc_score": 0.5,
+      "improved": false
+    },
+    {
+      "id": "q-2140",
+      "event": "The FBI and ATF cleared the Capitol.",
+      "gold": [
+        "D",
+        "B"
+      ],
+      "baseline": [
+        "D"
+      ],
+      "postproc": [
+        "D",
+        "B"
+      ],
+      "baseline_score": 0.5,
+      "postproc_score": 1.0,
+      "improved": true
+    },
+    {
+      "id": "q-2231",
+      "event": "The FBI and ATF cleared the Capitol.",
+      "gold": [
+        "C",
+        "A"
+      ],
+      "baseline": [
+        "C"
+      ],
+      "postproc": [
+        "C",
+        "A"
+      ],
+      "baseline_score": 0.5,
+      "postproc_score": 1.0,
+      "improved": true
+    },
+    {
+      "id": "q-2291",
+      "event": "Prime Minister Han Duck-soo became acting president.",
+      "gold": [
+        "C"
+      ],
+      "baseline": [
+        "C"
+      ],
+      "postproc": [
+        "C",
+        "A"
+      ],
+      "baseline_score": 1.0,
+      "postproc_score": 0.5,
+      "improved": false
+    },
+    {
+      "id": "q-2310",
+      "event": "Police, parliament, prosecutors, and the anti-corruption body launched separate ",
+      "gold": [
+        "B"
+      ],
+      "baseline": [
+        "B"
+      ],
+      "postproc": [
+        "B",
+        "C"
+      ],
+      "baseline_score": 1.0,
+      "postproc_score": 0.5,
+      "improved": false
+    },
+    {
+      "id": "q-2319",
+      "event": "Prime Minister Han Duck-soo became acting president.",
+      "gold": [
+        "B"
+      ],
+      "baseline": [
+        "B"
+      ],
+      "postproc": [
+        "B",
+        "C"
+      ],
+      "baseline_score": 1.0,
+      "postproc_score": 0.5,
+      "improved": false
+    },
+    {
+      "id": "q-2376",
+      "event": "Trump was impeached for a second time on January 13th.",
+      "gold": [
+        "D",
+        "C",
+        "A"
+      ],
+      "baseline": [
+        "D",
+        "C",
+        "A"
+      ],
+      "postproc": [
+        "D",
+        "B",
+        "C",
+        "A"
+      ],
+      "baseline_score": 1.0,
+      "postproc_score": 0.5,
+      "improved": false
+    },
+    {
+      "id": "q-2386",
+      "event": "South Korea\u2019s parliament voted to impeach President Yoon Suk Yeol.",
+      "gold": [
+        "D",
+        "C"
+      ],
+      "baseline": [
+        "D",
+        "C"
+      ],
+      "postproc": [
+        "D",
+        "C",
+        "A"
+      ],
+      "baseline_score": 1.0,
+      "postproc_score": 0.5,
+      "improved": false
+    }
+  ]
+}
