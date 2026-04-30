@@ -83,14 +83,30 @@ See `experiments/EXPERIMENT_LOG.md` for detailed notes on all 23 experiments.
 ## Citation
 
 ```bibtex
-@misc{gupta2026causalminds,
-    title = "CausalMinds at SemEval-2026 Task 12: Fine-tuning with Data Augmentation for Abductive Event Reasoning",
-    author = "Vidur Gupta and Xiaofei and Jason",
+@inproceedings{gupta2026causalminds,
+    title = "CausalMinds at SemEval-2026 Task 12: Simple Fine-Tuning with Option Shuffling Outperforms Complex Pipelines for Abductive Event Reasoning",
+    author = "Gupta, Vidur and Zhao, Xiaofei and Shaye, Jason",
+    booktitle = "Proceedings of the 20th International Workshop on Semantic Evaluation (SemEval-2026)",
+    month = jul,
     year = "2026",
-    url = "https://github.com/vidurgupta01/CausalMinds-SemEval2026-Task12",
+    address = "San Diego, United States",
+    publisher = "Association for Computational Linguistics"
+}
+```
+
+The SemEval-2026 proceedings:
+
+```bibtex
+@proceedings{semeval-ws-2026-1,
+    title = "Proceedings of the 20th International Workshop on Semantic Evaluation (SemEval-2026)",
+    editor = "Ghosh, Debanjan and North, Kai and Kochmar, Ekaterina and Komachi, Mamoru and Zampieri, Marcos",
+    month = jul,
+    year = "2026",
+    address = "San Diego, United States",
+    publisher = "Association for Computational Linguistics"
 }
 ```
 
 ## Team
 
-Vidur, Xiaofei, Jason -- Stanford University
+Vidur Gupta, Xiaofei Zhao, Jason Shaye -- Stanford University
